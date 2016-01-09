@@ -1,0 +1,94 @@
+body {
+    font-family: "Helvetica";
+	background-image: url("img/background.png");
+    background-repeat: no-repeat;
+    /*background-position: right top;*/
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: #555;
+}
+
+/* Placement global */
+#dashboard {
+    width: 800px;
+    margin: 0 auto;
+}
+
+/* pour affichage < 800px de large */
+@media screen and (max-width: 800px) {
+    #dashboard {
+        width: 100%;
+    }
+}
+
+/* map */
+#worldMap {
+	background-color : #FFFFFF;
+	position: relative; 
+	width: 750px; 
+	height: 500px;
+}
+
+.datamaps-legend {
+  position: static;
+  background-color : #FFFFFF;
+  margin-bottom :15px;
+  width: 750px; 
+  height: 20px;
+}
+
+.datamaps-legend dl {
+  text-align: center;
+  display: inline-block;
+}
+
+/* Centrage des div conteneurs */
+#tab, #columnChart, #barChart {
+    text-align: center;
+}
+
+
+/* pour pieChart */
+#pieChart {
+  background-color : #FFFFFF;
+  margin-bottom :15px;
+  width: 750px; 
+  height: 400px;
+  display: block:
+}
+
+.arc path {
+    opacity: 0.8;
+}
+.arc path:hover {
+    stroke-width: 2px;
+    stroke: gray;
+    opacity: 1;
+}
+
+.legend {
+	font-size: 12px;
+}                                                          
+legend.rect {
+	stroke-width: 2;
+}
+
+/* barChart */
+.domain {
+    stroke-width: 2px;
+    fill: none;
+    stroke: black;
+    z-index: 9999;
+}
+
+rect {
+    opacity: 0.8;
+}
+rect:hover {
+    opacity: 1;
+    stroke-width: 2px;
+    stroke: gray;
+}

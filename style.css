@@ -144,6 +144,7 @@ legend.rect {
 }
 
 .bar {
-    background-color: orange;
-    color: #111;
+    background-color: dodgerblue;
+    border: 1px solid darkblue;
+    margin-top : 1px;
 }

@@ -4,8 +4,8 @@ function creationPie(donnees, paysVoulu){
 	var pieChart = d3.select("#pieChart");
     pieChart.html("");
 	
-	var w = 400;
-	var h = 200;
+	var w = 700;
+	var h = 370;
 	var r = h/2;
 	var color = d3.scale.category20c();
 	var legendRectSize = 18;
@@ -69,12 +69,12 @@ function creationPie(donnees, paysVoulu){
         legend.append('rect')    
           .attr('width', legendRectSize)           
           .attr('height', legendRectSize)
-          .attr('x', legendRectSize + legendSpacing+ 150)
+          .attr('x', legendRectSize + legendSpacing+ 250)
           .style('fill', color)                 
           .style('stroke', color);
           
         legend.append('text') 
-          .attr('x', legendRectSize*2 + legendSpacing+ 150)
+          .attr('x', legendRectSize*2 + legendSpacing+ 250)
           .attr('y', legendRectSize - legendSpacing) 
           .text(function(d, i) {return data[i].label;}); 
 }

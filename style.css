@@ -46,25 +46,25 @@ h1 {
 }
  
 @media screen and (min-width: 600px) {
-  .nav li {
-    width: 120px;
-    border-bottom: none;
-    height: 50px;
-    line-height: 50px;
-    font-size: 1.4em;
-  }
- 
-  .nav li {
-    display: inline-block;
-    margin-right: -4px;
-  }
+    .nav li {
+        width: 120px;
+        border-bottom: none;
+        height: 50px;
+        line-height: 50px;
+        font-size: 1.4em;
+    }
 
-/* Placement global */
-#dashboard {
-    width: 80%;
-    margin: 0 auto;
+    .nav li {
+        display: inline-block;
+        margin-right: -4px;
+    }
+
+    /* Placement global */
+    #dashboard {
+        width: 80%;
+        margin: 0 auto;
+    }
 }
-
 /* pour affichage < 800px de large */
 @media screen and (max-width: 800px) {
     #dashboard {
@@ -137,7 +137,13 @@ h1 {
 
 .legend {
 	font-size: 12px;
-}                                                          
+}
+
 legend.rect {
 	stroke-width: 2;
+}
+
+.bar {
+    background-color: orange;
+    color: #111;
 }

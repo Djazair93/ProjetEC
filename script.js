@@ -80,7 +80,28 @@ function creationPie(donnees, paysVoulu){
 }
 
 function creationBarChart(donnees, paysVoulu){
-	
+
+    var barH = d3.select("#barH");
+    barH.html("");
+
+    var data = [];
+    jQuery.each(donnees, function( k, v ) {
+        if(v.id === paysVoulu){
+            var clubs = v.clubs;
+            jQuery.each(clubs, function( k, v ) {
+                data.push({"club" : v.club, "nbJoueurs" : v.nbJoueurs});
+            });
+        }
+
+    });
+    barH.append("div").attr("id", "graph");
+    barH.selectAll("div")
+        .data(data)
+        .enter().append("div")
+        .html(function (v, i) { return data[i].club + ":" + data[i].nbJoueurs;})
+        .classed({"bar": true})
+        .style("width", function (v, i) { return (data[i].nbJoueurs * 50) + "px"; })
+        .style("height", "2em");
 }
 
 function attributionCouleur(data){
@@ -164,6 +185,7 @@ function creationWorldMap(donnees) {
 				countries[paysId] = "#F7CA18";
 				datamap.updateChoropleth(countries);
 				creationPie(donnees, paysId);
+                creationBarChart(donnees, paysId);
 			});
         }
 	});

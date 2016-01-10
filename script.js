@@ -4,18 +4,18 @@ function creationPie(donnees, paysVoulu){
 	var pieChart = d3.select("#pieChart");
     pieChart.html("");
 	
-	var w = 200;
+	var w = 400;
 	var h = 200;
 	var r = h/2;
 	var color = d3.scale.category20c();
-	var legendRectSize = 18;   
-    var legendSpacing = 4;  
+	var legendRectSize = 18;
+    var legendSpacing = 4;
 
 	var data = [];
 	jQuery.each(donnees, function( k, v ) {
 		if(v.id === paysVoulu){
 			var nbjrhors = v.horsChamp, nbjr = v.champNat;
-			data.push({label : "Championnat nationale", value : nbjr});
+			data.push({label : "Championnat national", value : nbjr});
 			data.push({label : "Autres championnats", value : nbjrhors});
 		}
 		
@@ -68,12 +68,13 @@ function creationPie(donnees, paysVoulu){
 
         legend.append('rect')    
           .attr('width', legendRectSize)           
-          .attr('height', legendRectSize)       
+          .attr('height', legendRectSize)
+          .attr('x', legendRectSize + legendSpacing+ 150)
           .style('fill', color)                 
-          .style('stroke', color);           
+          .style('stroke', color);
           
         legend.append('text') 
-          .attr('x', legendRectSize + legendSpacing)
+          .attr('x', legendRectSize*2 + legendSpacing+ 150)
           .attr('y', legendRectSize - legendSpacing) 
           .text(function(d, i) {return data[i].label;}); 
 }

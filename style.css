@@ -157,3 +157,9 @@ legend.rect {
 	border-color: #6BB9F0;
 	background-color : #C8F7C5;
 }
+
+.bar {
+    background-color: dodgerblue;
+    border: 1px solid darkblue;
+    margin-top : 1px;
+}

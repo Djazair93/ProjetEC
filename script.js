@@ -4,7 +4,7 @@ function creationPie(donnees, paysVoulu){
 	var pieChart = d3.select("#pieChart");
     pieChart.html("");
 	
-	var w = 700;
+	var w = 550;
 	var h = 370;
 	var r = h/2;
 	var color = d3.scale.category20c();

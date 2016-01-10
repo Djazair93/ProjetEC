@@ -4,7 +4,7 @@ body {
     background-repeat: no-repeat;
 	background-position:center center;
     /*background-position: right top;*/
-    /*background-attachment: fixed;*/
+    background-attachment: fixed;
 }
 
 h1 {
@@ -109,21 +109,23 @@ h1 {
   display: inline-block;
 }
 
-/* Centrage des div conteneurs */
-#tab, #columnChart, #barChart {
-    text-align: center;
+/* pour piechart et barH */
+#graphiqueStats{
+	width:100%;
+    height: 100%;
+	display:inline-block;
 }
-
 
 /* pour pieChart */
 #pieChart {
-  margin :15px;
-  padding : 10px;
-  width: 750px; 
-  height: 400px;
-  border-radius: 10px;
-  border-color: #6BB9F0;
-  background-color : #C8F7C5;
+	float:left;
+	padding : 10px;
+	display:inline-block;
+	width: 45%; 
+	height: 100%;
+	border-radius: 10px;
+	border-color: #6BB9F0;
+	background-color : #C8F7C5;
 }
 
 .arc path {
@@ -143,8 +145,15 @@ legend.rect {
 	stroke-width: 2;
 }
 
-.bar {
-    background-color: dodgerblue;
-    border: 1px solid darkblue;
-    margin-top : 1px;
+/* pour barH */
+#barH {
+	float:left;
+	margin : 5px;
+	padding : 10px;
+	display:inline-block;
+	width: 45%; 
+	height: 100%;
+	border-radius: 10px;
+	border-color: #6BB9F0;
+	background-color : #C8F7C5;
 }

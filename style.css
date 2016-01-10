@@ -25,19 +25,27 @@ h1 {
         width: 100%;
     }
 }
-
 /* map */
+
+#graphiqueMonde {
+	overflow:hidden;
+}
+
 #worldMap {
-	position: relative; 
+	margin-left: auto;
+	margin-right: auto;
 	width: 750px; 
 	height: 500px;
 }
 
 .datamaps-legend {
-  position: static;
-  margin-bottom :15px;
-  width: 700px; 
-  height: 20px;
+	position: static;
+	float:right;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom :15px;
+	width: 700px; 
+	height: 20px;
 }
 
 .datamaps-legend dl {
@@ -54,9 +62,10 @@ h1 {
 /* pour pieChart */
 #pieChart {
   margin-bottom :15px;
+  margin-left: auto;
+  margin-right: auto;
   width: 750px; 
   height: 400px;
-  display: block:
 }
 
 .arc path {
@@ -73,21 +82,4 @@ h1 {
 }                                                          
 legend.rect {
 	stroke-width: 2;
-}
-
-/* barChart */
-.domain {
-    stroke-width: 2px;
-    fill: none;
-    stroke: black;
-    z-index: 9999;
-}
-
-rect {
-    opacity: 0.8;
-}
-rect:hover {
-    opacity: 1;
-    stroke-width: 2px;
-    stroke: gray;
 }

@@ -30,12 +30,13 @@ h1, h2, h3 {
  
 .nav a {
   text-decoration: none;
-  color: #ffffff;
+  color: #555;
   display: block;
   transition: .3s background-color;
 }
  
 .nav a:hover {
+	color: #ffffff;
   background-color: #005f5f;
 }
  
@@ -178,9 +179,9 @@ legend.rect {
 }
 
 #barH label {
-    color : midnightblue;
+    color : #555;
     font-size : 12px;
     display : inline-block;
     width : 30%;
-    font-style : italic;
+    font-style : bold;
 }

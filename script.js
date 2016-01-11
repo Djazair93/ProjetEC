@@ -83,7 +83,7 @@ function creationBarChart(donnees, paysVoulu){
     var barH = d3.select("#barH");
     barH.html("");
 
-    var data = [];
+    var data = [{}];
     jQuery.each(donnees, function( k, v ) {
         if(v.id === paysVoulu){
             var clubs = v.clubs;

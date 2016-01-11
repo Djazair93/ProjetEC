@@ -167,4 +167,6 @@ legend.rect {
     text-align : right;
     font-weight : bold;
     display : inline-block;
+    line-height:2em;
+    padding: 2px;
 }

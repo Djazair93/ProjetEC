@@ -3,6 +3,8 @@ function creationPie(donnees, paysVoulu){
 	
 	var pieChart = d3.select("#pieChart");
     pieChart.html("");
+    pieChart.append("h1")
+        .html("Répartition des joueurs");
 	
 	var w = 575;
 	var h = 370;
@@ -95,7 +97,8 @@ function creationBarChart(donnees, paysVoulu){
 
     });
     barH.append("div").attr("id", "graph");
-    var graph = barH.selectAll("div")
+    var graph = barH.selectAll("div").append("h1")
+        .html("Liste des clubs représentés")
         .data(data)
         .enter();
     graph.append("div")

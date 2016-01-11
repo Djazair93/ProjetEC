@@ -95,12 +95,15 @@ function creationBarChart(donnees, paysVoulu){
 
     });
     barH.append("div").attr("id", "graph");
-    barH.selectAll("div")
+    var graph = barH.selectAll("div")
         .data(data)
-        .enter().append("div")
-        .html(function (v, i) { return data[i].club + ":" + data[i].nbJoueurs;})
+        .enter();
+    graph.append("div")
+        .html(function (v, i) { return data[i].club})
+        .append("div")
+        .html(function (v, i) { return data[i].nbJoueurs;})
         .classed({"bar": true})
-        .style("width", function (v, i) { return (data[i].nbJoueurs * 50) + "px"; })
+        .style("width", function (v, i) { return (data[i].nbJoueurs * 20) + "px"; })
         .style("height", "2em");
 }
 

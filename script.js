@@ -71,13 +71,14 @@ function creationPie(donnees, paysVoulu){
         legend.append('rect')    
           .attr('width', legendRectSize)           
           .attr('height', legendRectSize)
-          .attr('x', legendRectSize + legendSpacing+ 250)
-          .style('fill', color)                 
+          .attr('x', legendRectSize + legendSpacing+ 148)
+          .attr('y', legendRectSize - legendSpacing-165)
+          .style('fill', color)
           .style('stroke', color);
           
         legend.append('text') 
-          .attr('x', legendRectSize*2 + legendSpacing+ 250)
-          .attr('y', legendRectSize - legendSpacing) 
+          .attr('x', legendRectSize*2 + legendSpacing+ 150)
+          .attr('y', legendRectSize - legendSpacing-150)
           .text(function(d, i) {return data[i].label;}); 
 }
 

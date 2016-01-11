@@ -102,12 +102,22 @@ function creationBarChart(donnees, paysVoulu){
         .data(data)
         .enter();
     graph.append("div")
-        .html(function (v, i) { return data[i].club})
+        .html(function (v, i) { return "<label>"+data[i].club+"</label>"})
         .append("div")
         .html(function (v, i) { return data[i].nbJoueurs;})
         .classed({"bar": true})
-        .style("width", function (v, i) { return (data[i].nbJoueurs * 20) + "px"; })
+        .style("width", function (v, i) { return (data[i].nbJoueurs * (68/getMax(data))) + "%"; })
         .style("height", "2em");
+}
+
+function getMax(data) {
+    var max = 0;
+    for (var i = 0; i<data.length; i++) {
+        if(data[i].nbJoueurs>max){
+            max = data[i].nbJoueurs;
+        }
+    }
+    return max;
 }
 
 function attributionCouleur(data){

@@ -160,7 +160,7 @@ legend.rect {
 
 .bar {
     background-color: dodgerblue;
-    border: 1px solid darkblue;
+    border: 1px solid midnightblue;
     margin-top : 1px;
     color : white;
     font-size : 16px;
@@ -169,4 +169,16 @@ legend.rect {
     display : inline-block;
     line-height:2em;
     padding: 2px;
+}
+
+.bar:hover {
+    background-color: midnightblue;
+}
+
+#barH label {
+    color : midnightblue;
+    font-size : 12px;
+    display : inline-block;
+    width : 30%;
+    font-style : italic;
 }

@@ -3,7 +3,7 @@ function creationPie(donnees, paysVoulu){
 	
 	var pieChart = d3.select("#pieChart");
     pieChart.html("");
-    pieChart.append("h1")
+    pieChart.append("h2")
         .html("Répartition des joueurs");
 	
 	var w = 575;
@@ -32,18 +32,14 @@ function creationPie(donnees, paysVoulu){
 	.attr("transform", "translate(" + r + "," + r + ")");
 	var pie = d3.layout.pie().value(function(d){return d.value;});
 
-	// declare an arc generator function
 	var arc = d3.svg.arc().outerRadius(r);
 
-	// select paths, use arc generator to draw
 	var arcs = vis.selectAll("g.slice").data(pie).enter().append("svg:g").attr("class", "slice");
 	arcs.append("svg:path")
 		.attr("fill", function(d, i){
 			return color(i);
 		})
 		.attr("d", function (d) {
-			// log the result of the arc generator to show how cool it is :)
-			console.log(arc(d));
 			return arc(d);
 		});
 
@@ -87,23 +83,23 @@ function creationBarChart(donnees, paysVoulu){
     var barH = d3.select("#barH");
     barH.html("");
 
-    var data = [];
+    var data = [{}];
     jQuery.each(donnees, function( k, v ) {
         if(v.id === paysVoulu){
             var clubs = v.clubs;
-            jQuery.each(clubs, function( k, v ) {
-                data.push({"club" : v.club, "nbJoueurs" : v.nbJoueurs});
+            jQuery.each(clubs, function( key, value ) {
+                data.push({"club" : value.club, "nbJoueurs" : value.nbJoueurs});
             });
         }
 
     });
-    console.dir(data);
+	
     barH.append("div").attr("id", "graph");
-    var graph = barH.selectAll("div").append("h1")
+    var graph = barH.selectAll("div").append("h2")
         .html("Liste des clubs représentés")
         .data(data)
-        .enter();
-    graph.append("div")
+        .enter()
+		.append("div")
         .html(function (v, i) { return "<label>"+data[i].club+"</label>"})
         .append("div")
         .html(function (v, i) { return data[i].nbJoueurs;})
@@ -197,7 +193,6 @@ function creationWorldMap(donnees) {
 				datamap.svg.selectAll("g").attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 			}
 			datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
-				var paysSelect = geography.properties.name;
 				var paysId = geography.id;
 				var countries = attributionCouleur(donnees);
 				countries[paysId] = "#F7CA18";

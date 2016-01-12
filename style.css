@@ -7,7 +7,7 @@ body {
     background-attachment: fixed;
 }
 
-h1 {
+h1, h2, h3 {
     text-align: center;
     color: #555;
 }
@@ -30,12 +30,13 @@ h1 {
  
 .nav a {
   text-decoration: none;
-  color: #ffffff;
+  color: #555;
   display: block;
   transition: .3s background-color;
 }
  
 .nav a:hover {
+	color: #ffffff;
   background-color: #005f5f;
 }
  
@@ -159,26 +160,28 @@ legend.rect {
 }
 
 .bar {
-    background-color: dodgerblue;
-    border: 1px solid midnightblue;
-    margin-top : 1px;
+    background-color: #59ABE3;
+    /*border: 1px solid midnightblue;*/
+    margin-top : 2px;
     color : white;
     font-size : 16px;
     text-align : right;
     font-weight : bold;
     display : inline-block;
     line-height:2em;
-    padding: 2px;
+    padding: 3px;
+	border-radius: 2px;
+	border-color: #6BB9F0;
 }
 
 .bar:hover {
-    background-color: midnightblue;
+    background-color: #4183D7;
 }
 
 #barH label {
-    color : midnightblue;
+    color : #555;
     font-size : 12px;
     display : inline-block;
     width : 30%;
-    font-style : italic;
+    font-style : bold;
 }

@@ -97,6 +97,7 @@ function creationBarChart(donnees, paysVoulu){
         }
 
     });
+    console.dir(data);
     barH.append("div").attr("id", "graph");
     var graph = barH.selectAll("div").append("h1")
         .html("Liste des clubs représentés")
@@ -107,7 +108,7 @@ function creationBarChart(donnees, paysVoulu){
         .append("div")
         .html(function (v, i) { return data[i].nbJoueurs;})
         .classed({"bar": true})
-        .style("width", function (v, i) { return (data[i].nbJoueurs * (68/getMax(data))) + "%"; })
+        .style("width", function (v, i) { return (data[i].nbJoueurs * (65/getMax(data))) + "%"; })
         .style("height", "2em");
 }
 

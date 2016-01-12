@@ -185,3 +185,9 @@ legend.rect {
     width : 30%;
     font-style : bold;
 }
+
+.hoverinfo {
+    position : relative;
+    left : 200px;
+    top : 200px;
+}

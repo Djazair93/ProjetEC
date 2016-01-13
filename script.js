@@ -205,7 +205,7 @@ function creationWorldMap(donnees) {
 			borderWidth: 0.2,
 			highlightOnHover: true,
 			highlightFillColor: '#8E44AD',
-			highlightBorderColor: '#BE90D4',
+			highlightBorderColor: '#674172',
 			highlightBorderWidth: 1,
             popupTemplate: function(geo, data) {
                 return ['<div class="hoverinfo"><strong>',

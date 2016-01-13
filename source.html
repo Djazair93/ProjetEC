@@ -2,46 +2,35 @@
 <html>
 <head>
     <meta charset="utf-8">
-
-    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
-	
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
-
-    <link rel="stylesheet" href="style.css">
-    
-	<script src="script.js"></script>
-	
-	<script src="datamaps.world.min.js"></script>
-	
+	<link rel="stylesheet" href="style.css">
 </head>
-<body onload="go();">
-   
-  <h1>FIFA World Cup 2014 - Analyse des équipes</h1>
+<body>
   
-  <header>
+   <div id="header">
+          <img class="logo" src = "img/header.png"/>
+          <h1>Analyse des équipes</h1>
+      </div>
     <div class="nav">
       <ul>
         <li class="home"><a href="index.html">Home</a></li>
         <li class="source"><a href="source.html">Source</a></li>
       </ul>
     </div>
-  </header>
   
-  <div id = "dashboard">
-      <div id="graphiqueMonde">
+  <div id ="dashboard">
+      <div id="source">
           <h3>Remerciements</h3>
+		  
+		  <p>Ce projet a été réalisé dans le cadre de l'enseignement de Webreporting de FX Jollois pour la promotion 2015-2016 de M1 MIAGE à l'Université Paris Descartes.</p>
           <a href="http://fxjollois.github.io/webreporting.html">http://fxjollois.github.io/webreporting.html</a>
-          <p>Ce projet a été réalisé dans le cadre de l'enseignement de Webreporting de FX Jollois pour la promotion 2015-2016 de M1 MIAGE à l'Université Paris Descartes.</p>
-
           <a href="http://d3js.org/">http://d3js.org/</a><br />
           <a href="https://jquery.com/">https://jquery.com/</a><br />
           <a href="http://datamaps.github.io/">http://datamaps.github.io/</a><br />
-          <p>Notre site repose sur les librairies javascript d3, jQuery et sur le plugin DataMaps.</p>
-          <a href="http://footballpool.dataaccess.eu/">http://footballpool.dataaccess.eu/</a>
-		  <a href="https://docs.google.com/spreadsheets/d/1OpGj0uAU8Dg2hZKhfe_BercUzv7ncrRXtAJ4ZAzvcoE/edit#gid=1744746874">https://docs.google.com/spreadsheets/d/1OpGj0uAU8Dg2hZKhfe_BercUzv7ncrRXtAJ4ZAzvcoE/edit#gid=1744746874 </a>
+          <p>Ce site utilise les librairies javascript d3, jQuery et le plugin DataMaps.</p>
+          
           <p>Nos données proviennent du site footballpool et d'un doc Google Sheet. Elles sont accessibles <a href="DataGraph.json">ici</a> et <a href="teamsInfo.json">ici</a>.</p>
+		  <a href="http://footballpool.dataaccess.eu/">http://footballpool.dataaccess.eu/</a>
+		  <a href="https://docs.google.com/spreadsheets/d/1OpGj0uAU8Dg2hZKhfe_BercUzv7ncrRXtAJ4ZAzvcoE/edit#gid=1744746874">https://docs.google.com/spreadsheets/d/1OpGj0uAU8Dg2hZKhfe_BercUzv7ncrRXtAJ4ZAzvcoE/edit#gid=1744746874 </a>
 		  
       </div>
   </div>

@@ -193,6 +193,16 @@ legend.rect {
 	border-color: #6BB9F0;
 }
 
+.logo {
+    width : 150px;
+    display : block;
+    margin : auto;
+}
+
+#header {
+    margin-bottom : -20px;
+}
+
 .bar:hover {
     background-color: #4183D7;
 }

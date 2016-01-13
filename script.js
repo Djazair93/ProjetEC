@@ -192,12 +192,12 @@ function creationWorldMap(donnees) {
 		element: document.getElementById('worldMap'),
 		projection: 'mercator',
 		fills: {
-			"Plus de 20": '#CA6924',
-			"Moins de 20": '#F9690E',
-            "Moins de 15": '#FFA631',
-            "Moins de 10": '#FFB61E',
-            "Moins de 5": '#F4D03F',
-			"Aucun": '#F5D76E',
+			"Plus de 20": '#D91E18',
+			"Moins de 20": '#FF3300',
+            "Moins de 15": '#FF6600',
+            "Moins de 10": '#FF9900',
+            "Moins de 5": '#FFCC00',
+			"Aucun": '#FFFF33',
             defaultFill: '#DADFE1'
         },
 		data: attributionCouleur(donnees),
@@ -242,7 +242,7 @@ function creationTeamInfos(paysName) {
 	
 	var contentEquipe = d3.select("#contentEquipe");
     contentEquipe.html("");
-    contentEquipe.append("h2")
+    contentEquipe.append("h1")
 				 .html(paysName);
 				 
 	d3.json("teamsInfo.json", function (data) {

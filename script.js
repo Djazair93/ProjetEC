@@ -9,7 +9,8 @@ function creationPie(donnees, paysVoulu){
 	var w = 575;
 	var h = 370;
 	var r = h/2;
-	var color = d3.scale.category20c();
+	var color = d3.scale.ordinal()
+    .range(["#F9690E","#FFB61E"]);
 	var legendRectSize = 18;
     var legendSpacing = 4;
 
@@ -41,7 +42,12 @@ function creationPie(donnees, paysVoulu){
 
 	var arc = d3.svg.arc().outerRadius(r);
 
-	var arcs = vis.selectAll("g.slice").data(pie).enter().append("svg:g").attr("class", "slice");
+	var arcs = vis.selectAll("g.slice")
+					.data(pie)
+					.enter()
+					.append("svg:g")
+					.attr("class", "slice");
+	
 	arcs.append("svg:path")
 		.attr("fill", function(d, i){
 			return color(i);
@@ -53,9 +59,10 @@ function creationPie(donnees, paysVoulu){
 	arcs.append("svg:text").attr("transform", function(d){
 				d.innerRadius = 0;
 				d.outerRadius = r;
-		return "translate(" + arc.centroid(d) + ")";}).attr("text-anchor", "middle").text( function(d, i) {
-		return data[i].value;}
-		);
+				return "translate(" + arc.centroid(d) + ")";})
+		.attr("text-anchor", "middle").text( function(d, i) {return data[i].value;})
+		.style('fill', 'black')
+		.style('stroke', 'black');;
 	
 	var legend = vis.selectAll('.legend') 
           .data(color.domain())  
@@ -80,8 +87,10 @@ function creationPie(donnees, paysVoulu){
           .style('stroke', color);
           
         legend.append('text') 
-          .attr('x', legendRectSize*2 + legendSpacing+ 150)
-          .attr('y', legendRectSize - legendSpacing-150)
+          .attr('x', legendRectSize*2 + legendSpacing+ 155)
+          .attr('y', legendRectSize - legendSpacing-155)
+		  .style('fill', '#FFFFFF')
+         /* .style('stroke', color)*/
           .text(function(d, i) {return data[i].label;}); 
 }
 
@@ -183,20 +192,20 @@ function creationWorldMap(donnees) {
 		element: document.getElementById('worldMap'),
 		projection: 'mercator',
 		fills: {
-			"Plus de 20": '#22313F',
-			"Moins de 20": '#34495E',
-            "Moins de 15": '#336E7B',
-            "Moins de 10": '#67809F',
-            "Moins de 5": '#81CFE0',
-			"Aucun": '#C5EFF7',
-            defaultFill: '#D2D7D3'
+			"Plus de 20": '#CA6924',
+			"Moins de 20": '#F9690E',
+            "Moins de 15": '#FFA631',
+            "Moins de 10": '#FFB61E',
+            "Moins de 5": '#F4D03F',
+			"Aucun": '#F5D76E',
+            defaultFill: '#DADFE1'
         },
 		data: attributionCouleur(donnees),
 		geographyConfig: {
 			borderWidth: 0.2,
 			highlightOnHover: true,
-			highlightFillColor: '#2ECC71',
-			highlightBorderColor: '#87D37C',
+			highlightFillColor: '#8E44AD',
+			highlightBorderColor: '#BE90D4',
 			highlightBorderWidth: 1,
             popupTemplate: function(geo, data) {
                 return ['<div class="hoverinfo"><strong>',
@@ -207,6 +216,8 @@ function creationWorldMap(donnees) {
 		done: function(datamap) {
 			datamap.svg.call(d3.behavior.zoom().on("zoom", redraw));
 			function redraw() {
+				console.log(d3.event.scale);
+				console.log(d3.event.translate);
 				datamap.svg.selectAll("g").attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 			}
 			datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
@@ -214,7 +225,7 @@ function creationWorldMap(donnees) {
 				var paysName = geography.properties.name;
 				if(isQualified(donnees, paysId)) {
 					var countries = attributionCouleur(donnees);
-					countries[paysId] = "#F7CA18";
+					countries[paysId] = "#8E44AD";
 					datamap.updateChoropleth(countries);
 					creationPie(donnees, paysId);
 					creationBarChart(donnees, paysId);
@@ -249,10 +260,10 @@ function creationTeamInfos(paysName) {
 					 .attr("src", flag);
 		
 		contentEquipe.append("p")
-					 .html(" <h4> Coach : </h4>"+coachName);
+					 .html(" <h3> Coach : </h3>"+coachName);
 		
 		contentEquipe.append("p")
-					 .html(" <h4> Information sur l'équipe : </h4>")
+					 .html(" <h3> Information sur l'équipe : </h3>")
 					 .append("a")
 					 .attr("href", url)
 					 .text("Page Wikipedia de l'équipe");

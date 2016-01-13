@@ -7,7 +7,7 @@ body {
     background-attachment: fixed;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
     text-align: center;
     color: #555;
 }
@@ -50,8 +50,8 @@ h1, h2, h3 {
     .nav li {
         width: 120px;
         border-bottom: none;
-        height: 50px;
-        line-height: 50px;
+        height: 40px;
+        line-height: 40px;
         font-size: 1.4em;
     }
 
@@ -86,6 +86,7 @@ h1, h2, h3 {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top :15px;
+	padding-right: 27px;
 	width: 800px; 
 	height: 500px;
 	border-radius: 15px;
@@ -95,14 +96,23 @@ h1, h2, h3 {
     background-color : #FFFFFF;
 }
 
+.datamap {
+	width : 825px;
+	height : 500px;
+	padding-bottom: 10px;
+}
+
 .datamaps-legend {
 	position: static;
 	float:right;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom :15px;
-	width: 700px; 
+	margin-bottom :15px; 
+	width: 770px;
 	height: 20px;
+	background-color : #FFFFFF;
+	border-radius: 10px;
+	text-align : center;
 }
 
 .datamaps-legend dl {
@@ -110,10 +120,19 @@ h1, h2, h3 {
   display: inline-block;
 }
 
+/* info equipe */
+#infosEquipe {
+	border-radius: 10px;
+    background-color : #C8F7C5;
+	margin :15px;
+	padding : 5px;
+	text-align: center;
+}
 /* pour piechart et barH */
 #graphiqueStats{
 	width:100%;
     height: 100%;
+	margin :15px;
 	display:inline-block;
 }
 
@@ -149,10 +168,10 @@ legend.rect {
 /* pour barH */
 #barH {
 	float:left;
-	margin : 5px;
+	margin-left : 25px;
 	padding : 10px;
 	display:inline-block;
-	width: 45%; 
+	width: 48%; 
 	height: 100%;
 	border-radius: 10px;
 	border-color: #6BB9F0;

@@ -19,9 +19,16 @@ function creationPie(donnees, paysVoulu){
 			var nbjrhors = v.horsChamp, nbjr = v.champNat;
 			data.push({label : "Championnat national", value : nbjr});
 			data.push({label : "Autres championnats", value : nbjrhors});
+			$("#graphiqueStats").show();
+			$("#infosEquipe").show();
 		}
 		
 	});
+	
+	if(data.length === 0){
+		$("#graphiqueStats").hide();
+		$("#infosEquipe").hide();
+	}
 
 	var vis = d3.select('#pieChart')
 	.append("svg:svg")
@@ -118,6 +125,16 @@ function getMax(data) {
     return max;
 }
 
+function isQualified(data, paysId){
+	var result = false;
+    for (var i = 0; i<data.length; i++) {
+        if(data[i].id == paysId){
+            result = true;
+        }
+    }
+    return result;
+}
+
 function attributionCouleur(data){
 	var result = {};
 	jQuery.each(data, function( k, v ) {
@@ -152,7 +169,7 @@ function attributionCouleur(data){
 				id =v.id;
 				value= { fillKey: "Plus de 20"};
 				result[id] = value;
-				break;  
+				break;
 		}
 		
 	});
@@ -194,15 +211,52 @@ function creationWorldMap(donnees) {
 			}
 			datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
 				var paysId = geography.id;
-				var countries = attributionCouleur(donnees);
-				countries[paysId] = "#F7CA18";
-				datamap.updateChoropleth(countries);
-				creationPie(donnees, paysId);
-                creationBarChart(donnees, paysId);
+				var paysName = geography.properties.name;
+				if(isQualified(donnees, paysId)) {
+					var countries = attributionCouleur(donnees);
+					countries[paysId] = "#F7CA18";
+					datamap.updateChoropleth(countries);
+					creationPie(donnees, paysId);
+					creationBarChart(donnees, paysId);
+					creationTeamInfos(paysName);
+				}
 			});
         }
 	});
 	map.legend();
+}
+
+function creationTeamInfos(paysName) {
+	var donnees;
+	
+	var contentEquipe = d3.select("#contentEquipe");
+    contentEquipe.html("");
+    contentEquipe.append("h2")
+				 .html(paysName);
+				 
+	d3.json("teamsInfo.json", function (data) {
+        donnees = data;
+		var coachName, flag, url;	
+		jQuery.each(donnees, function( k, v ) {
+			if(v.TeamInfo.teamName === paysName){
+				coachName = v.coachName;
+				flag = v.TeamInfo.sCountryFlagLarge;
+				url = v.TeamInfo.sWikipediaURL;
+			}
+		});
+		
+		contentEquipe.append("img")
+					 .attr("src", flag);
+		
+		contentEquipe.append("p")
+					 .html(" <h4> Coach : </h4>"+coachName);
+		
+		contentEquipe.append("p")
+					 .html(" <h4> Information sur l'équipe : </h4>")
+					 .append("a")
+					 .attr("href", url)
+					 .text("Page Wikipedia de l'équipe");
+    });
 }
 
 function creationRendu(donnees) {
@@ -213,6 +267,9 @@ function creationRendu(donnees) {
 
 function go() {
     "use strict";
+	
+	$("#infosEquipe").hide();
+	$("#graphiqueStats").hide();
 
     // Lecture des données
     d3.json("DataGraph.json", function (data) {

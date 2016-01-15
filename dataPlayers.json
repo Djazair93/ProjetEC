@@ -2,7 +2,7 @@
   {
     "nomJoueur":"Jefferson",
     "position":"Gardien",
-    "dateNaissance":"2 janvier 1983",
+    "dateNaissance":"dimanche 2 janvier 1983",
     "age":31,
     "nbSelections":9,
     "championnat":"Bresil",
@@ -13,7 +13,7 @@
   {
     "nomJoueur":"Julio Cesar",
     "position":"Gardien",
-    "dateNaissance":"3 septembre 1979",
+    "dateNaissance":"lundi 3 septembre 1979",
     "age":34,
     "nbSelections":80,
     "championnat":"Etats-Unis",
@@ -24,7 +24,7 @@
   {
     "nomJoueur":"Victor",
     "position":"Gardien",
-    "dateNaissance":"21 janvier 1983",
+    "dateNaissance":"vendredi 21 janvier 1983",
     "age":31,
     "nbSelections":6,
     "championnat":"Bresil",
@@ -35,7 +35,7 @@
   {
     "nomJoueur":"Dani Alves",
     "position":"Défenseur",
-    "dateNaissance":"6 mai 1983",
+    "dateNaissance":"vendredi 6 mai 1983",
     "age":31,
     "nbSelections":75,
     "championnat":"Espagne",
@@ -46,7 +46,7 @@
   {
     "nomJoueur":"Dante",
     "position":"Défenseur",
-    "dateNaissance":"18 octobre 1983",
+    "dateNaissance":"mardi 18 octobre 1983",
     "age":30,
     "nbSelections":12,
     "championnat":"Allemagne",
@@ -57,7 +57,7 @@
   {
     "nomJoueur":"David Luiz",
     "position":"Défenseur",
-    "dateNaissance":"22 avril 1987",
+    "dateNaissance":"mercredi 22 avril 1987",
     "age":27,
     "nbSelections":36,
     "championnat":"Angleterre",
@@ -68,7 +68,7 @@
   {
     "nomJoueur":"Henrique",
     "position":"Défenseur",
-    "dateNaissance":"14 octobre 1986",
+    "dateNaissance":"mardi 14 octobre 1986",
     "age":27,
     "nbSelections":5,
     "championnat":"Italie",
@@ -79,7 +79,7 @@
   {
     "nomJoueur":"Maicon",
     "position":"Défenseur",
-    "dateNaissance":"26 juillet 1981",
+    "dateNaissance":"dimanche 26 juillet 1981",
     "age":32,
     "nbSelections":72,
     "championnat":"Italie",
@@ -90,7 +90,7 @@
   {
     "nomJoueur":"Marcelo",
     "position":"Défenseur",
-    "dateNaissance":"12 mai 1988",
+    "dateNaissance":"jeudi 12 mai 1988",
     "age":26,
     "nbSelections":31,
     "championnat":"Espagne",
@@ -101,7 +101,7 @@
   {
     "nomJoueur":"Maxwell",
     "position":"Défenseur",
-    "dateNaissance":"27 août 1981",
+    "dateNaissance":"jeudi 27 août 1981",
     "age":32,
     "nbSelections":9,
     "championnat":"France",
@@ -112,7 +112,7 @@
   {
     "nomJoueur":"Thiago Silva (c)",
     "position":"Défenseur",
-    "dateNaissance":"22 septembre 1984",
+    "dateNaissance":"samedi 22 septembre 1984",
     "age":29,
     "nbSelections":46,
     "championnat":"France",
@@ -123,7 +123,7 @@
   {
     "nomJoueur":"Bernard",
     "position":"Milieu",
-    "dateNaissance":"8 septembre 1992",
+    "dateNaissance":"mardi 8 septembre 1992",
     "age":21,
     "nbSelections":11,
     "championnat":"Ukraine",
@@ -134,7 +134,7 @@
   {
     "nomJoueur":"Fernandinho",
     "position":"Milieu",
-    "dateNaissance":"4 mai 1985",
+    "dateNaissance":"samedi 4 mai 1985",
     "age":29,
     "nbSelections":7,
     "championnat":"Angleterre",
@@ -145,7 +145,7 @@
   {
     "nomJoueur":"Hernanes",
     "position":"Milieu",
-    "dateNaissance":"29 mai 1985",
+    "dateNaissance":"mercredi 29 mai 1985",
     "age":29,
     "nbSelections":24,
     "championnat":"Italie",
@@ -156,7 +156,7 @@
   {
     "nomJoueur":"Luiz Gustavo",
     "position":"Milieu",
-    "dateNaissance":"23 juillet 1987",
+    "dateNaissance":"jeudi 23 juillet 1987",
     "age":26,
     "nbSelections":19,
     "championnat":"Allemagne",
@@ -167,7 +167,7 @@
   {
     "nomJoueur":"Oscar",
     "position":"Milieu",
-    "dateNaissance":"9 septembre 1991",
+    "dateNaissance":"lundi 9 septembre 1991",
     "age":22,
     "nbSelections":31,
     "championnat":"Angleterre",
@@ -178,7 +178,7 @@
   {
     "nomJoueur":"Paulinho",
     "position":"Milieu",
-    "dateNaissance":"25 juillet 1988",
+    "dateNaissance":"lundi 25 juillet 1988",
     "age":25,
     "nbSelections":26,
     "championnat":"Angleterre",
@@ -189,7 +189,7 @@
   {
     "nomJoueur":"Ramires",
     "position":"Milieu",
-    "dateNaissance":"24 mars 1987",
+    "dateNaissance":"mardi 24 mars 1987",
     "age":27,
     "nbSelections":42,
     "championnat":"Angleterre",
@@ -200,7 +200,7 @@
   {
     "nomJoueur":"Willian",
     "position":"Milieu",
-    "dateNaissance":"9 août 1988",
+    "dateNaissance":"mardi 9 août 1988",
     "age":25,
     "nbSelections":7,
     "championnat":"Angleterre",
@@ -211,7 +211,7 @@
   {
     "nomJoueur":"Fred",
     "position":"Attaquant",
-    "dateNaissance":"3 octobre 1983",
+    "dateNaissance":"lundi 3 octobre 1983",
     "age":30,
     "nbSelections":33,
     "championnat":"Bresil",
@@ -222,7 +222,7 @@
   {
     "nomJoueur":"Hulk",
     "position":"Attaquant",
-    "dateNaissance":"25 juillet 1986",
+    "dateNaissance":"vendredi 25 juillet 1986",
     "age":27,
     "nbSelections":35,
     "championnat":"Russie",
@@ -233,7 +233,7 @@
   {
     "nomJoueur":"Jô",
     "position":"Attaquant",
-    "dateNaissance":"20 mars 1987",
+    "dateNaissance":"vendredi 20 mars 1987",
     "age":27,
     "nbSelections":17,
     "championnat":"Bresil",
@@ -244,7 +244,7 @@
   {
     "nomJoueur":"Neymar",
     "position":"Attaquant",
-    "dateNaissance":"5 février 1992",
+    "dateNaissance":"mercredi 5 février 1992",
     "age":22,
     "nbSelections":49,
     "championnat":"Espagne",
@@ -255,7 +255,7 @@
   {
     "nomJoueur":"Charles Itandje",
     "position":"Gardien",
-    "dateNaissance":"2 novembre 1982",
+    "dateNaissance":"mardi 2 novembre 1982",
     "age":31,
     "nbSelections":9,
     "championnat":"Turquie",
@@ -266,7 +266,7 @@
   {
     "nomJoueur":"Loec Feudjou",
     "position":"Gardien",
-    "dateNaissance":"14 avril 1992",
+    "dateNaissance":"mardi 14 avril 1992",
     "age":22,
     "nbSelections":2,
     "championnat":"Cameroun",
@@ -277,7 +277,7 @@
   {
     "nomJoueur":"Sammy N'Djock",
     "position":"Gardien",
-    "dateNaissance":"25 février 1990",
+    "dateNaissance":"dimanche 25 février 1990",
     "age":24,
     "nbSelections":3,
     "championnat":"Turquie",
@@ -288,7 +288,7 @@
   {
     "nomJoueur":"Allan Nyom",
     "position":"Défenseur",
-    "dateNaissance":"10 mai 1988",
+    "dateNaissance":"mardi 10 mai 1988",
     "age":26,
     "nbSelections":10,
     "championnat":"Espagne",
@@ -299,7 +299,7 @@
   {
     "nomJoueur":"Aurelien Chedjou",
     "position":"Défenseur",
-    "dateNaissance":"20 juin 1985",
+    "dateNaissance":"jeudi 20 juin 1985",
     "age":28,
     "nbSelections":31,
     "championnat":"Turquie",
@@ -310,7 +310,7 @@
   {
     "nomJoueur":"Benoît Assou-Ekotto",
     "position":"Défenseur",
-    "dateNaissance":"24 mars 1984",
+    "dateNaissance":"samedi 24 mars 1984",
     "age":30,
     "nbSelections":22,
     "championnat":"Angleterre",
@@ -321,7 +321,7 @@
   {
     "nomJoueur":"Cedric Djeugoue",
     "position":"Défenseur",
-    "dateNaissance":"28 août 1992",
+    "dateNaissance":"vendredi 28 août 1992",
     "age":21,
     "nbSelections":3,
     "championnat":"Cameroun",
@@ -332,7 +332,7 @@
   {
     "nomJoueur":"Dany Nounkeu",
     "position":"Défenseur",
-    "dateNaissance":"11 avril 1986",
+    "dateNaissance":"vendredi 11 avril 1986",
     "age":28,
     "nbSelections":16,
     "championnat":"Turquie",
@@ -343,7 +343,7 @@
   {
     "nomJoueur":"Henri Bedimo",
     "position":"Défenseur",
-    "dateNaissance":"4 juin 1984",
+    "dateNaissance":"lundi 4 juin 1984",
     "age":30,
     "nbSelections":31,
     "championnat":"France",
@@ -354,7 +354,7 @@
   {
     "nomJoueur":"Nicolas N'Koulou",
     "position":"Défenseur",
-    "dateNaissance":"27 mars 1990",
+    "dateNaissance":"mardi 27 mars 1990",
     "age":24,
     "nbSelections":48,
     "championnat":"France",
@@ -365,7 +365,7 @@
   {
     "nomJoueur":"Alex Song",
     "position":"Milieu",
-    "dateNaissance":"9 septembre 1987",
+    "dateNaissance":"mercredi 9 septembre 1987",
     "age":26,
     "nbSelections":47,
     "championnat":"Espagne",
@@ -376,7 +376,7 @@
   {
     "nomJoueur":"Edgar Salli",
     "position":"Milieu",
-    "dateNaissance":"17 août 1992",
+    "dateNaissance":"lundi 17 août 1992",
     "age":21,
     "nbSelections":9,
     "championnat":"France",
@@ -387,7 +387,7 @@
   {
     "nomJoueur":"Eyong Enoh",
     "position":"Milieu",
-    "dateNaissance":"23 mars 1986",
+    "dateNaissance":"dimanche 23 mars 1986",
     "age":28,
     "nbSelections":38,
     "championnat":"Turquie",
@@ -398,7 +398,7 @@
   {
     "nomJoueur":"Jean Makoun",
     "position":"Milieu",
-    "dateNaissance":"29 mai 1983",
+    "dateNaissance":"dimanche 29 mai 1983",
     "age":31,
     "nbSelections":66,
     "championnat":"France",
@@ -409,7 +409,7 @@
   {
     "nomJoueur":"Joel Matip",
     "position":"Milieu",
-    "dateNaissance":"8 août 1991",
+    "dateNaissance":"jeudi 8 août 1991",
     "age":22,
     "nbSelections":23,
     "championnat":"Allemagne",
@@ -420,7 +420,7 @@
   {
     "nomJoueur":"Landry N'Guemo",
     "position":"Milieu",
-    "dateNaissance":"28 novembre 1985",
+    "dateNaissance":"jeudi 28 novembre 1985",
     "age":28,
     "nbSelections":40,
     "championnat":"France",
@@ -431,7 +431,7 @@
   {
     "nomJoueur":"Stephane Mbia",
     "position":"Milieu",
-    "dateNaissance":"20 mai 1986",
+    "dateNaissance":"mardi 20 mai 1986",
     "age":28,
     "nbSelections":49,
     "championnat":"Espagne",
@@ -442,7 +442,7 @@
   {
     "nomJoueur":"Benjamin Moukandjo",
     "position":"Attaquant",
-    "dateNaissance":"12 novembre 1988",
+    "dateNaissance":"samedi 12 novembre 1988",
     "age":25,
     "nbSelections":17,
     "championnat":"France",
@@ -453,7 +453,7 @@
   {
     "nomJoueur":"Fabrice Olinga",
     "position":"Attaquant",
-    "dateNaissance":"12 mai 1996",
+    "dateNaissance":"dimanche 12 mai 1996",
     "age":18,
     "nbSelections":8,
     "championnat":"Belgique",
@@ -464,7 +464,7 @@
   {
     "nomJoueur":"Maxim Choupo-Moting",
     "position":"Attaquant",
-    "dateNaissance":"23 mars 1989",
+    "dateNaissance":"jeudi 23 mars 1989",
     "age":25,
     "nbSelections":26,
     "championnat":"Allemagne",
@@ -475,7 +475,7 @@
   {
     "nomJoueur":"Pierre Webo",
     "position":"Attaquant",
-    "dateNaissance":"20 janvier 1982",
+    "dateNaissance":"mercredi 20 janvier 1982",
     "age":32,
     "nbSelections":56,
     "championnat":"Turquie",
@@ -486,7 +486,7 @@
   {
     "nomJoueur":"Samuel Eto'o (c)",
     "position":"Attaquant",
-    "dateNaissance":"10 mars 1981",
+    "dateNaissance":"mardi 10 mars 1981",
     "age":33,
     "nbSelections":117,
     "championnat":"Angleterre",
@@ -497,7 +497,7 @@
   {
     "nomJoueur":"Vincent Aboubakar",
     "position":"Attaquant",
-    "dateNaissance":"22 janvier 1992",
+    "dateNaissance":"mercredi 22 janvier 1992",
     "age":22,
     "nbSelections":24,
     "championnat":"France",
@@ -508,7 +508,7 @@
   {
     "nomJoueur":"Danijel Subasic",
     "position":"Gardien",
-    "dateNaissance":"27 octobre 1984",
+    "dateNaissance":"samedi 27 octobre 1984",
     "age":29,
     "nbSelections":6,
     "championnat":"France",
@@ -519,7 +519,7 @@
   {
     "nomJoueur":"Oliver Zelenika",
     "position":"Gardien",
-    "dateNaissance":"14 mai 1993",
+    "dateNaissance":"vendredi 14 mai 1993",
     "age":21,
     "nbSelections":0,
     "championnat":"Croatie",
@@ -530,7 +530,7 @@
   {
     "nomJoueur":"Stipe Pletikosa",
     "position":"Gardien",
-    "dateNaissance":"8 janvier 1979",
+    "dateNaissance":"lundi 8 janvier 1979",
     "age":35,
     "nbSelections":111,
     "championnat":"Russie",
@@ -541,7 +541,7 @@
   {
     "nomJoueur":"Danijel Pranjic",
     "position":"Défenseur",
-    "dateNaissance":"2 décembre 1981",
+    "dateNaissance":"mercredi 2 décembre 1981",
     "age":32,
     "nbSelections":50,
     "championnat":"Grece",
@@ -552,7 +552,7 @@
   {
     "nomJoueur":"Darijo Srna (c)",
     "position":"Défenseur",
-    "dateNaissance":"1 mai 1982",
+    "dateNaissance":"samedi 1 mai 1982",
     "age":32,
     "nbSelections":112,
     "championnat":"Ukraine",
@@ -563,7 +563,7 @@
   {
     "nomJoueur":"Dejan Lovren",
     "position":"Défenseur",
-    "dateNaissance":"5 juillet 1989",
+    "dateNaissance":"mercredi 5 juillet 1989",
     "age":24,
     "nbSelections":25,
     "championnat":"Angleterre",
@@ -574,7 +574,7 @@
   {
     "nomJoueur":"Domagoj Vida",
     "position":"Défenseur",
-    "dateNaissance":"29 avril 1989",
+    "dateNaissance":"samedi 29 avril 1989",
     "age":25,
     "nbSelections":23,
     "championnat":"Ukraine",
@@ -585,7 +585,7 @@
   {
     "nomJoueur":"Gordon Schildenfeld",
     "position":"Défenseur",
-    "dateNaissance":"18 mars 1985",
+    "dateNaissance":"lundi 18 mars 1985",
     "age":29,
     "nbSelections":21,
     "championnat":"Grece",
@@ -596,7 +596,7 @@
   {
     "nomJoueur":"Sime Vrsaljko",
     "position":"Défenseur",
-    "dateNaissance":"10 janvier 1992",
+    "dateNaissance":"vendredi 10 janvier 1992",
     "age":22,
     "nbSelections":7,
     "championnat":"Italie",
@@ -607,7 +607,7 @@
   {
     "nomJoueur":"Vedran Corluka",
     "position":"Défenseur",
-    "dateNaissance":"5 février 1986",
+    "dateNaissance":"mercredi 5 février 1986",
     "age":28,
     "nbSelections":72,
     "championnat":"Russie",
@@ -618,7 +618,7 @@
   {
     "nomJoueur":"Milan Badelj",
     "position":"Milieu",
-    "dateNaissance":"25 février 1989",
+    "dateNaissance":"samedi 25 février 1989",
     "age":25,
     "nbSelections":9,
     "championnat":"Allemagne",
@@ -629,7 +629,7 @@
   {
     "nomJoueur":"Ivan Perisic",
     "position":"Milieu",
-    "dateNaissance":"2 février 1989",
+    "dateNaissance":"jeudi 2 février 1989",
     "age":25,
     "nbSelections":29,
     "championnat":"Allemagne",
@@ -640,7 +640,7 @@
   {
     "nomJoueur":"Ivan Rakitic",
     "position":"Milieu",
-    "dateNaissance":"10 mars 1988",
+    "dateNaissance":"jeudi 10 mars 1988",
     "age":26,
     "nbSelections":62,
     "championnat":"Espagne",
@@ -651,7 +651,7 @@
   {
     "nomJoueur":"Luka Modric",
     "position":"Milieu",
-    "dateNaissance":"9 septembre 1985",
+    "dateNaissance":"lundi 9 septembre 1985",
     "age":28,
     "nbSelections":75,
     "championnat":"Espagne",
@@ -662,7 +662,7 @@
   {
     "nomJoueur":"Marcelo Brozovic",
     "position":"Milieu",
-    "dateNaissance":"16 octobre 1992",
+    "dateNaissance":"vendredi 16 octobre 1992",
     "age":21,
     "nbSelections":1,
     "championnat":"Croatie",
@@ -673,7 +673,7 @@
   {
     "nomJoueur":"Mateo Kovacic",
     "position":"Milieu",
-    "dateNaissance":"6 mai 1994",
+    "dateNaissance":"vendredi 6 mai 1994",
     "age":20,
     "nbSelections":10,
     "championnat":"Italie",
@@ -684,7 +684,7 @@
   {
     "nomJoueur":"Ognjen Vukojevic",
     "position":"Milieu",
-    "dateNaissance":"20 décembre 1983",
+    "dateNaissance":"mardi 20 décembre 1983",
     "age":30,
     "nbSelections":55,
     "championnat":"Ukraine",
@@ -695,7 +695,7 @@
   {
     "nomJoueur":"Sammir",
     "position":"Milieu",
-    "dateNaissance":"23 avril 1987",
+    "dateNaissance":"jeudi 23 avril 1987",
     "age":27,
     "nbSelections":6,
     "championnat":"Espagne",
@@ -706,7 +706,7 @@
   {
     "nomJoueur":"Ante Rebic",
     "position":"Attaquant",
-    "dateNaissance":"21 septembre 1993",
+    "dateNaissance":"mardi 21 septembre 1993",
     "age":20,
     "nbSelections":5,
     "championnat":"Italie",
@@ -717,7 +717,7 @@
   {
     "nomJoueur":"Eduardo",
     "position":"Attaquant",
-    "dateNaissance":"25 février 1983",
+    "dateNaissance":"vendredi 25 février 1983",
     "age":31,
     "nbSelections":63,
     "championnat":"Ukraine",
@@ -728,7 +728,7 @@
   {
     "nomJoueur":"Ivica Olic",
     "position":"Attaquant",
-    "dateNaissance":"14 septembre 1979",
+    "dateNaissance":"vendredi 14 septembre 1979",
     "age":34,
     "nbSelections":92,
     "championnat":"Allemagne",
@@ -739,7 +739,7 @@
   {
     "nomJoueur":"Mario Mandzukic",
     "position":"Attaquant",
-    "dateNaissance":"21 mai 1986",
+    "dateNaissance":"mercredi 21 mai 1986",
     "age":28,
     "nbSelections":50,
     "championnat":"Allemagne",
@@ -750,7 +750,7 @@
   {
     "nomJoueur":"Nikica Jelavic",
     "position":"Attaquant",
-    "dateNaissance":"27 août 1985",
+    "dateNaissance":"mardi 27 août 1985",
     "age":28,
     "nbSelections":33,
     "championnat":"Angleterre",
@@ -761,7 +761,7 @@
   {
     "nomJoueur":"Alfredo Talavera",
     "position":"Gardien",
-    "dateNaissance":"18 septembre 1982",
+    "dateNaissance":"samedi 18 septembre 1982",
     "age":31,
     "nbSelections":14,
     "championnat":"Mexique",
@@ -772,7 +772,7 @@
   {
     "nomJoueur":"Guillermo Ochoa",
     "position":"Gardien",
-    "dateNaissance":"13 juillet 1985",
+    "dateNaissance":"samedi 13 juillet 1985",
     "age":28,
     "nbSelections":59,
     "championnat":"France",
@@ -783,7 +783,7 @@
   {
     "nomJoueur":"Jose de Jesus Corona",
     "position":"Gardien",
-    "dateNaissance":"26 janvier 1981",
+    "dateNaissance":"lundi 26 janvier 1981",
     "age":33,
     "nbSelections":34,
     "championnat":"Mexique",
@@ -794,7 +794,7 @@
   {
     "nomJoueur":"Andres Guardado",
     "position":"Défenseur",
-    "dateNaissance":"28 septembre 1986",
+    "dateNaissance":"dimanche 28 septembre 1986",
     "age":27,
     "nbSelections":104,
     "championnat":"Allemagne",
@@ -805,7 +805,7 @@
   {
     "nomJoueur":"Carlos Salcido",
     "position":"Défenseur",
-    "dateNaissance":"2 avril 1980",
+    "dateNaissance":"mercredi 2 avril 1980",
     "age":34,
     "nbSelections":122,
     "championnat":"Mexique",
@@ -816,7 +816,7 @@
   {
     "nomJoueur":"Diego Reyes",
     "position":"Défenseur",
-    "dateNaissance":"19 septembre 1992",
+    "dateNaissance":"samedi 19 septembre 1992",
     "age":21,
     "nbSelections":14,
     "championnat":"Portugal",
@@ -827,7 +827,7 @@
   {
     "nomJoueur":"Francisco Javier Rodriguez",
     "position":"Défenseur",
-    "dateNaissance":"20 octobre 1981",
+    "dateNaissance":"mardi 20 octobre 1981",
     "age":32,
     "nbSelections":95,
     "championnat":"Mexique",
@@ -838,7 +838,7 @@
   {
     "nomJoueur":"Hector Moreno",
     "position":"Défenseur",
-    "dateNaissance":"17 janvier 1988",
+    "dateNaissance":"dimanche 17 janvier 1988",
     "age":26,
     "nbSelections":53,
     "championnat":"Espagne",
@@ -849,7 +849,7 @@
   {
     "nomJoueur":"Miguel Angel Ponce",
     "position":"Défenseur",
-    "dateNaissance":"12 avril 1989",
+    "dateNaissance":"mercredi 12 avril 1989",
     "age":25,
     "nbSelections":8,
     "championnat":"Mexique",
@@ -860,7 +860,7 @@
   {
     "nomJoueur":"Miguel Layun",
     "position":"Défenseur",
-    "dateNaissance":"25 juin 1988",
+    "dateNaissance":"samedi 25 juin 1988",
     "age":25,
     "nbSelections":15,
     "championnat":"Mexique",
@@ -871,7 +871,7 @@
   {
     "nomJoueur":"Paul Aguilar",
     "position":"Défenseur",
-    "dateNaissance":"6 mars 1986",
+    "dateNaissance":"jeudi 6 mars 1986",
     "age":28,
     "nbSelections":30,
     "championnat":"Mexique",
@@ -882,7 +882,7 @@
   {
     "nomJoueur":"Rafael Marquez (c)",
     "position":"Défenseur",
-    "dateNaissance":"13 février 1979",
+    "dateNaissance":"mardi 13 février 1979",
     "age":35,
     "nbSelections":120,
     "championnat":"Mexique",
@@ -893,7 +893,7 @@
   {
     "nomJoueur":"Carlos Pena",
     "position":"Milieu",
-    "dateNaissance":"29 mars 1990",
+    "dateNaissance":"jeudi 29 mars 1990",
     "age":24,
     "nbSelections":16,
     "championnat":"Mexique",
@@ -904,7 +904,7 @@
   {
     "nomJoueur":"Hector Herrera",
     "position":"Milieu",
-    "dateNaissance":"19 avril 1990",
+    "dateNaissance":"jeudi 19 avril 1990",
     "age":24,
     "nbSelections":13,
     "championnat":"Portugal",
@@ -915,7 +915,7 @@
   {
     "nomJoueur":"Isaac Brizuela",
     "position":"Milieu",
-    "dateNaissance":"28 août 1990",
+    "dateNaissance":"mardi 28 août 1990",
     "age":23,
     "nbSelections":7,
     "championnat":"Mexique",
@@ -926,7 +926,7 @@
   {
     "nomJoueur":"Javier Aquino",
     "position":"Milieu",
-    "dateNaissance":"11 février 1990",
+    "dateNaissance":"dimanche 11 février 1990",
     "age":24,
     "nbSelections":22,
     "championnat":"Espagne",
@@ -937,7 +937,7 @@
   {
     "nomJoueur":"Jose Juan Vazquez",
     "position":"Milieu",
-    "dateNaissance":"14 mars 1988",
+    "dateNaissance":"lundi 14 mars 1988",
     "age":26,
     "nbSelections":5,
     "championnat":"Mexique",
@@ -948,7 +948,7 @@
   {
     "nomJoueur":"Marco Fabian",
     "position":"Milieu",
-    "dateNaissance":"21 juillet 1989",
+    "dateNaissance":"vendredi 21 juillet 1989",
     "age":24,
     "nbSelections":15,
     "championnat":"Mexique",
@@ -959,7 +959,7 @@
   {
     "nomJoueur":"Alan Pulido",
     "position":"Attaquant",
-    "dateNaissance":"8 mars 1991",
+    "dateNaissance":"vendredi 8 mars 1991",
     "age":23,
     "nbSelections":6,
     "championnat":"Mexique",
@@ -970,7 +970,7 @@
   {
     "nomJoueur":"Giovani dos Santos",
     "position":"Attaquant",
-    "dateNaissance":"11 mai 1989",
+    "dateNaissance":"jeudi 11 mai 1989",
     "age":25,
     "nbSelections":76,
     "championnat":"Espagne",
@@ -981,7 +981,7 @@
   {
     "nomJoueur":"Javier Hernandez",
     "position":"Attaquant",
-    "dateNaissance":"1 juin 1988",
+    "dateNaissance":"mercredi 1 juin 1988",
     "age":26,
     "nbSelections":62,
     "championnat":"Angleterre",
@@ -992,7 +992,7 @@
   {
     "nomJoueur":"Oribe Peralta",
     "position":"Attaquant",
-    "dateNaissance":"12 janvier 1984",
+    "dateNaissance":"jeudi 12 janvier 1984",
     "age":30,
     "nbSelections":33,
     "championnat":"Mexique",
@@ -1003,7 +1003,7 @@
   {
     "nomJoueur":"Raul Jimenez",
     "position":"Attaquant",
-    "dateNaissance":"5 mai 1991",
+    "dateNaissance":"dimanche 5 mai 1991",
     "age":23,
     "nbSelections":25,
     "championnat":"Mexique",
@@ -1014,7 +1014,7 @@
   {
     "nomJoueur":"Eugene Galekovic",
     "position":"Gardien",
-    "dateNaissance":"12 juin 1981",
+    "dateNaissance":"vendredi 12 juin 1981",
     "age":32,
     "nbSelections":8,
     "championnat":"Australie",
@@ -1025,7 +1025,7 @@
   {
     "nomJoueur":"Mathew Ryan",
     "position":"Gardien",
-    "dateNaissance":"8 avril 1992",
+    "dateNaissance":"mercredi 8 avril 1992",
     "age":22,
     "nbSelections":7,
     "championnat":"Belgique",
@@ -1036,7 +1036,7 @@
   {
     "nomJoueur":"Mitchell Langerak",
     "position":"Gardien",
-    "dateNaissance":"22 août 1988",
+    "dateNaissance":"lundi 22 août 1988",
     "age":25,
     "nbSelections":3,
     "championnat":"Allemagne",
@@ -1047,7 +1047,7 @@
   {
     "nomJoueur":"Alex Wilkinson",
     "position":"Défenseur",
-    "dateNaissance":"13 août 1984",
+    "dateNaissance":"lundi 13 août 1984",
     "age":29,
     "nbSelections":3,
     "championnat":"Coree du Sud",
@@ -1058,7 +1058,7 @@
   {
     "nomJoueur":"Bailey Wright",
     "position":"Défenseur",
-    "dateNaissance":"28 juillet 1992",
+    "dateNaissance":"mardi 28 juillet 1992",
     "age":21,
     "nbSelections":0,
     "championnat":"Angleterre",
@@ -1069,7 +1069,7 @@
   {
     "nomJoueur":"Ivan Franjic",
     "position":"Défenseur",
-    "dateNaissance":"10 septembre 1987",
+    "dateNaissance":"jeudi 10 septembre 1987",
     "age":26,
     "nbSelections":9,
     "championnat":"Australie",
@@ -1080,7 +1080,7 @@
   {
     "nomJoueur":"Jason Davidson",
     "position":"Défenseur",
-    "dateNaissance":"29 juin 1991",
+    "dateNaissance":"samedi 29 juin 1991",
     "age":22,
     "nbSelections":7,
     "championnat":"Pays-Bas",
@@ -1091,7 +1091,7 @@
   {
     "nomJoueur":"Matthew Spiranovic",
     "position":"Défenseur",
-    "dateNaissance":"27 juin 1988",
+    "dateNaissance":"lundi 27 juin 1988",
     "age":25,
     "nbSelections":18,
     "championnat":"Australie",
@@ -1102,7 +1102,7 @@
   {
     "nomJoueur":"Ryan McGowan",
     "position":"Défenseur",
-    "dateNaissance":"15 août 1989",
+    "dateNaissance":"mardi 15 août 1989",
     "age":24,
     "nbSelections":9,
     "championnat":"Chine",
@@ -1113,7 +1113,7 @@
   {
     "nomJoueur":"Ben Halloran",
     "position":"Milieu",
-    "dateNaissance":"14 juin 1992",
+    "dateNaissance":"dimanche 14 juin 1992",
     "age":21,
     "nbSelections":2,
     "championnat":"Allemagne",
@@ -1124,7 +1124,7 @@
   {
     "nomJoueur":"Dario Vidosic",
     "position":"Milieu",
-    "dateNaissance":"8 avril 1987",
+    "dateNaissance":"mercredi 8 avril 1987",
     "age":27,
     "nbSelections":23,
     "championnat":"Suisse",
@@ -1135,7 +1135,7 @@
   {
     "nomJoueur":"James Holland",
     "position":"Milieu",
-    "dateNaissance":"15 mai 1989",
+    "dateNaissance":"lundi 15 mai 1989",
     "age":25,
     "nbSelections":14,
     "championnat":"Autriche",
@@ -1146,7 +1146,7 @@
   {
     "nomJoueur":"James Troisi",
     "position":"Milieu",
-    "dateNaissance":"3 juillet 1988",
+    "dateNaissance":"dimanche 3 juillet 1988",
     "age":25,
     "nbSelections":11,
     "championnat":"Italie",
@@ -1157,7 +1157,7 @@
   {
     "nomJoueur":"Mark Bresciano",
     "position":"Milieu",
-    "dateNaissance":"11 février 1980",
+    "dateNaissance":"lundi 11 février 1980",
     "age":34,
     "nbSelections":74,
     "championnat":"Qatar",
@@ -1168,7 +1168,7 @@
   {
     "nomJoueur":"Mark Milligan",
     "position":"Milieu",
-    "dateNaissance":"4 août 1985",
+    "dateNaissance":"dimanche 4 août 1985",
     "age":28,
     "nbSelections":29,
     "championnat":"Australie",
@@ -1179,7 +1179,7 @@
   {
     "nomJoueur":"Massimo Luongo",
     "position":"Milieu",
-    "dateNaissance":"25 septembre 1992",
+    "dateNaissance":"vendredi 25 septembre 1992",
     "age":21,
     "nbSelections":1,
     "championnat":"Angleterre",
@@ -1190,7 +1190,7 @@
   {
     "nomJoueur":"Matt McKay",
     "position":"Milieu",
-    "dateNaissance":"11 janvier 1983",
+    "dateNaissance":"mardi 11 janvier 1983",
     "age":31,
     "nbSelections":47,
     "championnat":"Australie",
@@ -1201,7 +1201,7 @@
   {
     "nomJoueur":"Mile Jedinak (c)",
     "position":"Milieu",
-    "dateNaissance":"3 août 1984",
+    "dateNaissance":"vendredi 3 août 1984",
     "age":29,
     "nbSelections":44,
     "championnat":"Angleterre",
@@ -1212,7 +1212,7 @@
   {
     "nomJoueur":"Oliver Bozanic",
     "position":"Milieu",
-    "dateNaissance":"8 janvier 1989",
+    "dateNaissance":"dimanche 8 janvier 1989",
     "age":25,
     "nbSelections":3,
     "championnat":"Suisse",
@@ -1223,7 +1223,7 @@
   {
     "nomJoueur":"Tommy Oar",
     "position":"Milieu",
-    "dateNaissance":"10 décembre 1991",
+    "dateNaissance":"mardi 10 décembre 1991",
     "age":22,
     "nbSelections":15,
     "championnat":"Pays-Bas",
@@ -1234,7 +1234,7 @@
   {
     "nomJoueur":"Adam Taggart",
     "position":"Attaquant",
-    "dateNaissance":"2 juin 1993",
+    "dateNaissance":"mercredi 2 juin 1993",
     "age":21,
     "nbSelections":5,
     "championnat":"Australie",
@@ -1245,7 +1245,7 @@
   {
     "nomJoueur":"Mathew Leckie",
     "position":"Attaquant",
-    "dateNaissance":"4 février 1991",
+    "dateNaissance":"lundi 4 février 1991",
     "age":23,
     "nbSelections":8,
     "championnat":"Allemagne",
@@ -1256,7 +1256,7 @@
   {
     "nomJoueur":"Tim Cahill",
     "position":"Attaquant",
-    "dateNaissance":"6 décembre 1979",
+    "dateNaissance":"jeudi 6 décembre 1979",
     "age":34,
     "nbSelections":69,
     "championnat":"Etats-Unis",
@@ -1267,7 +1267,7 @@
   {
     "nomJoueur":"Claudio Bravo (c)",
     "position":"Gardien",
-    "dateNaissance":"13 avril 1983",
+    "dateNaissance":"mercredi 13 avril 1983",
     "age":31,
     "nbSelections":79,
     "championnat":"Espagne",
@@ -1278,7 +1278,7 @@
   {
     "nomJoueur":"Cristopher Toselli",
     "position":"Gardien",
-    "dateNaissance":"22 juin 1988",
+    "dateNaissance":"mercredi 22 juin 1988",
     "age":25,
     "nbSelections":4,
     "championnat":"Chili",
@@ -1289,7 +1289,7 @@
   {
     "nomJoueur":"Johnny Herrera",
     "position":"Gardien",
-    "dateNaissance":"9 mai 1981",
+    "dateNaissance":"samedi 9 mai 1981",
     "age":33,
     "nbSelections":8,
     "championnat":"Chili",
@@ -1300,7 +1300,7 @@
   {
     "nomJoueur":"Eugenio Mena",
     "position":"Défenseur",
-    "dateNaissance":"18 juillet 1988",
+    "dateNaissance":"lundi 18 juillet 1988",
     "age":25,
     "nbSelections":25,
     "championnat":"Bresil",
@@ -1311,7 +1311,7 @@
   {
     "nomJoueur":"Gary Medel",
     "position":"Défenseur",
-    "dateNaissance":"3 août 1987",
+    "dateNaissance":"lundi 3 août 1987",
     "age":26,
     "nbSelections":61,
     "championnat":"Angleterre",
@@ -1322,7 +1322,7 @@
   {
     "nomJoueur":"Gonzalo Jara",
     "position":"Défenseur",
-    "dateNaissance":"29 août 1985",
+    "dateNaissance":"jeudi 29 août 1985",
     "age":28,
     "nbSelections":65,
     "championnat":"Angleterre",
@@ -1333,7 +1333,7 @@
   {
     "nomJoueur":"Jose Rojas",
     "position":"Défenseur",
-    "dateNaissance":"3 juin 1983",
+    "dateNaissance":"vendredi 3 juin 1983",
     "age":31,
     "nbSelections":19,
     "championnat":"Chili",
@@ -1344,7 +1344,7 @@
   {
     "nomJoueur":"Miiko Albornoz",
     "position":"Défenseur",
-    "dateNaissance":"3 novembre 1990",
+    "dateNaissance":"samedi 3 novembre 1990",
     "age":23,
     "nbSelections":2,
     "championnat":"Suede",
@@ -1355,7 +1355,7 @@
   {
     "nomJoueur":"Arturo Vidal",
     "position":"Milieu",
-    "dateNaissance":"22 mai 1987",
+    "dateNaissance":"vendredi 22 mai 1987",
     "age":27,
     "nbSelections":54,
     "championnat":"Italie",
@@ -1366,7 +1366,7 @@
   {
     "nomJoueur":"Carlos Carmona",
     "position":"Milieu",
-    "dateNaissance":"21 février 1987",
+    "dateNaissance":"samedi 21 février 1987",
     "age":27,
     "nbSelections":44,
     "championnat":"Italie",
@@ -1377,7 +1377,7 @@
   {
     "nomJoueur":"Charles Aranguiz",
     "position":"Milieu",
-    "dateNaissance":"17 avril 1989",
+    "dateNaissance":"lundi 17 avril 1989",
     "age":25,
     "nbSelections":21,
     "championnat":"Bresil",
@@ -1388,7 +1388,7 @@
   {
     "nomJoueur":"Fabian Orellana",
     "position":"Milieu",
-    "dateNaissance":"27 janvier 1986",
+    "dateNaissance":"lundi 27 janvier 1986",
     "age":28,
     "nbSelections":26,
     "championnat":"Espagne",
@@ -1399,7 +1399,7 @@
   {
     "nomJoueur":"Felipe Gutierrez",
     "position":"Milieu",
-    "dateNaissance":"8 octobre 1990",
+    "dateNaissance":"lundi 8 octobre 1990",
     "age":23,
     "nbSelections":18,
     "championnat":"Pays-Bas",
@@ -1410,7 +1410,7 @@
   {
     "nomJoueur":"Francisco Silva",
     "position":"Milieu",
-    "dateNaissance":"11 février 1986",
+    "dateNaissance":"mardi 11 février 1986",
     "age":28,
     "nbSelections":12,
     "championnat":"Espagne",
@@ -1421,7 +1421,7 @@
   {
     "nomJoueur":"Jean Beausejour",
     "position":"Milieu",
-    "dateNaissance":"3 juin 1984",
+    "dateNaissance":"dimanche 3 juin 1984",
     "age":30,
     "nbSelections":59,
     "championnat":"Angleterre",
@@ -1432,7 +1432,7 @@
   {
     "nomJoueur":"Jorge Valdivia",
     "position":"Milieu",
-    "dateNaissance":"3 octobre 1983",
+    "dateNaissance":"lundi 3 octobre 1983",
     "age":30,
     "nbSelections":57,
     "championnat":"Bresil",
@@ -1443,7 +1443,7 @@
   {
     "nomJoueur":"Jose Pedro Fuenzalida",
     "position":"Milieu",
-    "dateNaissance":"22 février 1985",
+    "dateNaissance":"vendredi 22 février 1985",
     "age":29,
     "nbSelections":23,
     "championnat":"Chili",
@@ -1454,7 +1454,7 @@
   {
     "nomJoueur":"Marcelo Diaz",
     "position":"Milieu",
-    "dateNaissance":"30 décembre 1986",
+    "dateNaissance":"mardi 30 décembre 1986",
     "age":27,
     "nbSelections":21,
     "championnat":"Suisse",
@@ -1465,7 +1465,7 @@
   {
     "nomJoueur":"Mauricio Isla",
     "position":"Milieu",
-    "dateNaissance":"12 juin 1988",
+    "dateNaissance":"dimanche 12 juin 1988",
     "age":25,
     "nbSelections":47,
     "championnat":"Italie",
@@ -1476,7 +1476,7 @@
   {
     "nomJoueur":"Alexis Sanchez",
     "position":"Attaquant",
-    "dateNaissance":"19 décembre 1988",
+    "dateNaissance":"lundi 19 décembre 1988",
     "age":25,
     "nbSelections":67,
     "championnat":"Espagne",
@@ -1487,7 +1487,7 @@
   {
     "nomJoueur":"Eduardo Vargas",
     "position":"Attaquant",
-    "dateNaissance":"20 novembre 1989",
+    "dateNaissance":"lundi 20 novembre 1989",
     "age":24,
     "nbSelections":30,
     "championnat":"Espagne",
@@ -1498,7 +1498,7 @@
   {
     "nomJoueur":"Esteban Paredes",
     "position":"Attaquant",
-    "dateNaissance":"1 août 1980",
+    "dateNaissance":"vendredi 1 août 1980",
     "age":33,
     "nbSelections":35,
     "championnat":"Chili",
@@ -1509,7 +1509,7 @@
   {
     "nomJoueur":"Mauricio Pinilla",
     "position":"Attaquant",
-    "dateNaissance":"4 février 1984",
+    "dateNaissance":"samedi 4 février 1984",
     "age":30,
     "nbSelections":27,
     "championnat":"Italie",
@@ -1520,7 +1520,7 @@
   {
     "nomJoueur":"David de Gea",
     "position":"Gardien",
-    "dateNaissance":"7 novembre 1990",
+    "dateNaissance":"mercredi 7 novembre 1990",
     "age":23,
     "nbSelections":1,
     "championnat":"Angleterre",
@@ -1531,7 +1531,7 @@
   {
     "nomJoueur":"Iker Casillas (c)",
     "position":"Gardien",
-    "dateNaissance":"20 mai 1981",
+    "dateNaissance":"mercredi 20 mai 1981",
     "age":33,
     "nbSelections":154,
     "championnat":"Espagne",
@@ -1542,7 +1542,7 @@
   {
     "nomJoueur":"Pepe Reina",
     "position":"Gardien",
-    "dateNaissance":"31 août 1982",
+    "dateNaissance":"mardi 31 août 1982",
     "age":31,
     "nbSelections":32,
     "championnat":"Italie",
@@ -1553,7 +1553,7 @@
   {
     "nomJoueur":"Cesar Azpilicueta",
     "position":"Défenseur",
-    "dateNaissance":"28 août 1989",
+    "dateNaissance":"lundi 28 août 1989",
     "age":24,
     "nbSelections":6,
     "championnat":"Angleterre",
@@ -1564,7 +1564,7 @@
   {
     "nomJoueur":"Gerard Pique",
     "position":"Défenseur",
-    "dateNaissance":"2 février 1987",
+    "dateNaissance":"lundi 2 février 1987",
     "age":27,
     "nbSelections":60,
     "championnat":"Espagne",
@@ -1575,7 +1575,7 @@
   {
     "nomJoueur":"Jordi Alba",
     "position":"Défenseur",
-    "dateNaissance":"21 mars 1989",
+    "dateNaissance":"mardi 21 mars 1989",
     "age":25,
     "nbSelections":26,
     "championnat":"Espagne",
@@ -1586,7 +1586,7 @@
   {
     "nomJoueur":"Juanfran",
     "position":"Défenseur",
-    "dateNaissance":"9 janvier 1985",
+    "dateNaissance":"mercredi 9 janvier 1985",
     "age":29,
     "nbSelections":8,
     "championnat":"Espagne",
@@ -1597,7 +1597,7 @@
   {
     "nomJoueur":"Raul Albiol",
     "position":"Défenseur",
-    "dateNaissance":"4 septembre 1985",
+    "dateNaissance":"mercredi 4 septembre 1985",
     "age":28,
     "nbSelections":46,
     "championnat":"Italie",
@@ -1608,7 +1608,7 @@
   {
     "nomJoueur":"Sergio Ramos",
     "position":"Défenseur",
-    "dateNaissance":"30 mars 1986",
+    "dateNaissance":"dimanche 30 mars 1986",
     "age":28,
     "nbSelections":117,
     "championnat":"Espagne",
@@ -1619,7 +1619,7 @@
   {
     "nomJoueur":"Andres Iniesta",
     "position":"Milieu",
-    "dateNaissance":"11 mai 1984",
+    "dateNaissance":"vendredi 11 mai 1984",
     "age":30,
     "nbSelections":97,
     "championnat":"Espagne",
@@ -1630,7 +1630,7 @@
   {
     "nomJoueur":"Cesc Fabregas",
     "position":"Milieu",
-    "dateNaissance":"4 mai 1987",
+    "dateNaissance":"lundi 4 mai 1987",
     "age":27,
     "nbSelections":89,
     "championnat":"Espagne",
@@ -1641,7 +1641,7 @@
   {
     "nomJoueur":"David Silva",
     "position":"Milieu",
-    "dateNaissance":"8 janvier 1986",
+    "dateNaissance":"mercredi 8 janvier 1986",
     "age":28,
     "nbSelections":80,
     "championnat":"Angleterre",
@@ -1652,7 +1652,7 @@
   {
     "nomJoueur":"Javi Martinez",
     "position":"Milieu",
-    "dateNaissance":"2 septembre 1988",
+    "dateNaissance":"vendredi 2 septembre 1988",
     "age":25,
     "nbSelections":17,
     "championnat":"Allemagne",
@@ -1663,7 +1663,7 @@
   {
     "nomJoueur":"Juan Mata",
     "position":"Milieu",
-    "dateNaissance":"28 avril 1988",
+    "dateNaissance":"jeudi 28 avril 1988",
     "age":26,
     "nbSelections":33,
     "championnat":"Angleterre",
@@ -1674,7 +1674,7 @@
   {
     "nomJoueur":"Koke",
     "position":"Milieu",
-    "dateNaissance":"8 janvier 1992",
+    "dateNaissance":"mercredi 8 janvier 1992",
     "age":22,
     "nbSelections":8,
     "championnat":"Espagne",
@@ -1685,7 +1685,7 @@
   {
     "nomJoueur":"Santi Cazorla",
     "position":"Milieu",
-    "dateNaissance":"13 décembre 1984",
+    "dateNaissance":"jeudi 13 décembre 1984",
     "age":29,
     "nbSelections":64,
     "championnat":"Angleterre",
@@ -1696,7 +1696,7 @@
   {
     "nomJoueur":"Sergio Busquets",
     "position":"Milieu",
-    "dateNaissance":"16 juillet 1988",
+    "dateNaissance":"samedi 16 juillet 1988",
     "age":25,
     "nbSelections":65,
     "championnat":"Espagne",
@@ -1707,7 +1707,7 @@
   {
     "nomJoueur":"Xabi Alonso",
     "position":"Milieu",
-    "dateNaissance":"25 novembre 1981",
+    "dateNaissance":"mercredi 25 novembre 1981",
     "age":32,
     "nbSelections":111,
     "championnat":"Espagne",
@@ -1718,7 +1718,7 @@
   {
     "nomJoueur":"Xavi",
     "position":"Milieu",
-    "dateNaissance":"25 janvier 1980",
+    "dateNaissance":"vendredi 25 janvier 1980",
     "age":34,
     "nbSelections":132,
     "championnat":"Espagne",
@@ -1729,7 +1729,7 @@
   {
     "nomJoueur":"David Villa",
     "position":"Attaquant",
-    "dateNaissance":"3 décembre 1981",
+    "dateNaissance":"jeudi 3 décembre 1981",
     "age":32,
     "nbSelections":96,
     "championnat":"Espagne",
@@ -1740,7 +1740,7 @@
   {
     "nomJoueur":"Diego Costa",
     "position":"Attaquant",
-    "dateNaissance":"7 octobre 1988",
+    "dateNaissance":"vendredi 7 octobre 1988",
     "age":25,
     "nbSelections":2,
     "championnat":"Espagne",
@@ -1751,7 +1751,7 @@
   {
     "nomJoueur":"Fernando Torres",
     "position":"Attaquant",
-    "dateNaissance":"20 mars 1984",
+    "dateNaissance":"mardi 20 mars 1984",
     "age":30,
     "nbSelections":107,
     "championnat":"Angleterre",
@@ -1762,7 +1762,7 @@
   {
     "nomJoueur":"Pedro",
     "position":"Attaquant",
-    "dateNaissance":"28 juillet 1987",
+    "dateNaissance":"mardi 28 juillet 1987",
     "age":26,
     "nbSelections":40,
     "championnat":"Espagne",
@@ -1773,7 +1773,7 @@
   {
     "nomJoueur":"Jasper Cillessen",
     "position":"Gardien",
-    "dateNaissance":"22 avril 1989",
+    "dateNaissance":"samedi 22 avril 1989",
     "age":25,
     "nbSelections":8,
     "championnat":"Pays-Bas",
@@ -1784,7 +1784,7 @@
   {
     "nomJoueur":"Michel Vorm",
     "position":"Gardien",
-    "dateNaissance":"3 octobre 1983",
+    "dateNaissance":"lundi 3 octobre 1983",
     "age":30,
     "nbSelections":14,
     "championnat":"Angleterre",
@@ -1795,7 +1795,7 @@
   {
     "nomJoueur":"Tim Krul",
     "position":"Gardien",
-    "dateNaissance":"3 avril 1988",
+    "dateNaissance":"dimanche 3 avril 1988",
     "age":26,
     "nbSelections":5,
     "championnat":"Angleterre",
@@ -1806,7 +1806,7 @@
   {
     "nomJoueur":"Bruno Martins Indi",
     "position":"Défenseur",
-    "dateNaissance":"8 février 1992",
+    "dateNaissance":"samedi 8 février 1992",
     "age":22,
     "nbSelections":16,
     "championnat":"Pays-Bas",
@@ -1817,7 +1817,7 @@
   {
     "nomJoueur":"Daley Blind",
     "position":"Défenseur",
-    "dateNaissance":"9 mars 1990",
+    "dateNaissance":"vendredi 9 mars 1990",
     "age":24,
     "nbSelections":12,
     "championnat":"Pays-Bas",
@@ -1828,7 +1828,7 @@
   {
     "nomJoueur":"Daryl Janmaat",
     "position":"Défenseur",
-    "dateNaissance":"22 juillet 1989",
+    "dateNaissance":"samedi 22 juillet 1989",
     "age":24,
     "nbSelections":16,
     "championnat":"Pays-Bas",
@@ -1839,7 +1839,7 @@
   {
     "nomJoueur":"Joel Veltman",
     "position":"Défenseur",
-    "dateNaissance":"15 janvier 1992",
+    "dateNaissance":"mercredi 15 janvier 1992",
     "age":22,
     "nbSelections":2,
     "championnat":"Pays-Bas",
@@ -1850,7 +1850,7 @@
   {
     "nomJoueur":"Paul Verhaegh",
     "position":"Défenseur",
-    "dateNaissance":"1 septembre 1983",
+    "dateNaissance":"jeudi 1 septembre 1983",
     "age":30,
     "nbSelections":2,
     "championnat":"Allemagne",
@@ -1861,7 +1861,7 @@
   {
     "nomJoueur":"Ron Vlaar",
     "position":"Défenseur",
-    "dateNaissance":"16 février 1985",
+    "dateNaissance":"samedi 16 février 1985",
     "age":29,
     "nbSelections":24,
     "championnat":"Angleterre",
@@ -1872,7 +1872,7 @@
   {
     "nomJoueur":"Stefan de Vrij",
     "position":"Défenseur",
-    "dateNaissance":"5 février 1992",
+    "dateNaissance":"mercredi 5 février 1992",
     "age":22,
     "nbSelections":12,
     "championnat":"Pays-Bas",
@@ -1883,7 +1883,7 @@
   {
     "nomJoueur":"Terence Kongolo",
     "position":"Défenseur",
-    "dateNaissance":"14 février 1994",
+    "dateNaissance":"lundi 14 février 1994",
     "age":20,
     "nbSelections":1,
     "championnat":"Pays-Bas",
@@ -1894,7 +1894,7 @@
   {
     "nomJoueur":"Arjen Robben",
     "position":"Milieu",
-    "dateNaissance":"23 janvier 1984",
+    "dateNaissance":"lundi 23 janvier 1984",
     "age":30,
     "nbSelections":75,
     "championnat":"Allemagne",
@@ -1905,7 +1905,7 @@
   {
     "nomJoueur":"Georginio Wijnaldum",
     "position":"Milieu",
-    "dateNaissance":"11 novembre 1990",
+    "dateNaissance":"dimanche 11 novembre 1990",
     "age":23,
     "nbSelections":5,
     "championnat":"Pays-Bas",
@@ -1916,7 +1916,7 @@
   {
     "nomJoueur":"Jonathan de Guzman",
     "position":"Milieu",
-    "dateNaissance":"13 septembre 1987",
+    "dateNaissance":"dimanche 13 septembre 1987",
     "age":26,
     "nbSelections":10,
     "championnat":"Angleterre",
@@ -1927,7 +1927,7 @@
   {
     "nomJoueur":"Jordy Clasie",
     "position":"Milieu",
-    "dateNaissance":"27 juin 1991",
+    "dateNaissance":"jeudi 27 juin 1991",
     "age":22,
     "nbSelections":8,
     "championnat":"Pays-Bas",
@@ -1938,7 +1938,7 @@
   {
     "nomJoueur":"Leroy Fer",
     "position":"Milieu",
-    "dateNaissance":"5 janvier 1990",
+    "dateNaissance":"vendredi 5 janvier 1990",
     "age":24,
     "nbSelections":6,
     "championnat":"Angleterre",
@@ -1949,7 +1949,7 @@
   {
     "nomJoueur":"Memphis Depay",
     "position":"Milieu",
-    "dateNaissance":"13 février 1994",
+    "dateNaissance":"dimanche 13 février 1994",
     "age":20,
     "nbSelections":6,
     "championnat":"Pays-Bas",
@@ -1960,7 +1960,7 @@
   {
     "nomJoueur":"Nigel de Jong",
     "position":"Milieu",
-    "dateNaissance":"13 novembre 1984",
+    "dateNaissance":"mardi 13 novembre 1984",
     "age":29,
     "nbSelections":71,
     "championnat":"Italie",
@@ -1971,7 +1971,7 @@
   {
     "nomJoueur":"Wesley Sneijder",
     "position":"Milieu",
-    "dateNaissance":"9 juin 1984",
+    "dateNaissance":"samedi 9 juin 1984",
     "age":29,
     "nbSelections":99,
     "championnat":"Turquie",
@@ -1982,7 +1982,7 @@
   {
     "nomJoueur":"Dirk Kuyt",
     "position":"Attaquant",
-    "dateNaissance":"22 juillet 1980",
+    "dateNaissance":"mardi 22 juillet 1980",
     "age":33,
     "nbSelections":98,
     "championnat":"Turquie",
@@ -1993,7 +1993,7 @@
   {
     "nomJoueur":"Jeremain Lens",
     "position":"Attaquant",
-    "dateNaissance":"24 novembre 1987",
+    "dateNaissance":"mardi 24 novembre 1987",
     "age":26,
     "nbSelections":22,
     "championnat":"Ukraine",
@@ -2004,7 +2004,7 @@
   {
     "nomJoueur":"Klaas-Jan Huntelaar",
     "position":"Attaquant",
-    "dateNaissance":"12 août 1983",
+    "dateNaissance":"vendredi 12 août 1983",
     "age":30,
     "nbSelections":62,
     "championnat":"Allemagne",
@@ -2015,7 +2015,7 @@
   {
     "nomJoueur":"Robin van Persie (c)",
     "position":"Attaquant",
-    "dateNaissance":"6 août 1983",
+    "dateNaissance":"samedi 6 août 1983",
     "age":30,
     "nbSelections":85,
     "championnat":"Angleterre",
@@ -2026,7 +2026,7 @@
   {
     "nomJoueur":"Camilo Vargas",
     "position":"Gardien",
-    "dateNaissance":"1 septembre 1989",
+    "dateNaissance":"vendredi 1 septembre 1989",
     "age":24,
     "nbSelections":0,
     "championnat":"Colombie",
@@ -2037,7 +2037,7 @@
   {
     "nomJoueur":"David Ospina",
     "position":"Gardien",
-    "dateNaissance":"31 août 1988",
+    "dateNaissance":"mercredi 31 août 1988",
     "age":25,
     "nbSelections":44,
     "championnat":"France",
@@ -2048,7 +2048,7 @@
   {
     "nomJoueur":"Faryd Mondragon",
     "position":"Gardien",
-    "dateNaissance":"21 juin 1971",
+    "dateNaissance":"lundi 21 juin 1971",
     "age":42,
     "nbSelections":50,
     "championnat":"Colombie",
@@ -2059,7 +2059,7 @@
   {
     "nomJoueur":"Carlos Valdes",
     "position":"Défenseur",
-    "dateNaissance":"22 mai 1985",
+    "dateNaissance":"mercredi 22 mai 1985",
     "age":29,
     "nbSelections":14,
     "championnat":"Argentine",
@@ -2070,7 +2070,7 @@
   {
     "nomJoueur":"Cristian Zapata",
     "position":"Défenseur",
-    "dateNaissance":"30 septembre 1986",
+    "dateNaissance":"mardi 30 septembre 1986",
     "age":27,
     "nbSelections":24,
     "championnat":"Italie",
@@ -2081,7 +2081,7 @@
   {
     "nomJoueur":"Eder Alvarez Balanta",
     "position":"Défenseur",
-    "dateNaissance":"28 février 1993",
+    "dateNaissance":"dimanche 28 février 1993",
     "age":21,
     "nbSelections":3,
     "championnat":"Argentine",
@@ -2092,7 +2092,7 @@
   {
     "nomJoueur":"Juan Camilo Zuniga",
     "position":"Défenseur",
-    "dateNaissance":"14 décembre 1985",
+    "dateNaissance":"samedi 14 décembre 1985",
     "age":28,
     "nbSelections":50,
     "championnat":"Italie",
@@ -2103,7 +2103,7 @@
   {
     "nomJoueur":"Mario Yepes (c)",
     "position":"Défenseur",
-    "dateNaissance":"13 janvier 1976",
+    "dateNaissance":"mardi 13 janvier 1976",
     "age":38,
     "nbSelections":98,
     "championnat":"Italie",
@@ -2114,7 +2114,7 @@
   {
     "nomJoueur":"Pablo Armero",
     "position":"Défenseur",
-    "dateNaissance":"2 novembre 1986",
+    "dateNaissance":"dimanche 2 novembre 1986",
     "age":27,
     "nbSelections":53,
     "championnat":"Angleterre",
@@ -2125,7 +2125,7 @@
   {
     "nomJoueur":"Santiago Arias",
     "position":"Défenseur",
-    "dateNaissance":"13 janvier 1992",
+    "dateNaissance":"lundi 13 janvier 1992",
     "age":22,
     "nbSelections":6,
     "championnat":"Pays-Bas",
@@ -2136,7 +2136,7 @@
   {
     "nomJoueur":"Abel Aguilar",
     "position":"Milieu",
-    "dateNaissance":"6 janvier 1985",
+    "dateNaissance":"dimanche 6 janvier 1985",
     "age":29,
     "nbSelections":49,
     "championnat":"France",
@@ -2147,7 +2147,7 @@
   {
     "nomJoueur":"Carlos Carbonero",
     "position":"Milieu",
-    "dateNaissance":"25 juillet 1990",
+    "dateNaissance":"mercredi 25 juillet 1990",
     "age":23,
     "nbSelections":1,
     "championnat":"Argentine",
@@ -2158,7 +2158,7 @@
   {
     "nomJoueur":"Alexander Mejia",
     "position":"Milieu",
-    "dateNaissance":"7 septembre 1988",
+    "dateNaissance":"mercredi 7 septembre 1988",
     "age":25,
     "nbSelections":8,
     "championnat":"Colombie",
@@ -2169,7 +2169,7 @@
   {
     "nomJoueur":"Carlos Sanchez",
     "position":"Milieu",
-    "dateNaissance":"6 février 1986",
+    "dateNaissance":"jeudi 6 février 1986",
     "age":28,
     "nbSelections":44,
     "championnat":"Espagne",
@@ -2180,7 +2180,7 @@
   {
     "nomJoueur":"Fredy Guarin",
     "position":"Milieu",
-    "dateNaissance":"30 juin 1986",
+    "dateNaissance":"lundi 30 juin 1986",
     "age":27,
     "nbSelections":49,
     "championnat":"Italie",
@@ -2191,7 +2191,7 @@
   {
     "nomJoueur":"James Rodriguez",
     "position":"Milieu",
-    "dateNaissance":"12 juillet 1991",
+    "dateNaissance":"vendredi 12 juillet 1991",
     "age":22,
     "nbSelections":22,
     "championnat":"France",
@@ -2202,7 +2202,7 @@
   {
     "nomJoueur":"Juan Fernando Quintero",
     "position":"Milieu",
-    "dateNaissance":"18 janvier 1993",
+    "dateNaissance":"lundi 18 janvier 1993",
     "age":21,
     "nbSelections":4,
     "championnat":"Portugal",
@@ -2213,7 +2213,7 @@
   {
     "nomJoueur":"Juan Guillermo Cuadrado",
     "position":"Milieu",
-    "dateNaissance":"26 mai 1988",
+    "dateNaissance":"jeudi 26 mai 1988",
     "age":26,
     "nbSelections":28,
     "championnat":"Italie",
@@ -2224,7 +2224,7 @@
   {
     "nomJoueur":"Victor Ibarbo",
     "position":"Milieu",
-    "dateNaissance":"19 mai 1990",
+    "dateNaissance":"samedi 19 mai 1990",
     "age":24,
     "nbSelections":9,
     "championnat":"Italie",
@@ -2235,7 +2235,7 @@
   {
     "nomJoueur":"Adrian Ramos",
     "position":"Attaquant",
-    "dateNaissance":"22 janvier 1986",
+    "dateNaissance":"mercredi 22 janvier 1986",
     "age":28,
     "nbSelections":26,
     "championnat":"Allemagne",
@@ -2246,7 +2246,7 @@
   {
     "nomJoueur":"Carlos Bacca",
     "position":"Attaquant",
-    "dateNaissance":"8 septembre 1986",
+    "dateNaissance":"lundi 8 septembre 1986",
     "age":27,
     "nbSelections":11,
     "championnat":"Espagne",
@@ -2257,7 +2257,7 @@
   {
     "nomJoueur":"Jackson Martinez",
     "position":"Attaquant",
-    "dateNaissance":"3 octobre 1986",
+    "dateNaissance":"vendredi 3 octobre 1986",
     "age":27,
     "nbSelections":27,
     "championnat":"Portugal",
@@ -2268,7 +2268,7 @@
   {
     "nomJoueur":"Teofilo Gutierrez",
     "position":"Attaquant",
-    "dateNaissance":"28 mai 1985",
+    "dateNaissance":"mardi 28 mai 1985",
     "age":29,
     "nbSelections":30,
     "championnat":"Argentine",
@@ -2279,7 +2279,7 @@
   {
     "nomJoueur":"Boubacar Barry",
     "position":"Gardien",
-    "dateNaissance":"30 décembre 1979",
+    "dateNaissance":"dimanche 30 décembre 1979",
     "age":34,
     "nbSelections":79,
     "championnat":"Belgique",
@@ -2290,7 +2290,7 @@
   {
     "nomJoueur":"Sayouba Mande",
     "position":"Gardien",
-    "dateNaissance":"5 juin 1993",
+    "dateNaissance":"samedi 5 juin 1993",
     "age":21,
     "nbSelections":1,
     "championnat":"Norvege",
@@ -2301,7 +2301,7 @@
   {
     "nomJoueur":"Sylvain Gbohouo",
     "position":"Gardien",
-    "dateNaissance":"29 octobre 1988",
+    "dateNaissance":"samedi 29 octobre 1988",
     "age":25,
     "nbSelections":1,
     "championnat":"Cote d'Ivoire",
@@ -2312,7 +2312,7 @@
   {
     "nomJoueur":"Arthur Boka",
     "position":"Défenseur",
-    "dateNaissance":"2 avril 1983",
+    "dateNaissance":"samedi 2 avril 1983",
     "age":31,
     "nbSelections":79,
     "championnat":"Allemagne",
@@ -2323,7 +2323,7 @@
   {
     "nomJoueur":"Constant Djakpa",
     "position":"Défenseur",
-    "dateNaissance":"17 octobre 1986",
+    "dateNaissance":"vendredi 17 octobre 1986",
     "age":27,
     "nbSelections":4,
     "championnat":"Allemagne",
@@ -2334,7 +2334,7 @@
   {
     "nomJoueur":"Didier Zokora",
     "position":"Défenseur",
-    "dateNaissance":"14 décembre 1980",
+    "dateNaissance":"dimanche 14 décembre 1980",
     "age":33,
     "nbSelections":119,
     "championnat":"Turquie",
@@ -2345,7 +2345,7 @@
   {
     "nomJoueur":"Jean-Daniel Akpa-Akpro",
     "position":"Défenseur",
-    "dateNaissance":"11 octobre 1992",
+    "dateNaissance":"dimanche 11 octobre 1992",
     "age":21,
     "nbSelections":1,
     "championnat":"France",
@@ -2356,7 +2356,7 @@
   {
     "nomJoueur":"Kolo Toure",
     "position":"Défenseur",
-    "dateNaissance":"19 mars 1981",
+    "dateNaissance":"jeudi 19 mars 1981",
     "age":33,
     "nbSelections":106,
     "championnat":"Angleterre",
@@ -2367,7 +2367,7 @@
   {
     "nomJoueur":"Ousmane Viera",
     "position":"Défenseur",
-    "dateNaissance":"21 décembre 1986",
+    "dateNaissance":"dimanche 21 décembre 1986",
     "age":27,
     "nbSelections":3,
     "championnat":"Turquie",
@@ -2378,7 +2378,7 @@
   {
     "nomJoueur":"Serge Aurier",
     "position":"Défenseur",
-    "dateNaissance":"24 décembre 1992",
+    "dateNaissance":"jeudi 24 décembre 1992",
     "age":21,
     "nbSelections":8,
     "championnat":"France",
@@ -2389,7 +2389,7 @@
   {
     "nomJoueur":"Sol Bamba",
     "position":"Défenseur",
-    "dateNaissance":"13 janvier 1985",
+    "dateNaissance":"dimanche 13 janvier 1985",
     "age":29,
     "nbSelections":43,
     "championnat":"Turquie",
@@ -2400,7 +2400,7 @@
   {
     "nomJoueur":"Cheick Tiote",
     "position":"Milieu",
-    "dateNaissance":"21 juin 1986",
+    "dateNaissance":"samedi 21 juin 1986",
     "age":27,
     "nbSelections":44,
     "championnat":"Angleterre",
@@ -2411,7 +2411,7 @@
   {
     "nomJoueur":"Didier Ya Konan",
     "position":"Milieu",
-    "dateNaissance":"25 février 1984",
+    "dateNaissance":"samedi 25 février 1984",
     "age":30,
     "nbSelections":25,
     "championnat":"Allemagne",
@@ -2422,7 +2422,7 @@
   {
     "nomJoueur":"Ismael Diomande",
     "position":"Milieu",
-    "dateNaissance":"28 août 1992",
+    "dateNaissance":"vendredi 28 août 1992",
     "age":21,
     "nbSelections":1,
     "championnat":"France",
@@ -2433,7 +2433,7 @@
   {
     "nomJoueur":"Serey Die",
     "position":"Milieu",
-    "dateNaissance":"7 novembre 1984",
+    "dateNaissance":"mercredi 7 novembre 1984",
     "age":29,
     "nbSelections":6,
     "championnat":"Suisse",
@@ -2444,7 +2444,7 @@
   {
     "nomJoueur":"Yaya Toure",
     "position":"Milieu",
-    "dateNaissance":"13 mai 1983",
+    "dateNaissance":"vendredi 13 mai 1983",
     "age":31,
     "nbSelections":83,
     "championnat":"Angleterre",
@@ -2455,7 +2455,7 @@
   {
     "nomJoueur":"Didier Drogba (c)",
     "position":"Attaquant",
-    "dateNaissance":"11 mars 1978",
+    "dateNaissance":"samedi 11 mars 1978",
     "age":36,
     "nbSelections":100,
     "championnat":"Turquie",
@@ -2466,7 +2466,7 @@
   {
     "nomJoueur":"Gervinho",
     "position":"Attaquant",
-    "dateNaissance":"27 mai 1987",
+    "dateNaissance":"mercredi 27 mai 1987",
     "age":27,
     "nbSelections":53,
     "championnat":"Italie",
@@ -2477,7 +2477,7 @@
   {
     "nomJoueur":"Giovanni Sio",
     "position":"Attaquant",
-    "dateNaissance":"31 mars 1989",
+    "dateNaissance":"vendredi 31 mars 1989",
     "age":25,
     "nbSelections":7,
     "championnat":"Suisse",
@@ -2488,7 +2488,7 @@
   {
     "nomJoueur":"Mathis Bolly",
     "position":"Attaquant",
-    "dateNaissance":"14 novembre 1990",
+    "dateNaissance":"mercredi 14 novembre 1990",
     "age":23,
     "nbSelections":3,
     "championnat":"Allemagne",
@@ -2499,7 +2499,7 @@
   {
     "nomJoueur":"Max Gradel",
     "position":"Attaquant",
-    "dateNaissance":"30 novembre 1987",
+    "dateNaissance":"lundi 30 novembre 1987",
     "age":26,
     "nbSelections":25,
     "championnat":"France",
@@ -2510,7 +2510,7 @@
   {
     "nomJoueur":"Salomon Kalou",
     "position":"Attaquant",
-    "dateNaissance":"5 août 1985",
+    "dateNaissance":"lundi 5 août 1985",
     "age":28,
     "nbSelections":64,
     "championnat":"France",
@@ -2521,7 +2521,7 @@
   {
     "nomJoueur":"Wilfried Bony",
     "position":"Attaquant",
-    "dateNaissance":"10 décembre 1988",
+    "dateNaissance":"samedi 10 décembre 1988",
     "age":25,
     "nbSelections":24,
     "championnat":"Angleterre",
@@ -2532,7 +2532,7 @@
   {
     "nomJoueur":"Orestis Karnezis",
     "position":"Gardien",
-    "dateNaissance":"11 juillet 1985",
+    "dateNaissance":"jeudi 11 juillet 1985",
     "age":28,
     "nbSelections":19,
     "championnat":"Espagne",
@@ -2543,7 +2543,7 @@
   {
     "nomJoueur":"Panagiotis Glykos",
     "position":"Gardien",
-    "dateNaissance":"3 juin 1986",
+    "dateNaissance":"mardi 3 juin 1986",
     "age":28,
     "nbSelections":2,
     "championnat":"Grece",
@@ -2554,7 +2554,7 @@
   {
     "nomJoueur":"Stefanos Kapino",
     "position":"Gardien",
-    "dateNaissance":"18 mars 1994",
+    "dateNaissance":"vendredi 18 mars 1994",
     "age":20,
     "nbSelections":2,
     "championnat":"Grece",
@@ -2565,7 +2565,7 @@
   {
     "nomJoueur":"Giannis Maniatis",
     "position":"Milieu",
-    "dateNaissance":"12 octobre 1986",
+    "dateNaissance":"dimanche 12 octobre 1986",
     "age":27,
     "nbSelections":30,
     "championnat":"Grece",
@@ -2576,7 +2576,7 @@
   {
     "nomJoueur":"Giorgos Tzavellas",
     "position":"Défenseur",
-    "dateNaissance":"26 novembre 1987",
+    "dateNaissance":"jeudi 26 novembre 1987",
     "age":26,
     "nbSelections":13,
     "championnat":"Grece",
@@ -2587,7 +2587,7 @@
   {
     "nomJoueur":"Jose Holebas",
     "position":"Défenseur",
-    "dateNaissance":"27 juin 1984",
+    "dateNaissance":"mercredi 27 juin 1984",
     "age":29,
     "nbSelections":22,
     "championnat":"Grece",
@@ -2598,7 +2598,7 @@
   {
     "nomJoueur":"Kostas Manolas",
     "position":"Défenseur",
-    "dateNaissance":"14 juin 1991",
+    "dateNaissance":"vendredi 14 juin 1991",
     "age":22,
     "nbSelections":9,
     "championnat":"Grece",
@@ -2609,7 +2609,7 @@
   {
     "nomJoueur":"Loukas Vyntra",
     "position":"Défenseur",
-    "dateNaissance":"5 février 1981",
+    "dateNaissance":"jeudi 5 février 1981",
     "age":33,
     "nbSelections":50,
     "championnat":"Espagne",
@@ -2620,7 +2620,7 @@
   {
     "nomJoueur":"Sokratis Papastathopoulos",
     "position":"Défenseur",
-    "dateNaissance":"9 juin 1988",
+    "dateNaissance":"jeudi 9 juin 1988",
     "age":25,
     "nbSelections":47,
     "championnat":"Allemagne",
@@ -2631,7 +2631,7 @@
   {
     "nomJoueur":"Vangelis Moras",
     "position":"Défenseur",
-    "dateNaissance":"26 août 1981",
+    "dateNaissance":"mercredi 26 août 1981",
     "age":32,
     "nbSelections":19,
     "championnat":"Italie",
@@ -2642,7 +2642,7 @@
   {
     "nomJoueur":"Vasilis Torosidis",
     "position":"Défenseur",
-    "dateNaissance":"10 juin 1985",
+    "dateNaissance":"lundi 10 juin 1985",
     "age":28,
     "nbSelections":66,
     "championnat":"Italie",
@@ -2653,7 +2653,7 @@
   {
     "nomJoueur":"Alexandros Tziolis",
     "position":"Milieu",
-    "dateNaissance":"13 février 1985",
+    "dateNaissance":"mercredi 13 février 1985",
     "age":29,
     "nbSelections":49,
     "championnat":"Turquie",
@@ -2664,7 +2664,7 @@
   {
     "nomJoueur":"Andreas Samaris",
     "position":"Milieu",
-    "dateNaissance":"13 juin 1989",
+    "dateNaissance":"mardi 13 juin 1989",
     "age":24,
     "nbSelections":4,
     "championnat":"Grece",
@@ -2675,7 +2675,7 @@
   {
     "nomJoueur":"Giannis Fetfatzidis",
     "position":"Milieu",
-    "dateNaissance":"21 décembre 1990",
+    "dateNaissance":"vendredi 21 décembre 1990",
     "age":23,
     "nbSelections":19,
     "championnat":"Italie",
@@ -2686,7 +2686,7 @@
   {
     "nomJoueur":"Giorgos Karagounis (c)",
     "position":"Milieu",
-    "dateNaissance":"6 mars 1977",
+    "dateNaissance":"dimanche 6 mars 1977",
     "age":37,
     "nbSelections":135,
     "championnat":"Angleterre",
@@ -2697,7 +2697,7 @@
   {
     "nomJoueur":"Kostas Katsouranis",
     "position":"Milieu",
-    "dateNaissance":"21 juin 1979",
+    "dateNaissance":"jeudi 21 juin 1979",
     "age":34,
     "nbSelections":111,
     "championnat":"Grece",
@@ -2708,7 +2708,7 @@
   {
     "nomJoueur":"Lazaros Christodoulopoulos",
     "position":"Milieu",
-    "dateNaissance":"19 décembre 1986",
+    "dateNaissance":"vendredi 19 décembre 1986",
     "age":27,
     "nbSelections":19,
     "championnat":"Italie",
@@ -2719,7 +2719,7 @@
   {
     "nomJoueur":"Panagiotis Kone",
     "position":"Milieu",
-    "dateNaissance":"26 juillet 1987",
+    "dateNaissance":"dimanche 26 juillet 1987",
     "age":26,
     "nbSelections":16,
     "championnat":"Italie",
@@ -2730,7 +2730,7 @@
   {
     "nomJoueur":"Panagiotis Tachtsidis",
     "position":"Milieu",
-    "dateNaissance":"15 février 1991",
+    "dateNaissance":"vendredi 15 février 1991",
     "age":23,
     "nbSelections":6,
     "championnat":"Italie",
@@ -2741,7 +2741,7 @@
   {
     "nomJoueur":"Dimitris Salpingidis",
     "position":"Attaquant",
-    "dateNaissance":"18 août 1981",
+    "dateNaissance":"mardi 18 août 1981",
     "age":32,
     "nbSelections":76,
     "championnat":"Grece",
@@ -2752,7 +2752,7 @@
   {
     "nomJoueur":"Giorgos Samaras",
     "position":"Attaquant",
-    "dateNaissance":"21 février 1985",
+    "dateNaissance":"jeudi 21 février 1985",
     "age":29,
     "nbSelections":74,
     "championnat":"Ecosse",
@@ -2763,7 +2763,7 @@
   {
     "nomJoueur":"Kostas Mitroglou",
     "position":"Attaquant",
-    "dateNaissance":"12 mars 1988",
+    "dateNaissance":"samedi 12 mars 1988",
     "age":26,
     "nbSelections":32,
     "championnat":"Angleterre",
@@ -2774,7 +2774,7 @@
   {
     "nomJoueur":"Theofanis Gekas",
     "position":"Attaquant",
-    "dateNaissance":"23 mai 1980",
+    "dateNaissance":"vendredi 23 mai 1980",
     "age":34,
     "nbSelections":72,
     "championnat":"Turquie",
@@ -2785,7 +2785,7 @@
   {
     "nomJoueur":"Eiji Kawashima",
     "position":"Gardien",
-    "dateNaissance":"20 mars 1983",
+    "dateNaissance":"dimanche 20 mars 1983",
     "age":31,
     "nbSelections":56,
     "championnat":"Belgique",
@@ -2794,9 +2794,9 @@
     "equipe":"Japan"
   },
   {
-    "nomJoueur":"Sh?ichi Gonda",
+    "nomJoueur":"Shūichi Gonda",
     "position":"Gardien",
-    "dateNaissance":"3 mars 1989",
+    "dateNaissance":"vendredi 3 mars 1989",
     "age":25,
     "nbSelections":2,
     "championnat":"Japon",
@@ -2807,7 +2807,7 @@
   {
     "nomJoueur":"Shusaku Nishikawa",
     "position":"Gardien",
-    "dateNaissance":"18 juin 1986",
+    "dateNaissance":"mercredi 18 juin 1986",
     "age":27,
     "nbSelections":12,
     "championnat":"Japon",
@@ -2818,7 +2818,7 @@
   {
     "nomJoueur":"Atsuto Uchida",
     "position":"Défenseur",
-    "dateNaissance":"27 mars 1988",
+    "dateNaissance":"dimanche 27 mars 1988",
     "age":26,
     "nbSelections":67,
     "championnat":"Allemagne",
@@ -2827,9 +2827,9 @@
     "equipe":"Japan"
   },
   {
-    "nomJoueur":"G?toku Sakai",
+    "nomJoueur":"Gōtoku Sakai",
     "position":"Défenseur",
-    "dateNaissance":"14 février 1991",
+    "dateNaissance":"jeudi 14 février 1991",
     "age":23,
     "nbSelections":12,
     "championnat":"Allemagne",
@@ -2840,7 +2840,7 @@
   {
     "nomJoueur":"Hiroki Sakai",
     "position":"Défenseur",
-    "dateNaissance":"12 avril 1990",
+    "dateNaissance":"jeudi 12 avril 1990",
     "age":24,
     "nbSelections":17,
     "championnat":"Allemagne",
@@ -2851,7 +2851,7 @@
   {
     "nomJoueur":"Masahiko Inoha",
     "position":"Défenseur",
-    "dateNaissance":"28 août 1983",
+    "dateNaissance":"dimanche 28 août 1983",
     "age":30,
     "nbSelections":21,
     "championnat":"Japon",
@@ -2862,7 +2862,7 @@
   {
     "nomJoueur":"Masato Morishige",
     "position":"Défenseur",
-    "dateNaissance":"21 mai 1987",
+    "dateNaissance":"jeudi 21 mai 1987",
     "age":27,
     "nbSelections":9,
     "championnat":"Japon",
@@ -2873,7 +2873,7 @@
   {
     "nomJoueur":"Maya Yoshida",
     "position":"Défenseur",
-    "dateNaissance":"24 août 1988",
+    "dateNaissance":"mercredi 24 août 1988",
     "age":25,
     "nbSelections":40,
     "championnat":"Angleterre",
@@ -2884,7 +2884,7 @@
   {
     "nomJoueur":"Yasuyuki Konno",
     "position":"Défenseur",
-    "dateNaissance":"25 janvier 1983",
+    "dateNaissance":"mardi 25 janvier 1983",
     "age":31,
     "nbSelections":80,
     "championnat":"Japon",
@@ -2895,7 +2895,7 @@
   {
     "nomJoueur":"Yuto Nagatomo",
     "position":"Défenseur",
-    "dateNaissance":"12 septembre 1986",
+    "dateNaissance":"vendredi 12 septembre 1986",
     "age":27,
     "nbSelections":69,
     "championnat":"Italie",
@@ -2906,7 +2906,7 @@
   {
     "nomJoueur":"Hiroshi Kiyotake",
     "position":"Milieu",
-    "dateNaissance":"12 novembre 1989",
+    "dateNaissance":"dimanche 12 novembre 1989",
     "age":24,
     "nbSelections":25,
     "championnat":"Allemagne",
@@ -2917,7 +2917,7 @@
   {
     "nomJoueur":"Hotaru Yamaguchi",
     "position":"Milieu",
-    "dateNaissance":"6 octobre 1990",
+    "dateNaissance":"samedi 6 octobre 1990",
     "age":23,
     "nbSelections":11,
     "championnat":"Japon",
@@ -2928,7 +2928,7 @@
   {
     "nomJoueur":"Keisuke Honda",
     "position":"Milieu",
-    "dateNaissance":"13 juin 1986",
+    "dateNaissance":"vendredi 13 juin 1986",
     "age":27,
     "nbSelections":55,
     "championnat":"Italie",
@@ -2939,7 +2939,7 @@
   {
     "nomJoueur":"Makoto Hasebe (c)",
     "position":"Milieu",
-    "dateNaissance":"18 janvier 1984",
+    "dateNaissance":"mercredi 18 janvier 1984",
     "age":30,
     "nbSelections":78,
     "championnat":"Allemagne",
@@ -2950,7 +2950,7 @@
   {
     "nomJoueur":"Shinji Kagawa",
     "position":"Milieu",
-    "dateNaissance":"17 mars 1989",
+    "dateNaissance":"vendredi 17 mars 1989",
     "age":25,
     "nbSelections":56,
     "championnat":"Angleterre",
@@ -2961,7 +2961,7 @@
   {
     "nomJoueur":"Toshihiro Aoyama",
     "position":"Milieu",
-    "dateNaissance":"22 février 1986",
+    "dateNaissance":"samedi 22 février 1986",
     "age":28,
     "nbSelections":5,
     "championnat":"Japon",
@@ -2970,9 +2970,9 @@
     "equipe":"Japan"
   },
   {
-    "nomJoueur":"Yasuhito End?",
+    "nomJoueur":"Yasuhito Endō",
     "position":"Milieu",
-    "dateNaissance":"28 janvier 1980",
+    "dateNaissance":"lundi 28 janvier 1980",
     "age":34,
     "nbSelections":143,
     "championnat":"Japon",
@@ -2981,9 +2981,9 @@
     "equipe":"Japan"
   },
   {
-    "nomJoueur":"Manabu Sait?",
+    "nomJoueur":"Manabu Saitō",
     "position":"Attaquant",
-    "dateNaissance":"4 avril 1990",
+    "dateNaissance":"mercredi 4 avril 1990",
     "age":24,
     "nbSelections":4,
     "championnat":"Japon",
@@ -2994,7 +2994,7 @@
   {
     "nomJoueur":"Shinji Okazaki",
     "position":"Attaquant",
-    "dateNaissance":"16 avril 1986",
+    "dateNaissance":"mercredi 16 avril 1986",
     "age":28,
     "nbSelections":75,
     "championnat":"Allemagne",
@@ -3005,7 +3005,7 @@
   {
     "nomJoueur":"Yoichiro Kakitani",
     "position":"Attaquant",
-    "dateNaissance":"3 janvier 1990",
+    "dateNaissance":"mercredi 3 janvier 1990",
     "age":24,
     "nbSelections":11,
     "championnat":"Japon",
@@ -3014,9 +3014,9 @@
     "equipe":"Japan"
   },
   {
-    "nomJoueur":"Yoshito ?kubo",
+    "nomJoueur":"Yoshito Ōkubo",
     "position":"Attaquant",
-    "dateNaissance":"9 juin 1982",
+    "dateNaissance":"mercredi 9 juin 1982",
     "age":31,
     "nbSelections":56,
     "championnat":"Japon",
@@ -3027,7 +3027,7 @@
   {
     "nomJoueur":"Yuya Osako",
     "position":"Attaquant",
-    "dateNaissance":"18 mai 1990",
+    "dateNaissance":"vendredi 18 mai 1990",
     "age":24,
     "nbSelections":8,
     "championnat":"Allemagne",
@@ -3038,7 +3038,7 @@
   {
     "nomJoueur":"Ben Foster",
     "position":"Gardien",
-    "dateNaissance":"3 mai 1983",
+    "dateNaissance":"mardi 3 mai 1983",
     "age":31,
     "nbSelections":6,
     "championnat":"Angleterre",
@@ -3049,7 +3049,7 @@
   {
     "nomJoueur":"Fraser Forster",
     "position":"Gardien",
-    "dateNaissance":"17 mars 1988",
+    "dateNaissance":"jeudi 17 mars 1988",
     "age":26,
     "nbSelections":1,
     "championnat":"Ecosse",
@@ -3060,7 +3060,7 @@
   {
     "nomJoueur":"Joe Hart",
     "position":"Gardien",
-    "dateNaissance":"19 mai 1987",
+    "dateNaissance":"mardi 19 mai 1987",
     "age":27,
     "nbSelections":40,
     "championnat":"Angleterre",
@@ -3071,7 +3071,7 @@
   {
     "nomJoueur":"Chris Smalling",
     "position":"Défenseur",
-    "dateNaissance":"22 novembre 1989",
+    "dateNaissance":"mercredi 22 novembre 1989",
     "age":24,
     "nbSelections":11,
     "championnat":"Angleterre",
@@ -3082,7 +3082,7 @@
   {
     "nomJoueur":"Gary Cahill",
     "position":"Défenseur",
-    "dateNaissance":"19 décembre 1985",
+    "dateNaissance":"jeudi 19 décembre 1985",
     "age":28,
     "nbSelections":23,
     "championnat":"Angleterre",
@@ -3093,7 +3093,7 @@
   {
     "nomJoueur":"Glen Johnson",
     "position":"Défenseur",
-    "dateNaissance":"23 août 1984",
+    "dateNaissance":"jeudi 23 août 1984",
     "age":29,
     "nbSelections":51,
     "championnat":"Angleterre",
@@ -3104,7 +3104,7 @@
   {
     "nomJoueur":"Leighton Baines",
     "position":"Défenseur",
-    "dateNaissance":"11 décembre 1984",
+    "dateNaissance":"mardi 11 décembre 1984",
     "age":29,
     "nbSelections":23,
     "championnat":"Angleterre",
@@ -3115,7 +3115,7 @@
   {
     "nomJoueur":"Luke Shaw",
     "position":"Défenseur",
-    "dateNaissance":"12 juillet 1995",
+    "dateNaissance":"mercredi 12 juillet 1995",
     "age":18,
     "nbSelections":1,
     "championnat":"Angleterre",
@@ -3126,7 +3126,7 @@
   {
     "nomJoueur":"Phil Jagielka",
     "position":"Défenseur",
-    "dateNaissance":"17 août 1982",
+    "dateNaissance":"mardi 17 août 1982",
     "age":31,
     "nbSelections":25,
     "championnat":"Angleterre",
@@ -3137,7 +3137,7 @@
   {
     "nomJoueur":"Phil Jones",
     "position":"Défenseur",
-    "dateNaissance":"21 février 1992",
+    "dateNaissance":"vendredi 21 février 1992",
     "age":22,
     "nbSelections":9,
     "championnat":"Angleterre",
@@ -3148,7 +3148,7 @@
   {
     "nomJoueur":"Adam Lallana",
     "position":"Milieu",
-    "dateNaissance":"10 mai 1988",
+    "dateNaissance":"mardi 10 mai 1988",
     "age":26,
     "nbSelections":4,
     "championnat":"Angleterre",
@@ -3159,7 +3159,7 @@
   {
     "nomJoueur":"Alex Oxlade-Chamberlain",
     "position":"Milieu",
-    "dateNaissance":"15 août 1993",
+    "dateNaissance":"dimanche 15 août 1993",
     "age":20,
     "nbSelections":14,
     "championnat":"Angleterre",
@@ -3170,7 +3170,7 @@
   {
     "nomJoueur":"Frank Lampard",
     "position":"Milieu",
-    "dateNaissance":"20 juin 1978",
+    "dateNaissance":"mardi 20 juin 1978",
     "age":35,
     "nbSelections":103,
     "championnat":"Angleterre",
@@ -3181,7 +3181,7 @@
   {
     "nomJoueur":"Jack Wilshere",
     "position":"Milieu",
-    "dateNaissance":"1 janvier 1992",
+    "dateNaissance":"mercredi 1 janvier 1992",
     "age":22,
     "nbSelections":16,
     "championnat":"Angleterre",
@@ -3192,7 +3192,7 @@
   {
     "nomJoueur":"James Milner",
     "position":"Milieu",
-    "dateNaissance":"4 janvier 1986",
+    "dateNaissance":"samedi 4 janvier 1986",
     "age":28,
     "nbSelections":46,
     "championnat":"Angleterre",
@@ -3203,7 +3203,7 @@
   {
     "nomJoueur":"Jordan Henderson",
     "position":"Milieu",
-    "dateNaissance":"17 juin 1990",
+    "dateNaissance":"dimanche 17 juin 1990",
     "age":23,
     "nbSelections":9,
     "championnat":"Angleterre",
@@ -3214,7 +3214,7 @@
   {
     "nomJoueur":"Raheem Sterling",
     "position":"Milieu",
-    "dateNaissance":"8 décembre 1994",
+    "dateNaissance":"jeudi 8 décembre 1994",
     "age":19,
     "nbSelections":3,
     "championnat":"Angleterre",
@@ -3225,7 +3225,7 @@
   {
     "nomJoueur":"Ross Barkley",
     "position":"Milieu",
-    "dateNaissance":"5 décembre 1993",
+    "dateNaissance":"dimanche 5 décembre 1993",
     "age":20,
     "nbSelections":4,
     "championnat":"Angleterre",
@@ -3236,7 +3236,7 @@
   {
     "nomJoueur":"Steven Gerrard (c)",
     "position":"Milieu",
-    "dateNaissance":"30 mai 1980",
+    "dateNaissance":"vendredi 30 mai 1980",
     "age":34,
     "nbSelections":110,
     "championnat":"Angleterre",
@@ -3247,7 +3247,7 @@
   {
     "nomJoueur":"Daniel Sturridge",
     "position":"Attaquant",
-    "dateNaissance":"1 septembre 1989",
+    "dateNaissance":"vendredi 1 septembre 1989",
     "age":24,
     "nbSelections":11,
     "championnat":"Angleterre",
@@ -3258,7 +3258,7 @@
   {
     "nomJoueur":"Danny Welbeck",
     "position":"Attaquant",
-    "dateNaissance":"26 novembre 1990",
+    "dateNaissance":"lundi 26 novembre 1990",
     "age":23,
     "nbSelections":22,
     "championnat":"Angleterre",
@@ -3269,7 +3269,7 @@
   {
     "nomJoueur":"Rickie Lambert",
     "position":"Attaquant",
-    "dateNaissance":"16 février 1982",
+    "dateNaissance":"mardi 16 février 1982",
     "age":32,
     "nbSelections":4,
     "championnat":"Angleterre",
@@ -3280,7 +3280,7 @@
   {
     "nomJoueur":"Wayne Rooney",
     "position":"Attaquant",
-    "dateNaissance":"24 octobre 1985",
+    "dateNaissance":"jeudi 24 octobre 1985",
     "age":28,
     "nbSelections":90,
     "championnat":"Angleterre",
@@ -3291,7 +3291,7 @@
   {
     "nomJoueur":"Daniel Cambronero",
     "position":"Gardien",
-    "dateNaissance":"8 janvier 1986",
+    "dateNaissance":"mercredi 8 janvier 1986",
     "age":28,
     "nbSelections":2,
     "championnat":"Costa Rica",
@@ -3302,7 +3302,7 @@
   {
     "nomJoueur":"Keylor Navas",
     "position":"Gardien",
-    "dateNaissance":"15 décembre 1986",
+    "dateNaissance":"lundi 15 décembre 1986",
     "age":27,
     "nbSelections":53,
     "championnat":"Espagne",
@@ -3313,7 +3313,7 @@
   {
     "nomJoueur":"Patrick Pemberton",
     "position":"Gardien",
-    "dateNaissance":"24 avril 1982",
+    "dateNaissance":"samedi 24 avril 1982",
     "age":32,
     "nbSelections":21,
     "championnat":"Costa Rica",
@@ -3324,7 +3324,7 @@
   {
     "nomJoueur":"Cristian Gamboa",
     "position":"Défenseur",
-    "dateNaissance":"24 octobre 1989",
+    "dateNaissance":"mardi 24 octobre 1989",
     "age":24,
     "nbSelections":24,
     "championnat":"Norvege",
@@ -3335,7 +3335,7 @@
   {
     "nomJoueur":"Giancarlo Gonzalez",
     "position":"Défenseur",
-    "dateNaissance":"8 février 1988",
+    "dateNaissance":"lundi 8 février 1988",
     "age":26,
     "nbSelections":34,
     "championnat":"Etats-Unis",
@@ -3346,7 +3346,7 @@
   {
     "nomJoueur":"Heiner Mora",
     "position":"Défenseur",
-    "dateNaissance":"20 juin 1984",
+    "dateNaissance":"mercredi 20 juin 1984",
     "age":29,
     "nbSelections":22,
     "championnat":"Costa Rica",
@@ -3357,7 +3357,7 @@
   {
     "nomJoueur":"Johnny Acosta",
     "position":"Défenseur",
-    "dateNaissance":"21 juillet 1983",
+    "dateNaissance":"jeudi 21 juillet 1983",
     "age":30,
     "nbSelections":27,
     "championnat":"Costa Rica",
@@ -3368,7 +3368,7 @@
   {
     "nomJoueur":"Junior Diaz",
     "position":"Défenseur",
-    "dateNaissance":"12 septembre 1983",
+    "dateNaissance":"lundi 12 septembre 1983",
     "age":30,
     "nbSelections":58,
     "championnat":"Allemagne",
@@ -3379,7 +3379,7 @@
   {
     "nomJoueur":"Michael Umana",
     "position":"Défenseur",
-    "dateNaissance":"16 juillet 1982",
+    "dateNaissance":"vendredi 16 juillet 1982",
     "age":31,
     "nbSelections":79,
     "championnat":"Costa Rica",
@@ -3390,7 +3390,7 @@
   {
     "nomJoueur":"Oscar Duarte",
     "position":"Défenseur",
-    "dateNaissance":"3 juin 1989",
+    "dateNaissance":"samedi 3 juin 1989",
     "age":25,
     "nbSelections":11,
     "championnat":"Belgique",
@@ -3401,7 +3401,7 @@
   {
     "nomJoueur":"Roy Miller",
     "position":"Défenseur",
-    "dateNaissance":"24 novembre 1984",
+    "dateNaissance":"samedi 24 novembre 1984",
     "age":29,
     "nbSelections":47,
     "championnat":"Etats-Unis",
@@ -3412,7 +3412,7 @@
   {
     "nomJoueur":"Waylon Francis",
     "position":"Défenseur",
-    "dateNaissance":"20 septembre 1990",
+    "dateNaissance":"jeudi 20 septembre 1990",
     "age":23,
     "nbSelections":1,
     "championnat":"Etats-Unis",
@@ -3423,7 +3423,7 @@
   {
     "nomJoueur":"Celso Borges",
     "position":"Milieu",
-    "dateNaissance":"27 mai 1988",
+    "dateNaissance":"vendredi 27 mai 1988",
     "age":26,
     "nbSelections":63,
     "championnat":"Suede",
@@ -3434,7 +3434,7 @@
   {
     "nomJoueur":"Christian Bolanos",
     "position":"Milieu",
-    "dateNaissance":"17 mai 1984",
+    "dateNaissance":"jeudi 17 mai 1984",
     "age":30,
     "nbSelections":55,
     "championnat":"Danemark",
@@ -3445,7 +3445,7 @@
   {
     "nomJoueur":"Diego Calvo",
     "position":"Milieu",
-    "dateNaissance":"25 mars 1991",
+    "dateNaissance":"lundi 25 mars 1991",
     "age":23,
     "nbSelections":10,
     "championnat":"Norvege",
@@ -3456,7 +3456,7 @@
   {
     "nomJoueur":"Esteban Granados",
     "position":"Milieu",
-    "dateNaissance":"25 octobre 1985",
+    "dateNaissance":"vendredi 25 octobre 1985",
     "age":28,
     "nbSelections":11,
     "championnat":"Costa Rica",
@@ -3467,7 +3467,7 @@
   {
     "nomJoueur":"Jose Miguel Cubero",
     "position":"Milieu",
-    "dateNaissance":"14 février 1987",
+    "dateNaissance":"samedi 14 février 1987",
     "age":27,
     "nbSelections":36,
     "championnat":"Costa Rica",
@@ -3478,7 +3478,7 @@
   {
     "nomJoueur":"Michael Barrantes",
     "position":"Milieu",
-    "dateNaissance":"4 octobre 1983",
+    "dateNaissance":"mardi 4 octobre 1983",
     "age":30,
     "nbSelections":51,
     "championnat":"Norvege",
@@ -3489,7 +3489,7 @@
   {
     "nomJoueur":"Yeltsin Tejeda",
     "position":"Milieu",
-    "dateNaissance":"17 mars 1992",
+    "dateNaissance":"mardi 17 mars 1992",
     "age":22,
     "nbSelections":22,
     "championnat":"Costa Rica",
@@ -3500,7 +3500,7 @@
   {
     "nomJoueur":"Bryan Ruiz (c)",
     "position":"Attaquant",
-    "dateNaissance":"18 août 1985",
+    "dateNaissance":"dimanche 18 août 1985",
     "age":28,
     "nbSelections":62,
     "championnat":"Pays-Bas",
@@ -3511,7 +3511,7 @@
   {
     "nomJoueur":"Joel Campbell",
     "position":"Attaquant",
-    "dateNaissance":"26 juin 1992",
+    "dateNaissance":"vendredi 26 juin 1992",
     "age":21,
     "nbSelections":33,
     "championnat":"Grece",
@@ -3522,7 +3522,7 @@
   {
     "nomJoueur":"Marco Urena",
     "position":"Attaquant",
-    "dateNaissance":"5 mars 1990",
+    "dateNaissance":"lundi 5 mars 1990",
     "age":24,
     "nbSelections":25,
     "championnat":"Russie",
@@ -3533,7 +3533,7 @@
   {
     "nomJoueur":"Randall Brenes",
     "position":"Attaquant",
-    "dateNaissance":"13 août 1983",
+    "dateNaissance":"samedi 13 août 1983",
     "age":30,
     "nbSelections":37,
     "championnat":"Costa Rica",
@@ -3544,7 +3544,7 @@
   {
     "nomJoueur":"Gianluigi Buffon (c)",
     "position":"Gardien",
-    "dateNaissance":"28 janvier 1978",
+    "dateNaissance":"samedi 28 janvier 1978",
     "age":36,
     "nbSelections":139,
     "championnat":"Italie",
@@ -3555,7 +3555,7 @@
   {
     "nomJoueur":"Mattia Perin",
     "position":"Gardien",
-    "dateNaissance":"10 novembre 1992",
+    "dateNaissance":"mardi 10 novembre 1992",
     "age":21,
     "nbSelections":0,
     "championnat":"Italie",
@@ -3566,7 +3566,7 @@
   {
     "nomJoueur":"Salvatore Sirigu",
     "position":"Gardien",
-    "dateNaissance":"12 janvier 1987",
+    "dateNaissance":"lundi 12 janvier 1987",
     "age":27,
     "nbSelections":8,
     "championnat":"France",
@@ -3577,7 +3577,7 @@
   {
     "nomJoueur":"Andrea Barzagli",
     "position":"Défenseur",
-    "dateNaissance":"8 mai 1981",
+    "dateNaissance":"vendredi 8 mai 1981",
     "age":33,
     "nbSelections":47,
     "championnat":"Italie",
@@ -3588,7 +3588,7 @@
   {
     "nomJoueur":"Gabriel Paletta",
     "position":"Défenseur",
-    "dateNaissance":"15 février 1986",
+    "dateNaissance":"samedi 15 février 1986",
     "age":28,
     "nbSelections":2,
     "championnat":"Italie",
@@ -3599,7 +3599,7 @@
   {
     "nomJoueur":"Giorgio Chiellini",
     "position":"Défenseur",
-    "dateNaissance":"14 août 1984",
+    "dateNaissance":"mardi 14 août 1984",
     "age":29,
     "nbSelections":67,
     "championnat":"Italie",
@@ -3610,7 +3610,7 @@
   {
     "nomJoueur":"Ignazio Abate",
     "position":"Défenseur",
-    "dateNaissance":"12 novembre 1986",
+    "dateNaissance":"mercredi 12 novembre 1986",
     "age":27,
     "nbSelections":19,
     "championnat":"Italie",
@@ -3621,7 +3621,7 @@
   {
     "nomJoueur":"Leonardo Bonucci",
     "position":"Défenseur",
-    "dateNaissance":"1 mai 1987",
+    "dateNaissance":"vendredi 1 mai 1987",
     "age":27,
     "nbSelections":36,
     "championnat":"Italie",
@@ -3632,7 +3632,7 @@
   {
     "nomJoueur":"Matteo Darmian",
     "position":"Défenseur",
-    "dateNaissance":"2 décembre 1989",
+    "dateNaissance":"samedi 2 décembre 1989",
     "age":24,
     "nbSelections":1,
     "championnat":"Italie",
@@ -3643,7 +3643,7 @@
   {
     "nomJoueur":"Mattia De Sciglio",
     "position":"Défenseur",
-    "dateNaissance":"20 octobre 1992",
+    "dateNaissance":"mardi 20 octobre 1992",
     "age":21,
     "nbSelections":10,
     "championnat":"Italie",
@@ -3654,7 +3654,7 @@
   {
     "nomJoueur":"Alberto Aquilani",
     "position":"Milieu",
-    "dateNaissance":"7 juillet 1984",
+    "dateNaissance":"samedi 7 juillet 1984",
     "age":29,
     "nbSelections":34,
     "championnat":"Italie",
@@ -3665,7 +3665,7 @@
   {
     "nomJoueur":"Andrea Pirlo",
     "position":"Milieu",
-    "dateNaissance":"19 mai 1979",
+    "dateNaissance":"samedi 19 mai 1979",
     "age":35,
     "nbSelections":108,
     "championnat":"Italie",
@@ -3676,7 +3676,7 @@
   {
     "nomJoueur":"Antonio Candreva",
     "position":"Milieu",
-    "dateNaissance":"28 février 1987",
+    "dateNaissance":"samedi 28 février 1987",
     "age":27,
     "nbSelections":19,
     "championnat":"Italie",
@@ -3687,7 +3687,7 @@
   {
     "nomJoueur":"Claudio Marchisio",
     "position":"Milieu",
-    "dateNaissance":"19 janvier 1986",
+    "dateNaissance":"dimanche 19 janvier 1986",
     "age":28,
     "nbSelections":43,
     "championnat":"Italie",
@@ -3698,7 +3698,7 @@
   {
     "nomJoueur":"Daniele De Rossi",
     "position":"Milieu",
-    "dateNaissance":"24 juillet 1983",
+    "dateNaissance":"dimanche 24 juillet 1983",
     "age":30,
     "nbSelections":94,
     "championnat":"Italie",
@@ -3709,7 +3709,7 @@
   {
     "nomJoueur":"Marco Parolo",
     "position":"Milieu",
-    "dateNaissance":"25 janvier 1985",
+    "dateNaissance":"vendredi 25 janvier 1985",
     "age":29,
     "nbSelections":3,
     "championnat":"Italie",
@@ -3720,7 +3720,7 @@
   {
     "nomJoueur":"Marco Verratti",
     "position":"Milieu",
-    "dateNaissance":"5 novembre 1992",
+    "dateNaissance":"jeudi 5 novembre 1992",
     "age":21,
     "nbSelections":5,
     "championnat":"France",
@@ -3731,7 +3731,7 @@
   {
     "nomJoueur":"Thiago Motta",
     "position":"Milieu",
-    "dateNaissance":"28 août 1982",
+    "dateNaissance":"samedi 28 août 1982",
     "age":31,
     "nbSelections":20,
     "championnat":"France",
@@ -3742,7 +3742,7 @@
   {
     "nomJoueur":"Alessio Cerci",
     "position":"Attaquant",
-    "dateNaissance":"23 juillet 1987",
+    "dateNaissance":"jeudi 23 juillet 1987",
     "age":26,
     "nbSelections":11,
     "championnat":"Italie",
@@ -3753,7 +3753,7 @@
   {
     "nomJoueur":"Antonio Cassano",
     "position":"Attaquant",
-    "dateNaissance":"12 juillet 1982",
+    "dateNaissance":"lundi 12 juillet 1982",
     "age":31,
     "nbSelections":36,
     "championnat":"Italie",
@@ -3764,7 +3764,7 @@
   {
     "nomJoueur":"Ciro Immobile",
     "position":"Attaquant",
-    "dateNaissance":"20 février 1990",
+    "dateNaissance":"mardi 20 février 1990",
     "age":24,
     "nbSelections":2,
     "championnat":"Italie",
@@ -3775,7 +3775,7 @@
   {
     "nomJoueur":"Lorenzo Insigne",
     "position":"Attaquant",
-    "dateNaissance":"4 juin 1991",
+    "dateNaissance":"mardi 4 juin 1991",
     "age":23,
     "nbSelections":4,
     "championnat":"Italie",
@@ -3786,7 +3786,7 @@
   {
     "nomJoueur":"Mario Balotelli",
     "position":"Attaquant",
-    "dateNaissance":"12 août 1990",
+    "dateNaissance":"dimanche 12 août 1990",
     "age":23,
     "nbSelections":29,
     "championnat":"Italie",
@@ -3797,7 +3797,7 @@
   {
     "nomJoueur":"Fernando Muslera",
     "position":"Gardien",
-    "dateNaissance":"16 juin 1986",
+    "dateNaissance":"lundi 16 juin 1986",
     "age":27,
     "nbSelections":57,
     "championnat":"Turquie",
@@ -3808,7 +3808,7 @@
   {
     "nomJoueur":"Martin Silva",
     "position":"Gardien",
-    "dateNaissance":"25 mars 1983",
+    "dateNaissance":"vendredi 25 mars 1983",
     "age":31,
     "nbSelections":4,
     "championnat":"Bresil",
@@ -3819,7 +3819,7 @@
   {
     "nomJoueur":"Rodrigo Munoz",
     "position":"Gardien",
-    "dateNaissance":"22 janvier 1982",
+    "dateNaissance":"vendredi 22 janvier 1982",
     "age":32,
     "nbSelections":0,
     "championnat":"Paraguay",
@@ -3830,7 +3830,7 @@
   {
     "nomJoueur":"Diego Godin",
     "position":"Défenseur",
-    "dateNaissance":"16 février 1986",
+    "dateNaissance":"dimanche 16 février 1986",
     "age":28,
     "nbSelections":76,
     "championnat":"Espagne",
@@ -3841,7 +3841,7 @@
   {
     "nomJoueur":"Diego Lugano (c)",
     "position":"Défenseur",
-    "dateNaissance":"2 novembre 1980",
+    "dateNaissance":"dimanche 2 novembre 1980",
     "age":33,
     "nbSelections":93,
     "championnat":"Angleterre",
@@ -3852,7 +3852,7 @@
   {
     "nomJoueur":"Jorge Fucile",
     "position":"Défenseur",
-    "dateNaissance":"19 novembre 1984",
+    "dateNaissance":"lundi 19 novembre 1984",
     "age":29,
     "nbSelections":41,
     "championnat":"Portugal",
@@ -3863,7 +3863,7 @@
   {
     "nomJoueur":"Jose Maria Gimenez",
     "position":"Défenseur",
-    "dateNaissance":"20 janvier 1995",
+    "dateNaissance":"vendredi 20 janvier 1995",
     "age":19,
     "nbSelections":5,
     "championnat":"Espagne",
@@ -3874,7 +3874,7 @@
   {
     "nomJoueur":"Martin Caceres",
     "position":"Défenseur",
-    "dateNaissance":"7 avril 1987",
+    "dateNaissance":"mardi 7 avril 1987",
     "age":27,
     "nbSelections":56,
     "championnat":"Italie",
@@ -3885,7 +3885,7 @@
   {
     "nomJoueur":"Maxi Pereira",
     "position":"Défenseur",
-    "dateNaissance":"8 juin 1984",
+    "dateNaissance":"vendredi 8 juin 1984",
     "age":29,
     "nbSelections":89,
     "championnat":"Portugal",
@@ -3896,7 +3896,7 @@
   {
     "nomJoueur":"Sebastian Coates",
     "position":"Défenseur",
-    "dateNaissance":"7 octobre 1990",
+    "dateNaissance":"dimanche 7 octobre 1990",
     "age":23,
     "nbSelections":14,
     "championnat":"Uruguay",
@@ -3907,7 +3907,7 @@
   {
     "nomJoueur":"alvaro Gonzalez",
     "position":"Milieu",
-    "dateNaissance":"29 octobre 1984",
+    "dateNaissance":"lundi 29 octobre 1984",
     "age":29,
     "nbSelections":42,
     "championnat":"Italie",
@@ -3918,7 +3918,7 @@
   {
     "nomJoueur":"alvaro Pereira",
     "position":"Milieu",
-    "dateNaissance":"28 novembre 1985",
+    "dateNaissance":"jeudi 28 novembre 1985",
     "age":28,
     "nbSelections":56,
     "championnat":"Bresil",
@@ -3929,7 +3929,7 @@
   {
     "nomJoueur":"Cristian Rodriguez",
     "position":"Milieu",
-    "dateNaissance":"30 septembre 1985",
+    "dateNaissance":"lundi 30 septembre 1985",
     "age":28,
     "nbSelections":72,
     "championnat":"Espagne",
@@ -3940,7 +3940,7 @@
   {
     "nomJoueur":"Diego Perez",
     "position":"Milieu",
-    "dateNaissance":"18 mai 1980",
+    "dateNaissance":"dimanche 18 mai 1980",
     "age":34,
     "nbSelections":89,
     "championnat":"Italie",
@@ -3951,7 +3951,7 @@
   {
     "nomJoueur":"Egidio Arevalo Rios",
     "position":"Milieu",
-    "dateNaissance":"1 janvier 1982",
+    "dateNaissance":"vendredi 1 janvier 1982",
     "age":32,
     "nbSelections":54,
     "championnat":"Mexique",
@@ -3962,7 +3962,7 @@
   {
     "nomJoueur":"Gaston Ramirez",
     "position":"Milieu",
-    "dateNaissance":"2 décembre 1990",
+    "dateNaissance":"dimanche 2 décembre 1990",
     "age":23,
     "nbSelections":28,
     "championnat":"Angleterre",
@@ -3973,7 +3973,7 @@
   {
     "nomJoueur":"Nicolas Lodeiro",
     "position":"Milieu",
-    "dateNaissance":"21 mars 1989",
+    "dateNaissance":"mardi 21 mars 1989",
     "age":25,
     "nbSelections":26,
     "championnat":"Bresil",
@@ -3984,7 +3984,7 @@
   {
     "nomJoueur":"Walter Gargano",
     "position":"Milieu",
-    "dateNaissance":"23 juillet 1984",
+    "dateNaissance":"lundi 23 juillet 1984",
     "age":29,
     "nbSelections":62,
     "championnat":"Italie",
@@ -3995,7 +3995,7 @@
   {
     "nomJoueur":"Abel Hernandez",
     "position":"Attaquant",
-    "dateNaissance":"8 août 1990",
+    "dateNaissance":"mercredi 8 août 1990",
     "age":23,
     "nbSelections":12,
     "championnat":"Italie",
@@ -4006,7 +4006,7 @@
   {
     "nomJoueur":"Christian Stuani",
     "position":"Attaquant",
-    "dateNaissance":"12 octobre 1986",
+    "dateNaissance":"dimanche 12 octobre 1986",
     "age":27,
     "nbSelections":9,
     "championnat":"Espagne",
@@ -4017,7 +4017,7 @@
   {
     "nomJoueur":"Diego Forlan",
     "position":"Attaquant",
-    "dateNaissance":"19 mai 1979",
+    "dateNaissance":"samedi 19 mai 1979",
     "age":35,
     "nbSelections":109,
     "championnat":"Japon",
@@ -4028,7 +4028,7 @@
   {
     "nomJoueur":"Edinson Cavani",
     "position":"Attaquant",
-    "dateNaissance":"14 février 1987",
+    "dateNaissance":"samedi 14 février 1987",
     "age":27,
     "nbSelections":61,
     "championnat":"France",
@@ -4039,7 +4039,7 @@
   {
     "nomJoueur":"Luis Suarez",
     "position":"Attaquant",
-    "dateNaissance":"24 janvier 1987",
+    "dateNaissance":"samedi 24 janvier 1987",
     "age":27,
     "nbSelections":77,
     "championnat":"Angleterre",
@@ -4050,7 +4050,7 @@
   {
     "nomJoueur":"Adrian Bone",
     "position":"Gardien",
-    "dateNaissance":"8 septembre 1988",
+    "dateNaissance":"jeudi 8 septembre 1988",
     "age":25,
     "nbSelections":3,
     "championnat":"Equateur",
@@ -4061,7 +4061,7 @@
   {
     "nomJoueur":"Alexander Dominguez",
     "position":"Gardien",
-    "dateNaissance":"5 juin 1987",
+    "dateNaissance":"vendredi 5 juin 1987",
     "age":27,
     "nbSelections":18,
     "championnat":"Equateur",
@@ -4072,7 +4072,7 @@
   {
     "nomJoueur":"Maximo Banguera",
     "position":"Gardien",
-    "dateNaissance":"16 décembre 1985",
+    "dateNaissance":"lundi 16 décembre 1985",
     "age":28,
     "nbSelections":24,
     "championnat":"Equateur",
@@ -4083,7 +4083,7 @@
   {
     "nomJoueur":"Frickson Erazo",
     "position":"Défenseur",
-    "dateNaissance":"5 mai 1988",
+    "dateNaissance":"jeudi 5 mai 1988",
     "age":26,
     "nbSelections":36,
     "championnat":"Bresil",
@@ -4094,7 +4094,7 @@
   {
     "nomJoueur":"Gabriel Achilier",
     "position":"Défenseur",
-    "dateNaissance":"24 mars 1985",
+    "dateNaissance":"dimanche 24 mars 1985",
     "age":29,
     "nbSelections":22,
     "championnat":"Equateur",
@@ -4105,7 +4105,7 @@
   {
     "nomJoueur":"Jorge Guagua",
     "position":"Défenseur",
-    "dateNaissance":"28 septembre 1981",
+    "dateNaissance":"lundi 28 septembre 1981",
     "age":32,
     "nbSelections":58,
     "championnat":"Equateur",
@@ -4116,7 +4116,7 @@
   {
     "nomJoueur":"Juan Carlos Paredes",
     "position":"Défenseur",
-    "dateNaissance":"8 juillet 1987",
+    "dateNaissance":"mercredi 8 juillet 1987",
     "age":26,
     "nbSelections":37,
     "championnat":"Equateur",
@@ -4127,7 +4127,7 @@
   {
     "nomJoueur":"oscar Bagüi",
     "position":"Défenseur",
-    "dateNaissance":"10 décembre 1982",
+    "dateNaissance":"vendredi 10 décembre 1982",
     "age":31,
     "nbSelections":21,
     "championnat":"Equateur",
@@ -4138,7 +4138,7 @@
   {
     "nomJoueur":"Walter Ayovi",
     "position":"Défenseur",
-    "dateNaissance":"11 août 1979",
+    "dateNaissance":"samedi 11 août 1979",
     "age":34,
     "nbSelections":89,
     "championnat":"Mexique",
@@ -4149,7 +4149,7 @@
   {
     "nomJoueur":"Antonio Valencia (c)",
     "position":"Milieu",
-    "dateNaissance":"4 août 1985",
+    "dateNaissance":"dimanche 4 août 1985",
     "age":28,
     "nbSelections":70,
     "championnat":"Angleterre",
@@ -4160,7 +4160,7 @@
   {
     "nomJoueur":"Carlos Gruezo",
     "position":"Milieu",
-    "dateNaissance":"19 avril 1995",
+    "dateNaissance":"mercredi 19 avril 1995",
     "age":19,
     "nbSelections":2,
     "championnat":"Allemagne",
@@ -4171,7 +4171,7 @@
   {
     "nomJoueur":"Christian Noboa",
     "position":"Milieu",
-    "dateNaissance":"9 avril 1985",
+    "dateNaissance":"mardi 9 avril 1985",
     "age":29,
     "nbSelections":41,
     "championnat":"Russie",
@@ -4182,7 +4182,7 @@
   {
     "nomJoueur":"Edison Mendez",
     "position":"Milieu",
-    "dateNaissance":"15 mars 1979",
+    "dateNaissance":"jeudi 15 mars 1979",
     "age":35,
     "nbSelections":109,
     "championnat":"Colombie",
@@ -4193,7 +4193,7 @@
   {
     "nomJoueur":"Fidel Martinez",
     "position":"Milieu",
-    "dateNaissance":"15 février 1990",
+    "dateNaissance":"jeudi 15 février 1990",
     "age":24,
     "nbSelections":8,
     "championnat":"Mexique",
@@ -4204,7 +4204,7 @@
   {
     "nomJoueur":"Jefferson Montero",
     "position":"Milieu",
-    "dateNaissance":"1 septembre 1989",
+    "dateNaissance":"vendredi 1 septembre 1989",
     "age":24,
     "nbSelections":39,
     "championnat":"Mexique",
@@ -4215,7 +4215,7 @@
   {
     "nomJoueur":"Joao Rojas",
     "position":"Milieu",
-    "dateNaissance":"14 juin 1989",
+    "dateNaissance":"mercredi 14 juin 1989",
     "age":24,
     "nbSelections":29,
     "championnat":"Mexique",
@@ -4226,7 +4226,7 @@
   {
     "nomJoueur":"Luis Saritama",
     "position":"Milieu",
-    "dateNaissance":"20 octobre 1983",
+    "dateNaissance":"jeudi 20 octobre 1983",
     "age":30,
     "nbSelections":48,
     "championnat":"Equateur",
@@ -4237,7 +4237,7 @@
   {
     "nomJoueur":"Michael Arroyo",
     "position":"Milieu",
-    "dateNaissance":"23 avril 1987",
+    "dateNaissance":"jeudi 23 avril 1987",
     "age":27,
     "nbSelections":20,
     "championnat":"Mexique",
@@ -4248,7 +4248,7 @@
   {
     "nomJoueur":"Renato Ibarra",
     "position":"Milieu",
-    "dateNaissance":"20 janvier 1991",
+    "dateNaissance":"dimanche 20 janvier 1991",
     "age":23,
     "nbSelections":17,
     "championnat":"Pays-Bas",
@@ -4259,7 +4259,7 @@
   {
     "nomJoueur":"Segundo Castillo",
     "position":"Milieu",
-    "dateNaissance":"15 mai 1982",
+    "dateNaissance":"samedi 15 mai 1982",
     "age":32,
     "nbSelections":81,
     "championnat":"Arabie Saoudite",
@@ -4270,7 +4270,7 @@
   {
     "nomJoueur":"Enner Valencia",
     "position":"Attaquant",
-    "dateNaissance":"11 avril 1989",
+    "dateNaissance":"mardi 11 avril 1989",
     "age":25,
     "nbSelections":9,
     "championnat":"Mexique",
@@ -4281,7 +4281,7 @@
   {
     "nomJoueur":"Felipe Caicedo",
     "position":"Attaquant",
-    "dateNaissance":"5 septembre 1988",
+    "dateNaissance":"lundi 5 septembre 1988",
     "age":25,
     "nbSelections":49,
     "championnat":"EAU",
@@ -4292,7 +4292,7 @@
   {
     "nomJoueur":"Jaime Ayovi",
     "position":"Attaquant",
-    "dateNaissance":"21 février 1988",
+    "dateNaissance":"dimanche 21 février 1988",
     "age":26,
     "nbSelections":30,
     "championnat":"Mexique",
@@ -4303,7 +4303,7 @@
   {
     "nomJoueur":"Hugo Lloris (c)",
     "position":"Gardien",
-    "dateNaissance":"26 décembre 1986",
+    "dateNaissance":"vendredi 26 décembre 1986",
     "age":27,
     "nbSelections":56,
     "championnat":"Angleterre",
@@ -4314,7 +4314,7 @@
   {
     "nomJoueur":"Mickael Landreau",
     "position":"Gardien",
-    "dateNaissance":"14 mai 1979",
+    "dateNaissance":"lundi 14 mai 1979",
     "age":35,
     "nbSelections":11,
     "championnat":"France",
@@ -4325,7 +4325,7 @@
   {
     "nomJoueur":"Stephane Ruffier",
     "position":"Gardien",
-    "dateNaissance":"27 septembre 1986",
+    "dateNaissance":"samedi 27 septembre 1986",
     "age":27,
     "nbSelections":2,
     "championnat":"France",
@@ -4336,7 +4336,7 @@
   {
     "nomJoueur":"Bacary Sagna",
     "position":"Défenseur",
-    "dateNaissance":"14 février 1983",
+    "dateNaissance":"lundi 14 février 1983",
     "age":31,
     "nbSelections":40,
     "championnat":"Angleterre",
@@ -4347,7 +4347,7 @@
   {
     "nomJoueur":"Eliaquim Mangala",
     "position":"Défenseur",
-    "dateNaissance":"13 février 1991",
+    "dateNaissance":"mercredi 13 février 1991",
     "age":23,
     "nbSelections":3,
     "championnat":"Portugal",
@@ -4358,7 +4358,7 @@
   {
     "nomJoueur":"Laurent Koscielny",
     "position":"Défenseur",
-    "dateNaissance":"10 septembre 1985",
+    "dateNaissance":"mardi 10 septembre 1985",
     "age":28,
     "nbSelections":17,
     "championnat":"Angleterre",
@@ -4369,7 +4369,7 @@
   {
     "nomJoueur":"Lucas Digne",
     "position":"Défenseur",
-    "dateNaissance":"20 juillet 1993",
+    "dateNaissance":"mardi 20 juillet 1993",
     "age":20,
     "nbSelections":2,
     "championnat":"France",
@@ -4380,7 +4380,7 @@
   {
     "nomJoueur":"Mamadou Sakho",
     "position":"Défenseur",
-    "dateNaissance":"13 février 1990",
+    "dateNaissance":"mardi 13 février 1990",
     "age":24,
     "nbSelections":18,
     "championnat":"Angleterre",
@@ -4391,7 +4391,7 @@
   {
     "nomJoueur":"Mathieu Debuchy",
     "position":"Défenseur",
-    "dateNaissance":"28 juillet 1985",
+    "dateNaissance":"dimanche 28 juillet 1985",
     "age":28,
     "nbSelections":20,
     "championnat":"Angleterre",
@@ -4402,7 +4402,7 @@
   {
     "nomJoueur":"Patrice Evra",
     "position":"Défenseur",
-    "dateNaissance":"15 mai 1981",
+    "dateNaissance":"vendredi 15 mai 1981",
     "age":33,
     "nbSelections":57,
     "championnat":"Angleterre",
@@ -4413,7 +4413,7 @@
   {
     "nomJoueur":"Raphael Varane",
     "position":"Défenseur",
-    "dateNaissance":"25 avril 1993",
+    "dateNaissance":"dimanche 25 avril 1993",
     "age":21,
     "nbSelections":5,
     "championnat":"Espagne",
@@ -4424,7 +4424,7 @@
   {
     "nomJoueur":"Antoine Griezmann",
     "position":"Milieu",
-    "dateNaissance":"21 mars 1991",
+    "dateNaissance":"jeudi 21 mars 1991",
     "age":23,
     "nbSelections":3,
     "championnat":"Espagne",
@@ -4435,7 +4435,7 @@
   {
     "nomJoueur":"Blaise Matuidi",
     "position":"Milieu",
-    "dateNaissance":"9 avril 1987",
+    "dateNaissance":"jeudi 9 avril 1987",
     "age":27,
     "nbSelections":22,
     "championnat":"France",
@@ -4446,7 +4446,7 @@
   {
     "nomJoueur":"Morgan Schneiderlin",
     "position":"Milieu",
-    "dateNaissance":"8 novembre 1989",
+    "dateNaissance":"mercredi 8 novembre 1989",
     "age":24,
     "nbSelections":1,
     "championnat":"Angleterre",
@@ -4457,7 +4457,7 @@
   {
     "nomJoueur":"Remy Cabella",
     "position":"Milieu",
-    "dateNaissance":"8 mars 1990",
+    "dateNaissance":"jeudi 8 mars 1990",
     "age":24,
     "nbSelections":1,
     "championnat":"France",
@@ -4468,7 +4468,7 @@
   {
     "nomJoueur":"Mathieu Valbuena",
     "position":"Milieu",
-    "dateNaissance":"28 septembre 1984",
+    "dateNaissance":"vendredi 28 septembre 1984",
     "age":29,
     "nbSelections":33,
     "championnat":"France",
@@ -4479,7 +4479,7 @@
   {
     "nomJoueur":"Moussa Sissoko",
     "position":"Milieu",
-    "dateNaissance":"16 août 1989",
+    "dateNaissance":"mercredi 16 août 1989",
     "age":24,
     "nbSelections":16,
     "championnat":"Angleterre",
@@ -4490,7 +4490,7 @@
   {
     "nomJoueur":"Paul Pogba",
     "position":"Milieu",
-    "dateNaissance":"15 mars 1993",
+    "dateNaissance":"lundi 15 mars 1993",
     "age":21,
     "nbSelections":10,
     "championnat":"Italie",
@@ -4501,7 +4501,7 @@
   {
     "nomJoueur":"Rio Mavuba",
     "position":"Milieu",
-    "dateNaissance":"8 mars 1984",
+    "dateNaissance":"jeudi 8 mars 1984",
     "age":30,
     "nbSelections":11,
     "championnat":"France",
@@ -4512,7 +4512,7 @@
   {
     "nomJoueur":"Yohan Cabaye",
     "position":"Milieu",
-    "dateNaissance":"14 janvier 1986",
+    "dateNaissance":"mardi 14 janvier 1986",
     "age":28,
     "nbSelections":29,
     "championnat":"France",
@@ -4523,7 +4523,7 @@
   {
     "nomJoueur":"Karim Benzema",
     "position":"Attaquant",
-    "dateNaissance":"19 décembre 1987",
+    "dateNaissance":"samedi 19 décembre 1987",
     "age":26,
     "nbSelections":65,
     "championnat":"Espagne",
@@ -4534,7 +4534,7 @@
   {
     "nomJoueur":"Loec Remy",
     "position":"Attaquant",
-    "dateNaissance":"2 janvier 1987",
+    "dateNaissance":"vendredi 2 janvier 1987",
     "age":27,
     "nbSelections":24,
     "championnat":"Angleterre",
@@ -4545,7 +4545,7 @@
   {
     "nomJoueur":"Olivier Giroud",
     "position":"Attaquant",
-    "dateNaissance":"30 septembre 1986",
+    "dateNaissance":"mardi 30 septembre 1986",
     "age":27,
     "nbSelections":29,
     "championnat":"Angleterre",
@@ -4556,7 +4556,7 @@
   {
     "nomJoueur":"Donis Escober",
     "position":"Gardien",
-    "dateNaissance":"3 février 1980",
+    "dateNaissance":"dimanche 3 février 1980",
     "age":34,
     "nbSelections":26,
     "championnat":"Honduras",
@@ -4567,7 +4567,7 @@
   {
     "nomJoueur":"Luis Lopez",
     "position":"Gardien",
-    "dateNaissance":"13 septembre 1993",
+    "dateNaissance":"lundi 13 septembre 1993",
     "age":20,
     "nbSelections":0,
     "championnat":"Honduras",
@@ -4578,7 +4578,7 @@
   {
     "nomJoueur":"Noel Valladares (c)",
     "position":"Gardien",
-    "dateNaissance":"3 mai 1977",
+    "dateNaissance":"mardi 3 mai 1977",
     "age":37,
     "nbSelections":121,
     "championnat":"Honduras",
@@ -4589,7 +4589,7 @@
   {
     "nomJoueur":"Brayan Beckeles",
     "position":"Défenseur",
-    "dateNaissance":"28 novembre 1985",
+    "dateNaissance":"jeudi 28 novembre 1985",
     "age":28,
     "nbSelections":22,
     "championnat":"Honduras",
@@ -4600,7 +4600,7 @@
   {
     "nomJoueur":"Emilio Izaguirre",
     "position":"Défenseur",
-    "dateNaissance":"10 mai 1986",
+    "dateNaissance":"samedi 10 mai 1986",
     "age":28,
     "nbSelections":67,
     "championnat":"Ecosse",
@@ -4611,7 +4611,7 @@
   {
     "nomJoueur":"Juan Carlos Garcia",
     "position":"Défenseur",
-    "dateNaissance":"8 mars 1988",
+    "dateNaissance":"mardi 8 mars 1988",
     "age":26,
     "nbSelections":33,
     "championnat":"Angleterre",
@@ -4622,7 +4622,7 @@
   {
     "nomJoueur":"Juan Pablo Montes",
     "position":"Défenseur",
-    "dateNaissance":"26 octobre 1985",
+    "dateNaissance":"samedi 26 octobre 1985",
     "age":28,
     "nbSelections":11,
     "championnat":"Honduras",
@@ -4633,7 +4633,7 @@
   {
     "nomJoueur":"Maynor Figueroa",
     "position":"Défenseur",
-    "dateNaissance":"2 mai 1983",
+    "dateNaissance":"lundi 2 mai 1983",
     "age":31,
     "nbSelections":104,
     "championnat":"Angleterre",
@@ -4644,7 +4644,7 @@
   {
     "nomJoueur":"Osman Chavez",
     "position":"Défenseur",
-    "dateNaissance":"29 juillet 1984",
+    "dateNaissance":"dimanche 29 juillet 1984",
     "age":29,
     "nbSelections":54,
     "championnat":"Chine",
@@ -4655,7 +4655,7 @@
   {
     "nomJoueur":"Victor Bernardez",
     "position":"Défenseur",
-    "dateNaissance":"24 mai 1982",
+    "dateNaissance":"lundi 24 mai 1982",
     "age":32,
     "nbSelections":77,
     "championnat":"Etats-Unis",
@@ -4666,7 +4666,7 @@
   {
     "nomJoueur":"Andy Najar",
     "position":"Milieu",
-    "dateNaissance":"16 mars 1993",
+    "dateNaissance":"mardi 16 mars 1993",
     "age":21,
     "nbSelections":16,
     "championnat":"Belgique",
@@ -4677,7 +4677,7 @@
   {
     "nomJoueur":"Edder Delgado",
     "position":"Milieu",
-    "dateNaissance":"20 novembre 1986",
+    "dateNaissance":"jeudi 20 novembre 1986",
     "age":27,
     "nbSelections":25,
     "championnat":"Honduras",
@@ -4688,7 +4688,7 @@
   {
     "nomJoueur":"Jorge Claros",
     "position":"Milieu",
-    "dateNaissance":"8 janvier 1986",
+    "dateNaissance":"mercredi 8 janvier 1986",
     "age":28,
     "nbSelections":48,
     "championnat":"Honduras",
@@ -4699,7 +4699,7 @@
   {
     "nomJoueur":"Luis Garrido",
     "position":"Milieu",
-    "dateNaissance":"5 novembre 1990",
+    "dateNaissance":"lundi 5 novembre 1990",
     "age":23,
     "nbSelections":19,
     "championnat":"Honduras",
@@ -4710,7 +4710,7 @@
   {
     "nomJoueur":"Mario Martinez",
     "position":"Milieu",
-    "dateNaissance":"30 juillet 1989",
+    "dateNaissance":"dimanche 30 juillet 1989",
     "age":24,
     "nbSelections":35,
     "championnat":"Honduras",
@@ -4721,7 +4721,7 @@
   {
     "nomJoueur":"Marvin Chavez",
     "position":"Milieu",
-    "dateNaissance":"3 novembre 1983",
+    "dateNaissance":"jeudi 3 novembre 1983",
     "age":30,
     "nbSelections":41,
     "championnat":"Etats-Unis",
@@ -4732,7 +4732,7 @@
   {
     "nomJoueur":"oscar Garcia",
     "position":"Milieu",
-    "dateNaissance":"4 septembre 1984",
+    "dateNaissance":"mardi 4 septembre 1984",
     "age":29,
     "nbSelections":92,
     "championnat":"Etats-Unis",
@@ -4743,7 +4743,7 @@
   {
     "nomJoueur":"Roger Espinoza",
     "position":"Milieu",
-    "dateNaissance":"25 octobre 1986",
+    "dateNaissance":"samedi 25 octobre 1986",
     "age":27,
     "nbSelections":41,
     "championnat":"Angleterre",
@@ -4754,7 +4754,7 @@
   {
     "nomJoueur":"Wilson Palacios",
     "position":"Milieu",
-    "dateNaissance":"29 juillet 1984",
+    "dateNaissance":"dimanche 29 juillet 1984",
     "age":29,
     "nbSelections":94,
     "championnat":"Angleterre",
@@ -4765,7 +4765,7 @@
   {
     "nomJoueur":"Carlo Costly",
     "position":"Attaquant",
-    "dateNaissance":"18 juillet 1982",
+    "dateNaissance":"dimanche 18 juillet 1982",
     "age":31,
     "nbSelections":69,
     "championnat":"Honduras",
@@ -4776,7 +4776,7 @@
   {
     "nomJoueur":"Jerry Bengtson",
     "position":"Attaquant",
-    "dateNaissance":"8 avril 1987",
+    "dateNaissance":"mercredi 8 avril 1987",
     "age":27,
     "nbSelections":43,
     "championnat":"Etats-Unis",
@@ -4787,7 +4787,7 @@
   {
     "nomJoueur":"Jerry Palacios",
     "position":"Attaquant",
-    "dateNaissance":"1 novembre 1981",
+    "dateNaissance":"dimanche 1 novembre 1981",
     "age":32,
     "nbSelections":23,
     "championnat":"Costa Rica",
@@ -4798,7 +4798,7 @@
   {
     "nomJoueur":"Rony Martinez",
     "position":"Attaquant",
-    "dateNaissance":"16 octobre 1988",
+    "dateNaissance":"dimanche 16 octobre 1988",
     "age":25,
     "nbSelections":12,
     "championnat":"Honduras",
@@ -4809,7 +4809,7 @@
   {
     "nomJoueur":"Diego Benaglio",
     "position":"Gardien",
-    "dateNaissance":"8 septembre 1983",
+    "dateNaissance":"jeudi 8 septembre 1983",
     "age":30,
     "nbSelections":56,
     "championnat":"Allemagne",
@@ -4820,7 +4820,7 @@
   {
     "nomJoueur":"Roman Bürki",
     "position":"Gardien",
-    "dateNaissance":"14 novembre 1990",
+    "dateNaissance":"mercredi 14 novembre 1990",
     "age":23,
     "nbSelections":0,
     "championnat":"Suisse",
@@ -4831,7 +4831,7 @@
   {
     "nomJoueur":"Yann Sommer",
     "position":"Gardien",
-    "dateNaissance":"17 décembre 1988",
+    "dateNaissance":"samedi 17 décembre 1988",
     "age":25,
     "nbSelections":6,
     "championnat":"Suisse",
@@ -4842,7 +4842,7 @@
   {
     "nomJoueur":"Fabian Schär",
     "position":"Défenseur",
-    "dateNaissance":"20 décembre 1991",
+    "dateNaissance":"vendredi 20 décembre 1991",
     "age":22,
     "nbSelections":5,
     "championnat":"Suisse",
@@ -4853,7 +4853,7 @@
   {
     "nomJoueur":"Johan Djourou",
     "position":"Défenseur",
-    "dateNaissance":"18 janvier 1987",
+    "dateNaissance":"dimanche 18 janvier 1987",
     "age":27,
     "nbSelections":44,
     "championnat":"Allemagne",
@@ -4864,7 +4864,7 @@
   {
     "nomJoueur":"Michael Lang",
     "position":"Défenseur",
-    "dateNaissance":"8 février 1991",
+    "dateNaissance":"vendredi 8 février 1991",
     "age":23,
     "nbSelections":5,
     "championnat":"Suisse",
@@ -4875,7 +4875,7 @@
   {
     "nomJoueur":"Philippe Senderos",
     "position":"Défenseur",
-    "dateNaissance":"14 février 1985",
+    "dateNaissance":"jeudi 14 février 1985",
     "age":29,
     "nbSelections":53,
     "championnat":"Espagne",
@@ -4886,7 +4886,7 @@
   {
     "nomJoueur":"Reto Ziegler",
     "position":"Défenseur",
-    "dateNaissance":"16 janvier 1986",
+    "dateNaissance":"jeudi 16 janvier 1986",
     "age":28,
     "nbSelections":35,
     "championnat":"Italie",
@@ -4897,7 +4897,7 @@
   {
     "nomJoueur":"Ricardo Rodriguez",
     "position":"Défenseur",
-    "dateNaissance":"25 août 1992",
+    "dateNaissance":"mardi 25 août 1992",
     "age":21,
     "nbSelections":20,
     "championnat":"Allemagne",
@@ -4908,7 +4908,7 @@
   {
     "nomJoueur":"Stephan Lichtsteiner",
     "position":"Défenseur",
-    "dateNaissance":"16 janvier 1984",
+    "dateNaissance":"lundi 16 janvier 1984",
     "age":30,
     "nbSelections":62,
     "championnat":"Italie",
@@ -4919,7 +4919,7 @@
   {
     "nomJoueur":"Steve von Bergen",
     "position":"Défenseur",
-    "dateNaissance":"10 juin 1983",
+    "dateNaissance":"vendredi 10 juin 1983",
     "age":30,
     "nbSelections":40,
     "championnat":"Suisse",
@@ -4930,7 +4930,7 @@
   {
     "nomJoueur":"Blerim Dzemaili",
     "position":"Milieu",
-    "dateNaissance":"12 avril 1986",
+    "dateNaissance":"samedi 12 avril 1986",
     "age":28,
     "nbSelections":33,
     "championnat":"Italie",
@@ -4941,7 +4941,7 @@
   {
     "nomJoueur":"Gelson Fernandes",
     "position":"Milieu",
-    "dateNaissance":"2 septembre 1986",
+    "dateNaissance":"mardi 2 septembre 1986",
     "age":27,
     "nbSelections":47,
     "championnat":"Allemagne",
@@ -4952,7 +4952,7 @@
   {
     "nomJoueur":"Gökhan Inler (c)",
     "position":"Milieu",
-    "dateNaissance":"27 juin 1984",
+    "dateNaissance":"mercredi 27 juin 1984",
     "age":29,
     "nbSelections":71,
     "championnat":"Italie",
@@ -4963,7 +4963,7 @@
   {
     "nomJoueur":"Granit Xhaka",
     "position":"Milieu",
-    "dateNaissance":"27 septembre 1992",
+    "dateNaissance":"dimanche 27 septembre 1992",
     "age":21,
     "nbSelections":25,
     "championnat":"Allemagne",
@@ -4974,7 +4974,7 @@
   {
     "nomJoueur":"Tranquillo Barnetta",
     "position":"Milieu",
-    "dateNaissance":"22 mai 1985",
+    "dateNaissance":"mercredi 22 mai 1985",
     "age":29,
     "nbSelections":73,
     "championnat":"Allemagne",
@@ -4985,7 +4985,7 @@
   {
     "nomJoueur":"Valentin Stocker",
     "position":"Milieu",
-    "dateNaissance":"12 avril 1989",
+    "dateNaissance":"mercredi 12 avril 1989",
     "age":25,
     "nbSelections":23,
     "championnat":"Suisse",
@@ -4996,7 +4996,7 @@
   {
     "nomJoueur":"Valon Behrami",
     "position":"Milieu",
-    "dateNaissance":"19 avril 1985",
+    "dateNaissance":"vendredi 19 avril 1985",
     "age":29,
     "nbSelections":47,
     "championnat":"Italie",
@@ -5007,7 +5007,7 @@
   {
     "nomJoueur":"Xherdan Shaqiri",
     "position":"Milieu",
-    "dateNaissance":"10 octobre 1991",
+    "dateNaissance":"jeudi 10 octobre 1991",
     "age":22,
     "nbSelections":32,
     "championnat":"Allemagne",
@@ -5018,7 +5018,7 @@
   {
     "nomJoueur":"Admir Mehmedi",
     "position":"Attaquant",
-    "dateNaissance":"16 mars 1991",
+    "dateNaissance":"samedi 16 mars 1991",
     "age":23,
     "nbSelections":20,
     "championnat":"Allemagne",
@@ -5029,7 +5029,7 @@
   {
     "nomJoueur":"Haris Seferovic",
     "position":"Attaquant",
-    "dateNaissance":"22 février 1992",
+    "dateNaissance":"samedi 22 février 1992",
     "age":22,
     "nbSelections":10,
     "championnat":"Espagne",
@@ -5040,7 +5040,7 @@
   {
     "nomJoueur":"Josip Drmic",
     "position":"Attaquant",
-    "dateNaissance":"8 août 1992",
+    "dateNaissance":"samedi 8 août 1992",
     "age":21,
     "nbSelections":6,
     "championnat":"Allemagne",
@@ -5051,7 +5051,7 @@
   {
     "nomJoueur":"Mario Gavranovic",
     "position":"Attaquant",
-    "dateNaissance":"24 novembre 1989",
+    "dateNaissance":"vendredi 24 novembre 1989",
     "age":24,
     "nbSelections":10,
     "championnat":"Suisse",
@@ -5062,7 +5062,7 @@
   {
     "nomJoueur":"Agustin Orion",
     "position":"Gardien",
-    "dateNaissance":"26 juillet 1981",
+    "dateNaissance":"dimanche 26 juillet 1981",
     "age":32,
     "nbSelections":3,
     "championnat":"Argentine",
@@ -5073,7 +5073,7 @@
   {
     "nomJoueur":"Mariano Andujar",
     "position":"Gardien",
-    "dateNaissance":"30 juillet 1983",
+    "dateNaissance":"samedi 30 juillet 1983",
     "age":30,
     "nbSelections":10,
     "championnat":"Italie",
@@ -5084,7 +5084,7 @@
   {
     "nomJoueur":"Sergio Romero",
     "position":"Gardien",
-    "dateNaissance":"22 février 1987",
+    "dateNaissance":"dimanche 22 février 1987",
     "age":27,
     "nbSelections":45,
     "championnat":"France",
@@ -5095,7 +5095,7 @@
   {
     "nomJoueur":"Ezequiel Garay",
     "position":"Défenseur",
-    "dateNaissance":"10 octobre 1986",
+    "dateNaissance":"vendredi 10 octobre 1986",
     "age":27,
     "nbSelections":18,
     "championnat":"Portugal",
@@ -5106,7 +5106,7 @@
   {
     "nomJoueur":"Federico Fernandez",
     "position":"Défenseur",
-    "dateNaissance":"21 février 1989",
+    "dateNaissance":"mardi 21 février 1989",
     "age":25,
     "nbSelections":24,
     "championnat":"Italie",
@@ -5117,7 +5117,7 @@
   {
     "nomJoueur":"Hugo Campagnaro",
     "position":"Défenseur",
-    "dateNaissance":"27 juin 1980",
+    "dateNaissance":"vendredi 27 juin 1980",
     "age":33,
     "nbSelections":13,
     "championnat":"Italie",
@@ -5128,7 +5128,7 @@
   {
     "nomJoueur":"Jose Maria Basanta",
     "position":"Défenseur",
-    "dateNaissance":"3 avril 1984",
+    "dateNaissance":"mardi 3 avril 1984",
     "age":30,
     "nbSelections":8,
     "championnat":"Mexique",
@@ -5139,7 +5139,7 @@
   {
     "nomJoueur":"Marcos Rojo",
     "position":"Défenseur",
-    "dateNaissance":"20 mars 1990",
+    "dateNaissance":"mardi 20 mars 1990",
     "age":24,
     "nbSelections":20,
     "championnat":"Portugal",
@@ -5150,7 +5150,7 @@
   {
     "nomJoueur":"Martin Demichelis",
     "position":"Défenseur",
-    "dateNaissance":"20 décembre 1980",
+    "dateNaissance":"samedi 20 décembre 1980",
     "age":33,
     "nbSelections":37,
     "championnat":"Angleterre",
@@ -5161,7 +5161,7 @@
   {
     "nomJoueur":"Pablo Zabaleta",
     "position":"Défenseur",
-    "dateNaissance":"16 janvier 1985",
+    "dateNaissance":"mercredi 16 janvier 1985",
     "age":29,
     "nbSelections":36,
     "championnat":"Angleterre",
@@ -5172,7 +5172,7 @@
   {
     "nomJoueur":"angel di Maria",
     "position":"Milieu",
-    "dateNaissance":"14 février 1988",
+    "dateNaissance":"dimanche 14 février 1988",
     "age":26,
     "nbSelections":45,
     "championnat":"Espagne",
@@ -5183,7 +5183,7 @@
   {
     "nomJoueur":"Augusto Fernandez",
     "position":"Milieu",
-    "dateNaissance":"10 avril 1986",
+    "dateNaissance":"jeudi 10 avril 1986",
     "age":28,
     "nbSelections":7,
     "championnat":"Espagne",
@@ -5194,7 +5194,7 @@
   {
     "nomJoueur":"Enzo Perez",
     "position":"Milieu",
-    "dateNaissance":"22 février 1986",
+    "dateNaissance":"samedi 22 février 1986",
     "age":28,
     "nbSelections":5,
     "championnat":"Portugal",
@@ -5205,7 +5205,7 @@
   {
     "nomJoueur":"Fernando Gago",
     "position":"Milieu",
-    "dateNaissance":"10 avril 1986",
+    "dateNaissance":"jeudi 10 avril 1986",
     "age":28,
     "nbSelections":47,
     "championnat":"Argentine",
@@ -5216,7 +5216,7 @@
   {
     "nomJoueur":"Javier Mascherano",
     "position":"Milieu",
-    "dateNaissance":"8 juin 1984",
+    "dateNaissance":"vendredi 8 juin 1984",
     "age":29,
     "nbSelections":96,
     "championnat":"Espagne",
@@ -5227,7 +5227,7 @@
   {
     "nomJoueur":"Lucas Biglia",
     "position":"Milieu",
-    "dateNaissance":"30 janvier 1986",
+    "dateNaissance":"jeudi 30 janvier 1986",
     "age":28,
     "nbSelections":16,
     "championnat":"Italie",
@@ -5238,7 +5238,7 @@
   {
     "nomJoueur":"Maxi Rodriguez",
     "position":"Milieu",
-    "dateNaissance":"2 janvier 1981",
+    "dateNaissance":"vendredi 2 janvier 1981",
     "age":33,
     "nbSelections":53,
     "championnat":"Argentine",
@@ -5249,7 +5249,7 @@
   {
     "nomJoueur":"Ricardo alvarez",
     "position":"Milieu",
-    "dateNaissance":"12 avril 1988",
+    "dateNaissance":"mardi 12 avril 1988",
     "age":26,
     "nbSelections":5,
     "championnat":"Italie",
@@ -5260,7 +5260,7 @@
   {
     "nomJoueur":"Ezequiel Lavezzi",
     "position":"Attaquant",
-    "dateNaissance":"3 mai 1985",
+    "dateNaissance":"vendredi 3 mai 1985",
     "age":29,
     "nbSelections":29,
     "championnat":"France",
@@ -5271,7 +5271,7 @@
   {
     "nomJoueur":"Gonzalo Higuain",
     "position":"Attaquant",
-    "dateNaissance":"10 décembre 1987",
+    "dateNaissance":"jeudi 10 décembre 1987",
     "age":26,
     "nbSelections":36,
     "championnat":"Italie",
@@ -5282,7 +5282,7 @@
   {
     "nomJoueur":"Lionel Messi (c)",
     "position":"Attaquant",
-    "dateNaissance":"24 juin 1987",
+    "dateNaissance":"mercredi 24 juin 1987",
     "age":26,
     "nbSelections":84,
     "championnat":"Espagne",
@@ -5293,7 +5293,7 @@
   {
     "nomJoueur":"Rodrigo Palacio",
     "position":"Attaquant",
-    "dateNaissance":"5 février 1982",
+    "dateNaissance":"vendredi 5 février 1982",
     "age":32,
     "nbSelections":15,
     "championnat":"Italie",
@@ -5304,7 +5304,7 @@
   {
     "nomJoueur":"Sergio Agüero",
     "position":"Attaquant",
-    "dateNaissance":"2 juin 1988",
+    "dateNaissance":"jeudi 2 juin 1988",
     "age":26,
     "nbSelections":50,
     "championnat":"Angleterre",
@@ -5315,7 +5315,7 @@
   {
     "nomJoueur":"Asmir Avdukic",
     "position":"Gardien",
-    "dateNaissance":"13 mai 1981",
+    "dateNaissance":"mercredi 13 mai 1981",
     "age":33,
     "nbSelections":3,
     "championnat":"Bosnie-Herzegovine",
@@ -5326,7 +5326,7 @@
   {
     "nomJoueur":"Asmir Begovic",
     "position":"Gardien",
-    "dateNaissance":"20 juin 1987",
+    "dateNaissance":"samedi 20 juin 1987",
     "age":26,
     "nbSelections":30,
     "championnat":"Angleterre",
@@ -5337,7 +5337,7 @@
   {
     "nomJoueur":"Jasmin Fejzic",
     "position":"Gardien",
-    "dateNaissance":"15 mai 1986",
+    "dateNaissance":"jeudi 15 mai 1986",
     "age":28,
     "nbSelections":0,
     "championnat":"Allemagne",
@@ -5348,7 +5348,7 @@
   {
     "nomJoueur":"Avdija Vrsajevic",
     "position":"Défenseur",
-    "dateNaissance":"6 mars 1986",
+    "dateNaissance":"jeudi 6 mars 1986",
     "age":28,
     "nbSelections":13,
     "championnat":"Croatie",
@@ -5359,7 +5359,7 @@
   {
     "nomJoueur":"Emir Spahic (c)",
     "position":"Défenseur",
-    "dateNaissance":"18 août 1980",
+    "dateNaissance":"lundi 18 août 1980",
     "age":33,
     "nbSelections":74,
     "championnat":"Allemagne",
@@ -5370,7 +5370,7 @@
   {
     "nomJoueur":"Ermin Bicakcic",
     "position":"Défenseur",
-    "dateNaissance":"24 janvier 1990",
+    "dateNaissance":"mercredi 24 janvier 1990",
     "age":24,
     "nbSelections":7,
     "championnat":"Allemagne",
@@ -5381,7 +5381,7 @@
   {
     "nomJoueur":"Mensur Mujdza",
     "position":"Défenseur",
-    "dateNaissance":"28 mars 1984",
+    "dateNaissance":"mercredi 28 mars 1984",
     "age":30,
     "nbSelections":24,
     "championnat":"Allemagne",
@@ -5392,7 +5392,7 @@
   {
     "nomJoueur":"Muhamed Besic",
     "position":"Défenseur",
-    "dateNaissance":"10 septembre 1992",
+    "dateNaissance":"jeudi 10 septembre 1992",
     "age":21,
     "nbSelections":9,
     "championnat":"Hongrie",
@@ -5403,18 +5403,18 @@
   {
     "nomJoueur":"Ognjen Vranjes",
     "position":"Défenseur",
-    "dateNaissance":"24 octobre 1989",
+    "dateNaissance":"mardi 24 octobre 1989",
     "age":24,
     "nbSelections":13,
     "championnat":"Turquie",
-    "club":"Elaz??spor   ",
+    "club":"Elazığspor   ",
     "isChampNat":"NON",
     "equipe":"Bosnia and Herzegovina"
   },
   {
     "nomJoueur":"Sead Kolasinac",
     "position":"Défenseur",
-    "dateNaissance":"20 juin 1993",
+    "dateNaissance":"dimanche 20 juin 1993",
     "age":20,
     "nbSelections":4,
     "championnat":"Allemagne",
@@ -5425,7 +5425,7 @@
   {
     "nomJoueur":"Toni sunjic",
     "position":"Défenseur",
-    "dateNaissance":"15 décembre 1988",
+    "dateNaissance":"jeudi 15 décembre 1988",
     "age":25,
     "nbSelections":7,
     "championnat":"Ukraine",
@@ -5436,7 +5436,7 @@
   {
     "nomJoueur":"Anel Hadzic",
     "position":"Milieu",
-    "dateNaissance":"16 août 1989",
+    "dateNaissance":"mercredi 16 août 1989",
     "age":24,
     "nbSelections":2,
     "championnat":"Autriche",
@@ -5447,7 +5447,7 @@
   {
     "nomJoueur":"Haris Medunjanin",
     "position":"Milieu",
-    "dateNaissance":"8 mars 1985",
+    "dateNaissance":"vendredi 8 mars 1985",
     "age":29,
     "nbSelections":35,
     "championnat":"Turquie",
@@ -5458,7 +5458,7 @@
   {
     "nomJoueur":"Izet Hajrovic",
     "position":"Milieu",
-    "dateNaissance":"4 août 1991",
+    "dateNaissance":"dimanche 4 août 1991",
     "age":22,
     "nbSelections":7,
     "championnat":"Turquie",
@@ -5469,7 +5469,7 @@
   {
     "nomJoueur":"Miralem Pjanic",
     "position":"Milieu",
-    "dateNaissance":"2 avril 1990",
+    "dateNaissance":"lundi 2 avril 1990",
     "age":24,
     "nbSelections":48,
     "championnat":"Italie",
@@ -5480,7 +5480,7 @@
   {
     "nomJoueur":"Sejad Salihovic",
     "position":"Milieu",
-    "dateNaissance":"8 octobre 1984",
+    "dateNaissance":"lundi 8 octobre 1984",
     "age":29,
     "nbSelections":42,
     "championnat":"Allemagne",
@@ -5491,7 +5491,7 @@
   {
     "nomJoueur":"Senad Lulic",
     "position":"Milieu",
-    "dateNaissance":"18 janvier 1986",
+    "dateNaissance":"samedi 18 janvier 1986",
     "age":28,
     "nbSelections":33,
     "championnat":"Italie",
@@ -5502,7 +5502,7 @@
   {
     "nomJoueur":"Senijad Ibricic",
     "position":"Milieu",
-    "dateNaissance":"26 septembre 1985",
+    "dateNaissance":"jeudi 26 septembre 1985",
     "age":28,
     "nbSelections":42,
     "championnat":"Turquie",
@@ -5513,7 +5513,7 @@
   {
     "nomJoueur":"Tino-Sven Susic",
     "position":"Milieu",
-    "dateNaissance":"13 février 1992",
+    "dateNaissance":"jeudi 13 février 1992",
     "age":22,
     "nbSelections":2,
     "championnat":"Croatie",
@@ -5524,7 +5524,7 @@
   {
     "nomJoueur":"Zvjezdan Misimovic",
     "position":"Milieu",
-    "dateNaissance":"5 juin 1982",
+    "dateNaissance":"samedi 5 juin 1982",
     "age":32,
     "nbSelections":82,
     "championnat":"Chine",
@@ -5535,7 +5535,7 @@
   {
     "nomJoueur":"Edin Dzeko",
     "position":"Attaquant",
-    "dateNaissance":"17 mars 1986",
+    "dateNaissance":"lundi 17 mars 1986",
     "age":28,
     "nbSelections":62,
     "championnat":"Angleterre",
@@ -5546,18 +5546,18 @@
   {
     "nomJoueur":"Edin Visca",
     "position":"Attaquant",
-    "dateNaissance":"17 février 1990",
+    "dateNaissance":"samedi 17 février 1990",
     "age":24,
     "nbSelections":10,
     "championnat":"Turquie",
-    "club":"?stanbul BB  ",
+    "club":"İstanbul BB  ",
     "isChampNat":"NON",
     "equipe":"Bosnia and Herzegovina"
   },
   {
     "nomJoueur":"Vedad Ibisevic",
     "position":"Attaquant",
-    "dateNaissance":"6 août 1984",
+    "dateNaissance":"lundi 6 août 1984",
     "age":29,
     "nbSelections":55,
     "championnat":"Allemagne",
@@ -5568,7 +5568,7 @@
   {
     "nomJoueur":"Alireza Haghighi",
     "position":"Gardien",
-    "dateNaissance":"2 mai 1988",
+    "dateNaissance":"lundi 2 mai 1988",
     "age":26,
     "nbSelections":5,
     "championnat":"Portugal",
@@ -5579,7 +5579,7 @@
   {
     "nomJoueur":"Daniel Davari",
     "position":"Gardien",
-    "dateNaissance":"6 janvier 1988",
+    "dateNaissance":"mercredi 6 janvier 1988",
     "age":26,
     "nbSelections":4,
     "championnat":"Allemagne",
@@ -5590,7 +5590,7 @@
   {
     "nomJoueur":"Rahman Ahmadi",
     "position":"Gardien",
-    "dateNaissance":"30 juillet 1980",
+    "dateNaissance":"mercredi 30 juillet 1980",
     "age":33,
     "nbSelections":10,
     "championnat":"Iran",
@@ -5601,7 +5601,7 @@
   {
     "nomJoueur":"Ahmad Alnameh",
     "position":"Défenseur",
-    "dateNaissance":"10 octobre 1982",
+    "dateNaissance":"dimanche 10 octobre 1982",
     "age":31,
     "nbSelections":9,
     "championnat":"Iran",
@@ -5612,7 +5612,7 @@
   {
     "nomJoueur":"Amir Hossein Sadeghi",
     "position":"Défenseur",
-    "dateNaissance":"6 septembre 1981",
+    "dateNaissance":"dimanche 6 septembre 1981",
     "age":32,
     "nbSelections":16,
     "championnat":"Iran",
@@ -5623,7 +5623,7 @@
   {
     "nomJoueur":"Hashem Beikzadeh",
     "position":"Défenseur",
-    "dateNaissance":"22 janvier 1984",
+    "dateNaissance":"dimanche 22 janvier 1984",
     "age":30,
     "nbSelections":17,
     "championnat":"Iran",
@@ -5634,7 +5634,7 @@
   {
     "nomJoueur":"Hossein Mahini",
     "position":"Défenseur",
-    "dateNaissance":"16 septembre 1986",
+    "dateNaissance":"mardi 16 septembre 1986",
     "age":27,
     "nbSelections":21,
     "championnat":"Iran",
@@ -5645,7 +5645,7 @@
   {
     "nomJoueur":"Jalal Hosseini",
     "position":"Défenseur",
-    "dateNaissance":"3 février 1982",
+    "dateNaissance":"mercredi 3 février 1982",
     "age":32,
     "nbSelections":84,
     "championnat":"Iran",
@@ -5656,7 +5656,7 @@
   {
     "nomJoueur":"Mehrdad Pouladi",
     "position":"Défenseur",
-    "dateNaissance":"26 février 1987",
+    "dateNaissance":"jeudi 26 février 1987",
     "age":27,
     "nbSelections":19,
     "championnat":"Iran",
@@ -5667,7 +5667,7 @@
   {
     "nomJoueur":"Pejman Montazeri",
     "position":"Défenseur",
-    "dateNaissance":"6 septembre 1983",
+    "dateNaissance":"mardi 6 septembre 1983",
     "age":30,
     "nbSelections":21,
     "championnat":"Qatar",
@@ -5678,7 +5678,7 @@
   {
     "nomJoueur":"Steven Beitashour",
     "position":"Défenseur",
-    "dateNaissance":"1 février 1987",
+    "dateNaissance":"dimanche 1 février 1987",
     "age":27,
     "nbSelections":6,
     "championnat":"Etats-Unis",
@@ -5689,7 +5689,7 @@
   {
     "nomJoueur":"Andranik Teymourian",
     "position":"Milieu",
-    "dateNaissance":"6 mars 1983",
+    "dateNaissance":"dimanche 6 mars 1983",
     "age":31,
     "nbSelections":78,
     "championnat":"Iran",
@@ -5700,7 +5700,7 @@
   {
     "nomJoueur":"Ashkan Dejagah",
     "position":"Milieu",
-    "dateNaissance":"5 juillet 1986",
+    "dateNaissance":"samedi 5 juillet 1986",
     "age":27,
     "nbSelections":13,
     "championnat":"Angleterre",
@@ -5711,7 +5711,7 @@
   {
     "nomJoueur":"Bakhtiar Rahmani",
     "position":"Milieu",
-    "dateNaissance":"23 septembre 1991",
+    "dateNaissance":"lundi 23 septembre 1991",
     "age":22,
     "nbSelections":4,
     "championnat":"Iran",
@@ -5722,7 +5722,7 @@
   {
     "nomJoueur":"Ehsan Hajsafi",
     "position":"Milieu",
-    "dateNaissance":"25 février 1990",
+    "dateNaissance":"dimanche 25 février 1990",
     "age":24,
     "nbSelections":61,
     "championnat":"Iran",
@@ -5733,7 +5733,7 @@
   {
     "nomJoueur":"Ghasem Haddadifar",
     "position":"Milieu",
-    "dateNaissance":"12 juillet 1983",
+    "dateNaissance":"mardi 12 juillet 1983",
     "age":30,
     "nbSelections":16,
     "championnat":"Iran",
@@ -5744,7 +5744,7 @@
   {
     "nomJoueur":"Javad Nekounam (c)",
     "position":"Milieu",
-    "dateNaissance":"7 octobre 1980",
+    "dateNaissance":"mardi 7 octobre 1980",
     "age":33,
     "nbSelections":139,
     "championnat":"Koweit",
@@ -5755,7 +5755,7 @@
   {
     "nomJoueur":"Khosro Heydari",
     "position":"Milieu",
-    "dateNaissance":"14 septembre 1983",
+    "dateNaissance":"mercredi 14 septembre 1983",
     "age":30,
     "nbSelections":48,
     "championnat":"Iran",
@@ -5766,7 +5766,7 @@
   {
     "nomJoueur":"Masoud Shojaei",
     "position":"Milieu",
-    "dateNaissance":"9 juin 1984",
+    "dateNaissance":"samedi 9 juin 1984",
     "age":29,
     "nbSelections":49,
     "championnat":"Espagne",
@@ -5777,7 +5777,7 @@
   {
     "nomJoueur":"Reza Haghighi",
     "position":"Milieu",
-    "dateNaissance":"1 février 1989",
+    "dateNaissance":"mercredi 1 février 1989",
     "age":25,
     "nbSelections":7,
     "championnat":"Iran",
@@ -5788,7 +5788,7 @@
   {
     "nomJoueur":"Alireza Jahanbakhsh",
     "position":"Attaquant",
-    "dateNaissance":"11 août 1993",
+    "dateNaissance":"mercredi 11 août 1993",
     "age":20,
     "nbSelections":6,
     "championnat":"Pays-Bas",
@@ -5799,7 +5799,7 @@
   {
     "nomJoueur":"Karim Ansarifard",
     "position":"Attaquant",
-    "dateNaissance":"3 avril 1990",
+    "dateNaissance":"mardi 3 avril 1990",
     "age":24,
     "nbSelections":41,
     "championnat":"Iran",
@@ -5810,7 +5810,7 @@
   {
     "nomJoueur":"Reza Ghoochannejhad",
     "position":"Attaquant",
-    "dateNaissance":"20 septembre 1987",
+    "dateNaissance":"dimanche 20 septembre 1987",
     "age":26,
     "nbSelections":13,
     "championnat":"Angleterre",
@@ -5821,7 +5821,7 @@
   {
     "nomJoueur":"Austin Ejide",
     "position":"Gardien",
-    "dateNaissance":"8 avril 1984",
+    "dateNaissance":"dimanche 8 avril 1984",
     "age":30,
     "nbSelections":32,
     "championnat":"Israel",
@@ -5832,7 +5832,7 @@
   {
     "nomJoueur":"Chigozie Agbim",
     "position":"Gardien",
-    "dateNaissance":"28 novembre 1984",
+    "dateNaissance":"mercredi 28 novembre 1984",
     "age":29,
     "nbSelections":11,
     "championnat":"Nigeria",
@@ -5843,7 +5843,7 @@
   {
     "nomJoueur":"Vincent Enyeama (c)",
     "position":"Gardien",
-    "dateNaissance":"29 août 1982",
+    "dateNaissance":"dimanche 29 août 1982",
     "age":31,
     "nbSelections":90,
     "championnat":"France",
@@ -5854,7 +5854,7 @@
   {
     "nomJoueur":"Azubuike Egwuekwe",
     "position":"Défenseur",
-    "dateNaissance":"16 juillet 1989",
+    "dateNaissance":"dimanche 16 juillet 1989",
     "age":24,
     "nbSelections":32,
     "championnat":"Nigeria",
@@ -5865,7 +5865,7 @@
   {
     "nomJoueur":"Efe Ambrose",
     "position":"Défenseur",
-    "dateNaissance":"18 octobre 1988",
+    "dateNaissance":"mardi 18 octobre 1988",
     "age":25,
     "nbSelections":36,
     "championnat":"Ecosse",
@@ -5876,7 +5876,7 @@
   {
     "nomJoueur":"Go2. Defenseurrey Oboabona",
     "position":"Défenseur",
-    "dateNaissance":"16 août 1990",
+    "dateNaissance":"jeudi 16 août 1990",
     "age":23,
     "nbSelections":35,
     "championnat":"Turquie",
@@ -5887,7 +5887,7 @@
   {
     "nomJoueur":"Joseph Yobo",
     "position":"Défenseur",
-    "dateNaissance":"6 septembre 1980",
+    "dateNaissance":"samedi 6 septembre 1980",
     "age":33,
     "nbSelections":96,
     "championnat":"Angleterre",
@@ -5898,7 +5898,7 @@
   {
     "nomJoueur":"Juwon Oshaniwa",
     "position":"Défenseur",
-    "dateNaissance":"14 septembre 1990",
+    "dateNaissance":"vendredi 14 septembre 1990",
     "age":23,
     "nbSelections":10,
     "championnat":"Israel",
@@ -5909,7 +5909,7 @@
   {
     "nomJoueur":"Kenneth Omeruo",
     "position":"Défenseur",
-    "dateNaissance":"17 octobre 1993",
+    "dateNaissance":"dimanche 17 octobre 1993",
     "age":20,
     "nbSelections":17,
     "championnat":"Angleterre",
@@ -5920,7 +5920,7 @@
   {
     "nomJoueur":"Kunle Odunlami",
     "position":"Défenseur",
-    "dateNaissance":"5 mars 1990",
+    "dateNaissance":"lundi 5 mars 1990",
     "age":24,
     "nbSelections":10,
     "championnat":"Nigeria",
@@ -5931,7 +5931,7 @@
   {
     "nomJoueur":"Uwa Elderson Echiejile",
     "position":"Défenseur",
-    "dateNaissance":"20 janvier 1988",
+    "dateNaissance":"mercredi 20 janvier 1988",
     "age":26,
     "nbSelections":42,
     "championnat":"France",
@@ -5942,7 +5942,7 @@
   {
     "nomJoueur":"John Obi Mikel",
     "position":"Milieu",
-    "dateNaissance":"22 avril 1987",
+    "dateNaissance":"mercredi 22 avril 1987",
     "age":27,
     "nbSelections":59,
     "championnat":"Angleterre",
@@ -5953,7 +5953,7 @@
   {
     "nomJoueur":"Michael Babatunde",
     "position":"Milieu",
-    "dateNaissance":"24 décembre 1992",
+    "dateNaissance":"jeudi 24 décembre 1992",
     "age":21,
     "nbSelections":4,
     "championnat":"Ukraine",
@@ -5964,7 +5964,7 @@
   {
     "nomJoueur":"Ogenyi Onazi",
     "position":"Milieu",
-    "dateNaissance":"25 décembre 1992",
+    "dateNaissance":"vendredi 25 décembre 1992",
     "age":21,
     "nbSelections":20,
     "championnat":"Italie",
@@ -5975,7 +5975,7 @@
   {
     "nomJoueur":"Ramon Azeez",
     "position":"Milieu",
-    "dateNaissance":"12 décembre 1992",
+    "dateNaissance":"samedi 12 décembre 1992",
     "age":21,
     "nbSelections":1,
     "championnat":"Espagne",
@@ -5986,7 +5986,7 @@
   {
     "nomJoueur":"Reuben Gabriel",
     "position":"Milieu",
-    "dateNaissance":"25 septembre 1990",
+    "dateNaissance":"mardi 25 septembre 1990",
     "age":23,
     "nbSelections":11,
     "championnat":"Belgique",
@@ -5997,7 +5997,7 @@
   {
     "nomJoueur":"Victor Moses",
     "position":"Milieu",
-    "dateNaissance":"12 décembre 1990",
+    "dateNaissance":"mercredi 12 décembre 1990",
     "age":23,
     "nbSelections":20,
     "championnat":"Angleterre",
@@ -6008,7 +6008,7 @@
   {
     "nomJoueur":"Ahmed Musa",
     "position":"Attaquant",
-    "dateNaissance":"14 octobre 1992",
+    "dateNaissance":"mercredi 14 octobre 1992",
     "age":21,
     "nbSelections":35,
     "championnat":"Russie",
@@ -6019,7 +6019,7 @@
   {
     "nomJoueur":"Emmanuel Emenike",
     "position":"Attaquant",
-    "dateNaissance":"10 mai 1987",
+    "dateNaissance":"dimanche 10 mai 1987",
     "age":27,
     "nbSelections":22,
     "championnat":"Turquie",
@@ -6030,7 +6030,7 @@
   {
     "nomJoueur":"Michael Uchebo",
     "position":"Attaquant",
-    "dateNaissance":"2 février 1990",
+    "dateNaissance":"vendredi 2 février 1990",
     "age":24,
     "nbSelections":3,
     "championnat":"Belgique",
@@ -6041,7 +6041,7 @@
   {
     "nomJoueur":"Peter Odemwingie",
     "position":"Attaquant",
-    "dateNaissance":"15 juillet 1981",
+    "dateNaissance":"mercredi 15 juillet 1981",
     "age":32,
     "nbSelections":60,
     "championnat":"Angleterre",
@@ -6052,7 +6052,7 @@
   {
     "nomJoueur":"Shola Ameobi",
     "position":"Attaquant",
-    "dateNaissance":"12 octobre 1981",
+    "dateNaissance":"lundi 12 octobre 1981",
     "age":32,
     "nbSelections":6,
     "championnat":"Angleterre",
@@ -6063,7 +6063,7 @@
   {
     "nomJoueur":"Uche Nwofor",
     "position":"Attaquant",
-    "dateNaissance":"17 septembre 1991",
+    "dateNaissance":"mardi 17 septembre 1991",
     "age":22,
     "nbSelections":6,
     "championnat":"Pays-Bas",
@@ -6074,7 +6074,7 @@
   {
     "nomJoueur":"Manuel Neuer",
     "position":"Gardien",
-    "dateNaissance":"27 mars 1986",
+    "dateNaissance":"jeudi 27 mars 1986",
     "age":28,
     "nbSelections":45,
     "championnat":"Allemagne",
@@ -6085,7 +6085,7 @@
   {
     "nomJoueur":"Roman Weidenfeller",
     "position":"Gardien",
-    "dateNaissance":"6 août 1980",
+    "dateNaissance":"mercredi 6 août 1980",
     "age":33,
     "nbSelections":2,
     "championnat":"Allemagne",
@@ -6096,7 +6096,7 @@
   {
     "nomJoueur":"Ron-Robert Zieler",
     "position":"Gardien",
-    "dateNaissance":"12 février 1989",
+    "dateNaissance":"dimanche 12 février 1989",
     "age":25,
     "nbSelections":3,
     "championnat":"Allemagne",
@@ -6107,7 +6107,7 @@
   {
     "nomJoueur":"Benedikt Höwedes",
     "position":"Défenseur",
-    "dateNaissance":"29 février 1988",
+    "dateNaissance":"lundi 29 février 1988",
     "age":26,
     "nbSelections":20,
     "championnat":"Allemagne",
@@ -6118,7 +6118,7 @@
   {
     "nomJoueur":"Erik Durm",
     "position":"Défenseur",
-    "dateNaissance":"12 mai 1992",
+    "dateNaissance":"mardi 12 mai 1992",
     "age":22,
     "nbSelections":1,
     "championnat":"Allemagne",
@@ -6129,7 +6129,7 @@
   {
     "nomJoueur":"Jerôme Boateng",
     "position":"Défenseur",
-    "dateNaissance":"3 septembre 1988",
+    "dateNaissance":"samedi 3 septembre 1988",
     "age":25,
     "nbSelections":38,
     "championnat":"Allemagne",
@@ -6140,7 +6140,7 @@
   {
     "nomJoueur":"Kevin Großkreutz",
     "position":"Défenseur",
-    "dateNaissance":"19 juillet 1988",
+    "dateNaissance":"mardi 19 juillet 1988",
     "age":25,
     "nbSelections":4,
     "championnat":"Allemagne",
@@ -6151,7 +6151,7 @@
   {
     "nomJoueur":"Mats Hummels",
     "position":"Défenseur",
-    "dateNaissance":"16 décembre 1988",
+    "dateNaissance":"vendredi 16 décembre 1988",
     "age":25,
     "nbSelections":29,
     "championnat":"Allemagne",
@@ -6162,7 +6162,7 @@
   {
     "nomJoueur":"Per Mertesacker",
     "position":"Défenseur",
-    "dateNaissance":"29 septembre 1984",
+    "dateNaissance":"samedi 29 septembre 1984",
     "age":29,
     "nbSelections":97,
     "championnat":"Angleterre",
@@ -6173,7 +6173,7 @@
   {
     "nomJoueur":"Philipp Lahm (c)",
     "position":"Défenseur",
-    "dateNaissance":"11 novembre 1983",
+    "dateNaissance":"vendredi 11 novembre 1983",
     "age":30,
     "nbSelections":105,
     "championnat":"Allemagne",
@@ -6184,7 +6184,7 @@
   {
     "nomJoueur":"Andre Schürrle",
     "position":"Milieu",
-    "dateNaissance":"6 novembre 1990",
+    "dateNaissance":"mardi 6 novembre 1990",
     "age":23,
     "nbSelections":32,
     "championnat":"Angleterre",
@@ -6195,7 +6195,7 @@
   {
     "nomJoueur":"Bastian Schweinsteiger",
     "position":"Milieu",
-    "dateNaissance":"1 août 1984",
+    "dateNaissance":"mercredi 1 août 1984",
     "age":29,
     "nbSelections":101,
     "championnat":"Allemagne",
@@ -6206,7 +6206,7 @@
   {
     "nomJoueur":"Christoph Kramer",
     "position":"Milieu",
-    "dateNaissance":"12 février 1991",
+    "dateNaissance":"mardi 12 février 1991",
     "age":23,
     "nbSelections":2,
     "championnat":"Allemagne",
@@ -6217,7 +6217,7 @@
   {
     "nomJoueur":"Julian Draxler",
     "position":"Milieu",
-    "dateNaissance":"20 septembre 1993",
+    "dateNaissance":"lundi 20 septembre 1993",
     "age":20,
     "nbSelections":11,
     "championnat":"Allemagne",
@@ -6228,7 +6228,7 @@
   {
     "nomJoueur":"Mario Götze",
     "position":"Milieu",
-    "dateNaissance":"3 juin 1992",
+    "dateNaissance":"mercredi 3 juin 1992",
     "age":22,
     "nbSelections":28,
     "championnat":"Allemagne",
@@ -6239,7 +6239,7 @@
   {
     "nomJoueur":"Matthias Ginter",
     "position":"Milieu",
-    "dateNaissance":"19 janvier 1994",
+    "dateNaissance":"mercredi 19 janvier 1994",
     "age":20,
     "nbSelections":2,
     "championnat":"Allemagne",
@@ -6250,7 +6250,7 @@
   {
     "nomJoueur":"Mesut Özil",
     "position":"Milieu",
-    "dateNaissance":"15 octobre 1988",
+    "dateNaissance":"samedi 15 octobre 1988",
     "age":25,
     "nbSelections":54,
     "championnat":"Angleterre",
@@ -6261,7 +6261,7 @@
   {
     "nomJoueur":"Sami Khedira",
     "position":"Milieu",
-    "dateNaissance":"4 avril 1987",
+    "dateNaissance":"samedi 4 avril 1987",
     "age":27,
     "nbSelections":45,
     "championnat":"Espagne",
@@ -6272,7 +6272,7 @@
   {
     "nomJoueur":"Thomas Müller",
     "position":"Milieu",
-    "dateNaissance":"13 septembre 1989",
+    "dateNaissance":"mercredi 13 septembre 1989",
     "age":24,
     "nbSelections":48,
     "championnat":"Allemagne",
@@ -6283,7 +6283,7 @@
   {
     "nomJoueur":"Toni Kroos",
     "position":"Milieu",
-    "dateNaissance":"4 janvier 1990",
+    "dateNaissance":"jeudi 4 janvier 1990",
     "age":24,
     "nbSelections":43,
     "championnat":"Allemagne",
@@ -6294,7 +6294,7 @@
   {
     "nomJoueur":"Lukas Podolski",
     "position":"Attaquant",
-    "dateNaissance":"4 juin 1985",
+    "dateNaissance":"mardi 4 juin 1985",
     "age":29,
     "nbSelections":113,
     "championnat":"Angleterre",
@@ -6305,7 +6305,7 @@
   {
     "nomJoueur":"Miroslav Klose",
     "position":"Attaquant",
-    "dateNaissance":"9 juin 1978",
+    "dateNaissance":"vendredi 9 juin 1978",
     "age":35,
     "nbSelections":131,
     "championnat":"Italie",
@@ -6316,7 +6316,7 @@
   {
     "nomJoueur":"Shkodran Mustafi",
     "position":"Défenseur",
-    "dateNaissance":"17 avril 1992",
+    "dateNaissance":"vendredi 17 avril 1992",
     "age":22,
     "nbSelections":1,
     "championnat":"Italie",
@@ -6327,7 +6327,7 @@
   {
     "nomJoueur":"Brad Guzan",
     "position":"Gardien",
-    "dateNaissance":"9 septembre 1984",
+    "dateNaissance":"dimanche 9 septembre 1984",
     "age":29,
     "nbSelections":25,
     "championnat":"Angleterre",
@@ -6338,7 +6338,7 @@
   {
     "nomJoueur":"Nick Rimando",
     "position":"Gardien",
-    "dateNaissance":"17 juin 1979",
+    "dateNaissance":"dimanche 17 juin 1979",
     "age":34,
     "nbSelections":14,
     "championnat":"Etats-Unis",
@@ -6349,7 +6349,7 @@
   {
     "nomJoueur":"Tim Howard",
     "position":"Gardien",
-    "dateNaissance":"6 mars 1979",
+    "dateNaissance":"mardi 6 mars 1979",
     "age":35,
     "nbSelections":99,
     "championnat":"Angleterre",
@@ -6360,7 +6360,7 @@
   {
     "nomJoueur":"DaMarcus Beasley",
     "position":"Défenseur",
-    "dateNaissance":"24 mai 1982",
+    "dateNaissance":"lundi 24 mai 1982",
     "age":32,
     "nbSelections":115,
     "championnat":"Mexique",
@@ -6371,7 +6371,7 @@
   {
     "nomJoueur":"DeAndre Yedlin",
     "position":"Défenseur",
-    "dateNaissance":"9 juillet 1993",
+    "dateNaissance":"vendredi 9 juillet 1993",
     "age":20,
     "nbSelections":4,
     "championnat":"Etats-Unis",
@@ -6382,7 +6382,7 @@
   {
     "nomJoueur":"Fabian Johnson",
     "position":"Défenseur",
-    "dateNaissance":"11 décembre 1987",
+    "dateNaissance":"vendredi 11 décembre 1987",
     "age":26,
     "nbSelections":21,
     "championnat":"Allemagne",
@@ -6393,7 +6393,7 @@
   {
     "nomJoueur":"Geoff Cameron",
     "position":"Défenseur",
-    "dateNaissance":"11 juillet 1985",
+    "dateNaissance":"jeudi 11 juillet 1985",
     "age":28,
     "nbSelections":26,
     "championnat":"Angleterre",
@@ -6404,7 +6404,7 @@
   {
     "nomJoueur":"John Brooks",
     "position":"Défenseur",
-    "dateNaissance":"28 janvier 1993",
+    "dateNaissance":"jeudi 28 janvier 1993",
     "age":21,
     "nbSelections":4,
     "championnat":"Allemagne",
@@ -6415,7 +6415,7 @@
   {
     "nomJoueur":"Matt Besler",
     "position":"Défenseur",
-    "dateNaissance":"11 février 1987",
+    "dateNaissance":"mercredi 11 février 1987",
     "age":27,
     "nbSelections":16,
     "championnat":"Etats-Unis",
@@ -6426,7 +6426,7 @@
   {
     "nomJoueur":"Omar Gonzalez",
     "position":"Défenseur",
-    "dateNaissance":"11 octobre 1988",
+    "dateNaissance":"mardi 11 octobre 1988",
     "age":25,
     "nbSelections":19,
     "championnat":"Etats-Unis",
@@ -6437,7 +6437,7 @@
   {
     "nomJoueur":"Timothy Chandler",
     "position":"Défenseur",
-    "dateNaissance":"29 mars 1990",
+    "dateNaissance":"jeudi 29 mars 1990",
     "age":24,
     "nbSelections":12,
     "championnat":"Allemagne",
@@ -6448,7 +6448,7 @@
   {
     "nomJoueur":"Alejandro Bedoya",
     "position":"Milieu",
-    "dateNaissance":"29 avril 1987",
+    "dateNaissance":"mercredi 29 avril 1987",
     "age":27,
     "nbSelections":27,
     "championnat":"France",
@@ -6459,7 +6459,7 @@
   {
     "nomJoueur":"Brad Davis",
     "position":"Milieu",
-    "dateNaissance":"8 novembre 1981",
+    "dateNaissance":"dimanche 8 novembre 1981",
     "age":32,
     "nbSelections":16,
     "championnat":"Etats-Unis",
@@ -6470,7 +6470,7 @@
   {
     "nomJoueur":"Graham Zusi",
     "position":"Milieu",
-    "dateNaissance":"18 août 1986",
+    "dateNaissance":"lundi 18 août 1986",
     "age":27,
     "nbSelections":22,
     "championnat":"Etats-Unis",
@@ -6481,7 +6481,7 @@
   {
     "nomJoueur":"Jermaine Jones",
     "position":"Milieu",
-    "dateNaissance":"3 novembre 1981",
+    "dateNaissance":"mardi 3 novembre 1981",
     "age":32,
     "nbSelections":41,
     "championnat":"Turquie",
@@ -6492,7 +6492,7 @@
   {
     "nomJoueur":"Julian Green",
     "position":"Milieu",
-    "dateNaissance":"6 juin 1995",
+    "dateNaissance":"mardi 6 juin 1995",
     "age":19,
     "nbSelections":2,
     "championnat":"Allemagne",
@@ -6503,7 +6503,7 @@
   {
     "nomJoueur":"Kyle Beckerman",
     "position":"Milieu",
-    "dateNaissance":"23 avril 1982",
+    "dateNaissance":"vendredi 23 avril 1982",
     "age":32,
     "nbSelections":36,
     "championnat":"Etats-Unis",
@@ -6514,7 +6514,7 @@
   {
     "nomJoueur":"Michael Bradley",
     "position":"Milieu",
-    "dateNaissance":"31 juillet 1987",
+    "dateNaissance":"vendredi 31 juillet 1987",
     "age":26,
     "nbSelections":85,
     "championnat":"Etats-Unis",
@@ -6525,7 +6525,7 @@
   {
     "nomJoueur":"Mikkel Diskerud",
     "position":"Milieu",
-    "dateNaissance":"2 octobre 1990",
+    "dateNaissance":"mardi 2 octobre 1990",
     "age":23,
     "nbSelections":19,
     "championnat":"Norvege",
@@ -6536,7 +6536,7 @@
   {
     "nomJoueur":"Aron Johannsson",
     "position":"Attaquant",
-    "dateNaissance":"10 novembre 1990",
+    "dateNaissance":"samedi 10 novembre 1990",
     "age":23,
     "nbSelections":8,
     "championnat":"Pays-Bas",
@@ -6547,7 +6547,7 @@
   {
     "nomJoueur":"Chris Wondolowski",
     "position":"Attaquant",
-    "dateNaissance":"28 janvier 1983",
+    "dateNaissance":"vendredi 28 janvier 1983",
     "age":31,
     "nbSelections":20,
     "championnat":"Etats-Unis",
@@ -6558,7 +6558,7 @@
   {
     "nomJoueur":"Clint Dempsey (c)",
     "position":"Attaquant",
-    "dateNaissance":"9 mars 1983",
+    "dateNaissance":"mercredi 9 mars 1983",
     "age":31,
     "nbSelections":104,
     "championnat":"Etats-Unis",
@@ -6569,7 +6569,7 @@
   {
     "nomJoueur":"Jozy Altidore",
     "position":"Attaquant",
-    "dateNaissance":"6 novembre 1989",
+    "dateNaissance":"lundi 6 novembre 1989",
     "age":24,
     "nbSelections":69,
     "championnat":"Angleterre",
@@ -6580,7 +6580,7 @@
   {
     "nomJoueur":"Adam Kwarasey",
     "position":"Gardien",
-    "dateNaissance":"12 décembre 1987",
+    "dateNaissance":"samedi 12 décembre 1987",
     "age":26,
     "nbSelections":21,
     "championnat":"Norvege",
@@ -6591,7 +6591,7 @@
   {
     "nomJoueur":"Fatau Dauda",
     "position":"Gardien",
-    "dateNaissance":"6 avril 1985",
+    "dateNaissance":"samedi 6 avril 1985",
     "age":29,
     "nbSelections":17,
     "championnat":"Afrique du Sud",
@@ -6602,7 +6602,7 @@
   {
     "nomJoueur":"Steven Adams",
     "position":"Gardien",
-    "dateNaissance":"28 septembre 1989",
+    "dateNaissance":"jeudi 28 septembre 1989",
     "age":24,
     "nbSelections":7,
     "championnat":"Ghana",
@@ -6613,7 +6613,7 @@
   {
     "nomJoueur":"Daniel Opare",
     "position":"Défenseur",
-    "dateNaissance":"18 octobre 1990",
+    "dateNaissance":"jeudi 18 octobre 1990",
     "age":23,
     "nbSelections":16,
     "championnat":"Belgique",
@@ -6624,7 +6624,7 @@
   {
     "nomJoueur":"Harrison Afful",
     "position":"Défenseur",
-    "dateNaissance":"24 juin 1986",
+    "dateNaissance":"mardi 24 juin 1986",
     "age":27,
     "nbSelections":40,
     "championnat":"Tunisie",
@@ -6635,7 +6635,7 @@
   {
     "nomJoueur":"John Boye",
     "position":"Défenseur",
-    "dateNaissance":"23 avril 1987",
+    "dateNaissance":"jeudi 23 avril 1987",
     "age":27,
     "nbSelections":29,
     "championnat":"France",
@@ -6646,7 +6646,7 @@
   {
     "nomJoueur":"Jonathan Mensah",
     "position":"Défenseur",
-    "dateNaissance":"13 juillet 1990",
+    "dateNaissance":"vendredi 13 juillet 1990",
     "age":23,
     "nbSelections":26,
     "championnat":"France",
@@ -6657,7 +6657,7 @@
   {
     "nomJoueur":"Rashid Sumaila",
     "position":"Défenseur",
-    "dateNaissance":"18 décembre 1992",
+    "dateNaissance":"vendredi 18 décembre 1992",
     "age":21,
     "nbSelections":6,
     "championnat":"Afrique du Sud",
@@ -6668,7 +6668,7 @@
   {
     "nomJoueur":"Samuel Inkoom",
     "position":"Défenseur",
-    "dateNaissance":"1 juin 1989",
+    "dateNaissance":"jeudi 1 juin 1989",
     "age":25,
     "nbSelections":46,
     "championnat":"Grece",
@@ -6679,7 +6679,7 @@
   {
     "nomJoueur":"Acquah Afriyie",
     "position":"Milieu",
-    "dateNaissance":"5 janvier 1992",
+    "dateNaissance":"dimanche 5 janvier 1992",
     "age":22,
     "nbSelections":4,
     "championnat":"Italie",
@@ -6690,7 +6690,7 @@
   {
     "nomJoueur":"Albert Adomah",
     "position":"Milieu",
-    "dateNaissance":"13 décembre 1987",
+    "dateNaissance":"dimanche 13 décembre 1987",
     "age":26,
     "nbSelections":14,
     "championnat":"Angleterre",
@@ -6701,7 +6701,7 @@
   {
     "nomJoueur":"Andre Ayew",
     "position":"Milieu",
-    "dateNaissance":"17 décembre 1989",
+    "dateNaissance":"dimanche 17 décembre 1989",
     "age":24,
     "nbSelections":48,
     "championnat":"France",
@@ -6712,7 +6712,7 @@
   {
     "nomJoueur":"Christian Atsu",
     "position":"Milieu",
-    "dateNaissance":"10 janvier 1992",
+    "dateNaissance":"vendredi 10 janvier 1992",
     "age":22,
     "nbSelections":22,
     "championnat":"Pays-Bas",
@@ -6723,7 +6723,7 @@
   {
     "nomJoueur":"Emmanuel Agyemang-Badu",
     "position":"Milieu",
-    "dateNaissance":"2 décembre 1990",
+    "dateNaissance":"dimanche 2 décembre 1990",
     "age":23,
     "nbSelections":48,
     "championnat":"Italie",
@@ -6734,7 +6734,7 @@
   {
     "nomJoueur":"Kwadwo Asamoah",
     "position":"Milieu",
-    "dateNaissance":"9 décembre 1988",
+    "dateNaissance":"vendredi 9 décembre 1988",
     "age":25,
     "nbSelections":61,
     "championnat":"Italie",
@@ -6745,7 +6745,7 @@
   {
     "nomJoueur":"Michael Essien",
     "position":"Milieu",
-    "dateNaissance":"3 décembre 1982",
+    "dateNaissance":"vendredi 3 décembre 1982",
     "age":31,
     "nbSelections":57,
     "championnat":"Italie",
@@ -6756,7 +6756,7 @@
   {
     "nomJoueur":"Mohammed Rabiu",
     "position":"Milieu",
-    "dateNaissance":"31 décembre 1989",
+    "dateNaissance":"dimanche 31 décembre 1989",
     "age":24,
     "nbSelections":16,
     "championnat":"Russie",
@@ -6767,7 +6767,7 @@
   {
     "nomJoueur":"Sulley Muntari",
     "position":"Milieu",
-    "dateNaissance":"27 août 1984",
+    "dateNaissance":"lundi 27 août 1984",
     "age":29,
     "nbSelections":81,
     "championnat":"Italie",
@@ -6778,7 +6778,7 @@
   {
     "nomJoueur":"Wakaso Mubarak",
     "position":"Milieu",
-    "dateNaissance":"25 juillet 1990",
+    "dateNaissance":"mercredi 25 juillet 1990",
     "age":23,
     "nbSelections":16,
     "championnat":"Russie",
@@ -6789,7 +6789,7 @@
   {
     "nomJoueur":"Asamoah Gyan (c)",
     "position":"Attaquant",
-    "dateNaissance":"22 novembre 1985",
+    "dateNaissance":"vendredi 22 novembre 1985",
     "age":28,
     "nbSelections":78,
     "championnat":"EAU",
@@ -6800,7 +6800,7 @@
   {
     "nomJoueur":"Jordan Ayew",
     "position":"Attaquant",
-    "dateNaissance":"11 septembre 1991",
+    "dateNaissance":"mercredi 11 septembre 1991",
     "age":22,
     "nbSelections":12,
     "championnat":"France",
@@ -6811,7 +6811,7 @@
   {
     "nomJoueur":"Kevin-Prince Boateng",
     "position":"Attaquant",
-    "dateNaissance":"6 mars 1987",
+    "dateNaissance":"vendredi 6 mars 1987",
     "age":27,
     "nbSelections":12,
     "championnat":"Allemagne",
@@ -6822,7 +6822,7 @@
   {
     "nomJoueur":"Majeed Waris",
     "position":"Attaquant",
-    "dateNaissance":"19 septembre 1991",
+    "dateNaissance":"jeudi 19 septembre 1991",
     "age":22,
     "nbSelections":9,
     "championnat":"France",
@@ -6833,7 +6833,7 @@
   {
     "nomJoueur":"Beto",
     "position":"Gardien",
-    "dateNaissance":"1 mai 1982",
+    "dateNaissance":"samedi 1 mai 1982",
     "age":32,
     "nbSelections":7,
     "championnat":"Espagne",
@@ -6844,7 +6844,7 @@
   {
     "nomJoueur":"Eduardo",
     "position":"Gardien",
-    "dateNaissance":"19 septembre 1982",
+    "dateNaissance":"dimanche 19 septembre 1982",
     "age":31,
     "nbSelections":33,
     "championnat":"Portugal",
@@ -6855,7 +6855,7 @@
   {
     "nomJoueur":"Rui Patricio",
     "position":"Gardien",
-    "dateNaissance":"15 février 1988",
+    "dateNaissance":"lundi 15 février 1988",
     "age":26,
     "nbSelections":29,
     "championnat":"Portugal",
@@ -6866,7 +6866,7 @@
   {
     "nomJoueur":"Andre Almeida",
     "position":"Défenseur",
-    "dateNaissance":"10 septembre 1990",
+    "dateNaissance":"lundi 10 septembre 1990",
     "age":23,
     "nbSelections":3,
     "championnat":"Portugal",
@@ -6877,7 +6877,7 @@
   {
     "nomJoueur":"Bruno Alves",
     "position":"Défenseur",
-    "dateNaissance":"27 novembre 1981",
+    "dateNaissance":"vendredi 27 novembre 1981",
     "age":32,
     "nbSelections":71,
     "championnat":"Turquie",
@@ -6888,7 +6888,7 @@
   {
     "nomJoueur":"Fabio Coentrão",
     "position":"Défenseur",
-    "dateNaissance":"11 mars 1988",
+    "dateNaissance":"vendredi 11 mars 1988",
     "age":26,
     "nbSelections":43,
     "championnat":"Espagne",
@@ -6899,7 +6899,7 @@
   {
     "nomJoueur":"João Pereira",
     "position":"Défenseur",
-    "dateNaissance":"25 février 1984",
+    "dateNaissance":"samedi 25 février 1984",
     "age":30,
     "nbSelections":35,
     "championnat":"Espagne",
@@ -6910,7 +6910,7 @@
   {
     "nomJoueur":"Luis Neto",
     "position":"Défenseur",
-    "dateNaissance":"26 mai 1988",
+    "dateNaissance":"jeudi 26 mai 1988",
     "age":26,
     "nbSelections":7,
     "championnat":"Russie",
@@ -6921,7 +6921,7 @@
   {
     "nomJoueur":"Pepe",
     "position":"Défenseur",
-    "dateNaissance":"26 février 1983",
+    "dateNaissance":"samedi 26 février 1983",
     "age":31,
     "nbSelections":57,
     "championnat":"Espagne",
@@ -6932,7 +6932,7 @@
   {
     "nomJoueur":"Ricardo Costa",
     "position":"Défenseur",
-    "dateNaissance":"16 mai 1981",
+    "dateNaissance":"samedi 16 mai 1981",
     "age":33,
     "nbSelections":18,
     "championnat":"Espagne",
@@ -6943,7 +6943,7 @@
   {
     "nomJoueur":"João Moutinho",
     "position":"Milieu",
-    "dateNaissance":"8 septembre 1986",
+    "dateNaissance":"lundi 8 septembre 1986",
     "age":27,
     "nbSelections":66,
     "championnat":"France",
@@ -6954,7 +6954,7 @@
   {
     "nomJoueur":"Miguel Veloso",
     "position":"Milieu",
-    "dateNaissance":"11 mai 1986",
+    "dateNaissance":"dimanche 11 mai 1986",
     "age":28,
     "nbSelections":47,
     "championnat":"Ukraine",
@@ -6965,7 +6965,7 @@
   {
     "nomJoueur":"Nani",
     "position":"Milieu",
-    "dateNaissance":"17 novembre 1986",
+    "dateNaissance":"lundi 17 novembre 1986",
     "age":27,
     "nbSelections":73,
     "championnat":"Angleterre",
@@ -6976,7 +6976,7 @@
   {
     "nomJoueur":"Rafa Silva",
     "position":"Milieu",
-    "dateNaissance":"17 mai 1993",
+    "dateNaissance":"lundi 17 mai 1993",
     "age":21,
     "nbSelections":2,
     "championnat":"Portugal",
@@ -6987,7 +6987,7 @@
   {
     "nomJoueur":"Raul Meireles",
     "position":"Milieu",
-    "dateNaissance":"17 mars 1983",
+    "dateNaissance":"jeudi 17 mars 1983",
     "age":31,
     "nbSelections":73,
     "championnat":"Turquie",
@@ -6998,7 +6998,7 @@
   {
     "nomJoueur":"Ruben Amorim",
     "position":"Milieu",
-    "dateNaissance":"27 janvier 1985",
+    "dateNaissance":"dimanche 27 janvier 1985",
     "age":29,
     "nbSelections":11,
     "championnat":"Portugal",
@@ -7009,7 +7009,7 @@
   {
     "nomJoueur":"Silvestre Varela",
     "position":"Milieu",
-    "dateNaissance":"2 février 1985",
+    "dateNaissance":"samedi 2 février 1985",
     "age":29,
     "nbSelections":22,
     "championnat":"Portugal",
@@ -7020,7 +7020,7 @@
   {
     "nomJoueur":"Vieirinha",
     "position":"Milieu",
-    "dateNaissance":"24 janvier 1986",
+    "dateNaissance":"vendredi 24 janvier 1986",
     "age":28,
     "nbSelections":7,
     "championnat":"Allemagne",
@@ -7031,7 +7031,7 @@
   {
     "nomJoueur":"William Carvalho",
     "position":"Milieu",
-    "dateNaissance":"7 avril 1992",
+    "dateNaissance":"mardi 7 avril 1992",
     "age":22,
     "nbSelections":3,
     "championnat":"Portugal",
@@ -7042,7 +7042,7 @@
   {
     "nomJoueur":"Cristiano Ronaldo (c)",
     "position":"Attaquant",
-    "dateNaissance":"5 février 1985",
+    "dateNaissance":"mardi 5 février 1985",
     "age":29,
     "nbSelections":110,
     "championnat":"Espagne",
@@ -7053,7 +7053,7 @@
   {
     "nomJoueur":"eder",
     "position":"Attaquant",
-    "dateNaissance":"22 décembre 1987",
+    "dateNaissance":"mardi 22 décembre 1987",
     "age":26,
     "nbSelections":7,
     "championnat":"Portugal",
@@ -7064,7 +7064,7 @@
   {
     "nomJoueur":"Helder Postiga",
     "position":"Attaquant",
-    "dateNaissance":"2 août 1982",
+    "dateNaissance":"lundi 2 août 1982",
     "age":31,
     "nbSelections":67,
     "championnat":"Italie",
@@ -7075,7 +7075,7 @@
   {
     "nomJoueur":"Hugo Almeida",
     "position":"Attaquant",
-    "dateNaissance":"23 mai 1984",
+    "dateNaissance":"mercredi 23 mai 1984",
     "age":30,
     "nbSelections":54,
     "championnat":"Turquie",
@@ -7086,7 +7086,7 @@
   {
     "nomJoueur":"Cedric Si Mohamed",
     "position":"Gardien",
-    "dateNaissance":"9 janvier 1985",
+    "dateNaissance":"mercredi 9 janvier 1985",
     "age":29,
     "nbSelections":1,
     "championnat":"Algeria",
@@ -7097,7 +7097,7 @@
   {
     "nomJoueur":"Mohamed Zemmamouche",
     "position":"Gardien",
-    "dateNaissance":"19 mars 1985",
+    "dateNaissance":"mardi 19 mars 1985",
     "age":29,
     "nbSelections":7,
     "championnat":"Algeria",
@@ -7108,7 +7108,7 @@
   {
     "nomJoueur":"Raes M'Bolhi",
     "position":"Gardien",
-    "dateNaissance":"25 avril 1986",
+    "dateNaissance":"vendredi 25 avril 1986",
     "age":28,
     "nbSelections":27,
     "championnat":"Bulgarie",
@@ -7119,7 +7119,7 @@
   {
     "nomJoueur":"Aissa Mandi",
     "position":"Défenseur",
-    "dateNaissance":"22 octobre 1991",
+    "dateNaissance":"mardi 22 octobre 1991",
     "age":22,
     "nbSelections":2,
     "championnat":"France",
@@ -7130,7 +7130,7 @@
   {
     "nomJoueur":"Carl Medjani",
     "position":"Défenseur",
-    "dateNaissance":"15 mai 1985",
+    "dateNaissance":"mercredi 15 mai 1985",
     "age":29,
     "nbSelections":25,
     "championnat":"France",
@@ -7141,7 +7141,7 @@
   {
     "nomJoueur":"Djamel Mesbah",
     "position":"Défenseur",
-    "dateNaissance":"9 octobre 1984",
+    "dateNaissance":"mardi 9 octobre 1984",
     "age":29,
     "nbSelections":26,
     "championnat":"Italie",
@@ -7152,7 +7152,7 @@
   {
     "nomJoueur":"Essaed Belkalem",
     "position":"Défenseur",
-    "dateNaissance":"1 janvier 1989",
+    "dateNaissance":"dimanche 1 janvier 1989",
     "age":25,
     "nbSelections":13,
     "championnat":"Angleterre",
@@ -7163,7 +7163,7 @@
   {
     "nomJoueur":"Faouzi Ghoulam",
     "position":"Défenseur",
-    "dateNaissance":"1 février 1991",
+    "dateNaissance":"vendredi 1 février 1991",
     "age":23,
     "nbSelections":5,
     "championnat":"Italie",
@@ -7174,7 +7174,7 @@
   {
     "nomJoueur":"Liassine Cadamuro-Bentaeba",
     "position":"Défenseur",
-    "dateNaissance":"5 mars 1988",
+    "dateNaissance":"samedi 5 mars 1988",
     "age":26,
     "nbSelections":6,
     "championnat":"Espagne",
@@ -7185,7 +7185,7 @@
   {
     "nomJoueur":"Madjid Bougherra (c)",
     "position":"Défenseur",
-    "dateNaissance":"7 octobre 1982",
+    "dateNaissance":"jeudi 7 octobre 1982",
     "age":31,
     "nbSelections":61,
     "championnat":"Qatar",
@@ -7196,7 +7196,7 @@
   {
     "nomJoueur":"Rafik Halliche",
     "position":"Défenseur",
-    "dateNaissance":"2 septembre 1986",
+    "dateNaissance":"mardi 2 septembre 1986",
     "age":27,
     "nbSelections":28,
     "championnat":"Portugal",
@@ -7207,7 +7207,7 @@
   {
     "nomJoueur":"Abdelmoumene Djabou",
     "position":"Milieu",
-    "dateNaissance":"31 janvier 1987",
+    "dateNaissance":"samedi 31 janvier 1987",
     "age":27,
     "nbSelections":76,
     "championnat":"Tunisie",
@@ -7218,7 +7218,7 @@
   {
     "nomJoueur":"Hassan Yebda",
     "position":"Milieu",
-    "dateNaissance":"14 mai 1984",
+    "dateNaissance":"lundi 14 mai 1984",
     "age":30,
     "nbSelections":24,
     "championnat":"Italie",
@@ -7229,7 +7229,7 @@
   {
     "nomJoueur":"Medhi Lacen",
     "position":"Milieu",
-    "dateNaissance":"15 mai 1984",
+    "dateNaissance":"mardi 15 mai 1984",
     "age":30,
     "nbSelections":29,
     "championnat":"Espagne",
@@ -7240,7 +7240,7 @@
   {
     "nomJoueur":"Mehdi Mostefa",
     "position":"Milieu",
-    "dateNaissance":"30 août 1983",
+    "dateNaissance":"mardi 30 août 1983",
     "age":30,
     "nbSelections":22,
     "championnat":"France",
@@ -7251,7 +7251,7 @@
   {
     "nomJoueur":"Nabil Bentaleb",
     "position":"Milieu",
-    "dateNaissance":"24 novembre 1994",
+    "dateNaissance":"jeudi 24 novembre 1994",
     "age":19,
     "nbSelections":2,
     "championnat":"Angleterre",
@@ -7262,7 +7262,7 @@
   {
     "nomJoueur":"Riyad Mahrez",
     "position":"Milieu",
-    "dateNaissance":"21 février 1991",
+    "dateNaissance":"jeudi 21 février 1991",
     "age":23,
     "nbSelections":1,
     "championnat":"Angleterre",
@@ -7273,7 +7273,7 @@
   {
     "nomJoueur":"Saphir Taeder",
     "position":"Milieu",
-    "dateNaissance":"29 février 1992",
+    "dateNaissance":"samedi 29 février 1992",
     "age":22,
     "nbSelections":10,
     "championnat":"Italie",
@@ -7284,7 +7284,7 @@
   {
     "nomJoueur":"Sofiane Feghouli",
     "position":"Milieu",
-    "dateNaissance":"26 décembre 1989",
+    "dateNaissance":"mardi 26 décembre 1989",
     "age":24,
     "nbSelections":18,
     "championnat":"Espagne",
@@ -7295,7 +7295,7 @@
   {
     "nomJoueur":"Yacine Brahimi",
     "position":"Milieu",
-    "dateNaissance":"8 février 1990",
+    "dateNaissance":"jeudi 8 février 1990",
     "age":24,
     "nbSelections":5,
     "championnat":"Espagne",
@@ -7306,7 +7306,7 @@
   {
     "nomJoueur":"El Arbi Hillel Soudani",
     "position":"Attaquant",
-    "dateNaissance":"25 novembre 1987",
+    "dateNaissance":"mercredi 25 novembre 1987",
     "age":26,
     "nbSelections":21,
     "championnat":"Croatie",
@@ -7317,7 +7317,7 @@
   {
     "nomJoueur":"Islam Slimani",
     "position":"Attaquant",
-    "dateNaissance":"18 juin 1988",
+    "dateNaissance":"samedi 18 juin 1988",
     "age":25,
     "nbSelections":19,
     "championnat":"Portugal",
@@ -7328,7 +7328,7 @@
   {
     "nomJoueur":"Nabil Ghilas",
     "position":"Attaquant",
-    "dateNaissance":"20 avril 1990",
+    "dateNaissance":"vendredi 20 avril 1990",
     "age":24,
     "nbSelections":5,
     "championnat":"Portugal",
@@ -7339,7 +7339,7 @@
   {
     "nomJoueur":"Sammy Bossut",
     "position":"Gardien",
-    "dateNaissance":"11 août 1985",
+    "dateNaissance":"dimanche 11 août 1985",
     "age":28,
     "nbSelections":1,
     "championnat":"Belgique",
@@ -7350,7 +7350,7 @@
   {
     "nomJoueur":"Simon Mignolet",
     "position":"Gardien",
-    "dateNaissance":"6 août 1988",
+    "dateNaissance":"samedi 6 août 1988",
     "age":25,
     "nbSelections":14,
     "championnat":"Angleterre",
@@ -7361,7 +7361,7 @@
   {
     "nomJoueur":"Thibaut Courtois",
     "position":"Gardien",
-    "dateNaissance":"11 mai 1992",
+    "dateNaissance":"lundi 11 mai 1992",
     "age":22,
     "nbSelections":16,
     "championnat":"Espagne",
@@ -7372,7 +7372,7 @@
   {
     "nomJoueur":"Anthony Vanden Borre",
     "position":"Défenseur",
-    "dateNaissance":"24 octobre 1987",
+    "dateNaissance":"samedi 24 octobre 1987",
     "age":26,
     "nbSelections":25,
     "championnat":"Belgique",
@@ -7383,7 +7383,7 @@
   {
     "nomJoueur":"Daniel Van Buyten",
     "position":"Défenseur",
-    "dateNaissance":"7 février 1978",
+    "dateNaissance":"mardi 7 février 1978",
     "age":36,
     "nbSelections":79,
     "championnat":"Allemagne",
@@ -7394,7 +7394,7 @@
   {
     "nomJoueur":"Jan Vertonghen",
     "position":"Défenseur",
-    "dateNaissance":"24 avril 1987",
+    "dateNaissance":"vendredi 24 avril 1987",
     "age":27,
     "nbSelections":56,
     "championnat":"Angleterre",
@@ -7405,7 +7405,7 @@
   {
     "nomJoueur":"Laurent Ciman",
     "position":"Défenseur",
-    "dateNaissance":"5 août 1985",
+    "dateNaissance":"lundi 5 août 1985",
     "age":28,
     "nbSelections":8,
     "championnat":"Belgique",
@@ -7416,7 +7416,7 @@
   {
     "nomJoueur":"Nicolas Lombaerts",
     "position":"Défenseur",
-    "dateNaissance":"20 mars 1985",
+    "dateNaissance":"mercredi 20 mars 1985",
     "age":29,
     "nbSelections":26,
     "championnat":"Russie",
@@ -7427,7 +7427,7 @@
   {
     "nomJoueur":"Thomas Vermaelen",
     "position":"Défenseur",
-    "dateNaissance":"14 novembre 1985",
+    "dateNaissance":"jeudi 14 novembre 1985",
     "age":28,
     "nbSelections":48,
     "championnat":"Angleterre",
@@ -7438,7 +7438,7 @@
   {
     "nomJoueur":"Toby Alderweireld",
     "position":"Défenseur",
-    "dateNaissance":"2 mars 1989",
+    "dateNaissance":"jeudi 2 mars 1989",
     "age":25,
     "nbSelections":34,
     "championnat":"Espagne",
@@ -7449,7 +7449,7 @@
   {
     "nomJoueur":"Vincent Kompany (c)",
     "position":"Défenseur",
-    "dateNaissance":"10 avril 1986",
+    "dateNaissance":"jeudi 10 avril 1986",
     "age":28,
     "nbSelections":59,
     "championnat":"Angleterre",
@@ -7460,7 +7460,7 @@
   {
     "nomJoueur":"Adnan Januzaj",
     "position":"Milieu",
-    "dateNaissance":"5 février 1995",
+    "dateNaissance":"dimanche 5 février 1995",
     "age":19,
     "nbSelections":1,
     "championnat":"Angleterre",
@@ -7471,7 +7471,7 @@
   {
     "nomJoueur":"Axel Witsel",
     "position":"Milieu",
-    "dateNaissance":"12 janvier 1989",
+    "dateNaissance":"jeudi 12 janvier 1989",
     "age":25,
     "nbSelections":48,
     "championnat":"Russie",
@@ -7482,7 +7482,7 @@
   {
     "nomJoueur":"Eden Hazard",
     "position":"Milieu",
-    "dateNaissance":"7 janvier 1991",
+    "dateNaissance":"lundi 7 janvier 1991",
     "age":23,
     "nbSelections":45,
     "championnat":"Angleterre",
@@ -7493,7 +7493,7 @@
   {
     "nomJoueur":"Kevin De Bruyne",
     "position":"Milieu",
-    "dateNaissance":"28 juin 1991",
+    "dateNaissance":"vendredi 28 juin 1991",
     "age":22,
     "nbSelections":22,
     "championnat":"Allemagne",
@@ -7504,7 +7504,7 @@
   {
     "nomJoueur":"Kevin Mirallas",
     "position":"Milieu",
-    "dateNaissance":"5 octobre 1987",
+    "dateNaissance":"lundi 5 octobre 1987",
     "age":26,
     "nbSelections":44,
     "championnat":"Angleterre",
@@ -7515,7 +7515,7 @@
   {
     "nomJoueur":"Marouane Fellaini",
     "position":"Milieu",
-    "dateNaissance":"22 novembre 1987",
+    "dateNaissance":"dimanche 22 novembre 1987",
     "age":26,
     "nbSelections":50,
     "championnat":"Angleterre",
@@ -7526,7 +7526,7 @@
   {
     "nomJoueur":"Mousa Dembele",
     "position":"Milieu",
-    "dateNaissance":"16 juillet 1987",
+    "dateNaissance":"jeudi 16 juillet 1987",
     "age":26,
     "nbSelections":55,
     "championnat":"Angleterre",
@@ -7537,7 +7537,7 @@
   {
     "nomJoueur":"Nacer Chadli",
     "position":"Milieu",
-    "dateNaissance":"2 octobre 1989",
+    "dateNaissance":"lundi 2 octobre 1989",
     "age":24,
     "nbSelections":20,
     "championnat":"Angleterre",
@@ -7548,7 +7548,7 @@
   {
     "nomJoueur":"Steven Defour",
     "position":"Milieu",
-    "dateNaissance":"15 avril 1988",
+    "dateNaissance":"vendredi 15 avril 1988",
     "age":26,
     "nbSelections":43,
     "championnat":"Portugal",
@@ -7559,7 +7559,7 @@
   {
     "nomJoueur":"Divock Origi",
     "position":"Attaquant",
-    "dateNaissance":"18 avril 1995",
+    "dateNaissance":"mardi 18 avril 1995",
     "age":19,
     "nbSelections":2,
     "championnat":"France",
@@ -7570,7 +7570,7 @@
   {
     "nomJoueur":"Dries Mertens",
     "position":"Attaquant",
-    "dateNaissance":"6 mai 1987",
+    "dateNaissance":"mercredi 6 mai 1987",
     "age":27,
     "nbSelections":24,
     "championnat":"Italie",
@@ -7581,7 +7581,7 @@
   {
     "nomJoueur":"Romelu Lukaku",
     "position":"Attaquant",
-    "dateNaissance":"13 mai 1993",
+    "dateNaissance":"jeudi 13 mai 1993",
     "age":21,
     "nbSelections":29,
     "championnat":"Angleterre",
@@ -7592,7 +7592,7 @@
   {
     "nomJoueur":"Jung Sung-Ryong",
     "position":"Gardien",
-    "dateNaissance":"4 janvier 1985",
+    "dateNaissance":"vendredi 4 janvier 1985",
     "age":29,
     "nbSelections":60,
     "championnat":"Coree du Sud",
@@ -7603,7 +7603,7 @@
   {
     "nomJoueur":"Kim Seung-Gyu",
     "position":"Gardien",
-    "dateNaissance":"30 septembre 1990",
+    "dateNaissance":"dimanche 30 septembre 1990",
     "age":23,
     "nbSelections":5,
     "championnat":"Coree du Sud",
@@ -7614,7 +7614,7 @@
   {
     "nomJoueur":"Lee Bum-Young",
     "position":"Gardien",
-    "dateNaissance":"2 avril 1989",
+    "dateNaissance":"dimanche 2 avril 1989",
     "age":25,
     "nbSelections":0,
     "championnat":"Coree du Sud",
@@ -7625,7 +7625,7 @@
   {
     "nomJoueur":"Hong Jeong-Ho",
     "position":"Défenseur",
-    "dateNaissance":"12 août 1989",
+    "dateNaissance":"samedi 12 août 1989",
     "age":24,
     "nbSelections":24,
     "championnat":"Allemagne",
@@ -7636,7 +7636,7 @@
   {
     "nomJoueur":"Hwang Seok-Ho",
     "position":"Défenseur",
-    "dateNaissance":"27 juin 1989",
+    "dateNaissance":"mardi 27 juin 1989",
     "age":24,
     "nbSelections":3,
     "championnat":"Japon",
@@ -7647,7 +7647,7 @@
   {
     "nomJoueur":"Kim Chang-Soo",
     "position":"Défenseur",
-    "dateNaissance":"12 septembre 1985",
+    "dateNaissance":"jeudi 12 septembre 1985",
     "age":28,
     "nbSelections":8,
     "championnat":"Japon",
@@ -7658,7 +7658,7 @@
   {
     "nomJoueur":"Kim Young-Gwon",
     "position":"Défenseur",
-    "dateNaissance":"27 février 1990",
+    "dateNaissance":"mardi 27 février 1990",
     "age":24,
     "nbSelections":20,
     "championnat":"Chine",
@@ -7669,7 +7669,7 @@
   {
     "nomJoueur":"Kwak Tae-Hwi",
     "position":"Défenseur",
-    "dateNaissance":"8 juillet 1981",
+    "dateNaissance":"mercredi 8 juillet 1981",
     "age":32,
     "nbSelections":34,
     "championnat":"Arabie Saoudite",
@@ -7680,7 +7680,7 @@
   {
     "nomJoueur":"Lee Yong",
     "position":"Défenseur",
-    "dateNaissance":"24 décembre 1986",
+    "dateNaissance":"mercredi 24 décembre 1986",
     "age":27,
     "nbSelections":11,
     "championnat":"Coree du Sud",
@@ -7691,7 +7691,7 @@
   {
     "nomJoueur":"Park Joo-Ho",
     "position":"Défenseur",
-    "dateNaissance":"16 janvier 1987",
+    "dateNaissance":"vendredi 16 janvier 1987",
     "age":27,
     "nbSelections":13,
     "championnat":"Allemagne",
@@ -7702,7 +7702,7 @@
   {
     "nomJoueur":"Yun Suk-Young",
     "position":"Défenseur",
-    "dateNaissance":"13 février 1990",
+    "dateNaissance":"mardi 13 février 1990",
     "age":24,
     "nbSelections":3,
     "championnat":"Angleterre",
@@ -7713,7 +7713,7 @@
   {
     "nomJoueur":"Ha Dae-Sung",
     "position":"Milieu",
-    "dateNaissance":"2 mars 1985",
+    "dateNaissance":"samedi 2 mars 1985",
     "age":29,
     "nbSelections":13,
     "championnat":"Chine",
@@ -7724,7 +7724,7 @@
   {
     "nomJoueur":"Han Kook-Young",
     "position":"Milieu",
-    "dateNaissance":"19 avril 1990",
+    "dateNaissance":"jeudi 19 avril 1990",
     "age":24,
     "nbSelections":9,
     "championnat":"Japon",
@@ -7735,7 +7735,7 @@
   {
     "nomJoueur":"Ki Sung-Yueng",
     "position":"Milieu",
-    "dateNaissance":"24 janvier 1989",
+    "dateNaissance":"mardi 24 janvier 1989",
     "age":25,
     "nbSelections":58,
     "championnat":"Angleterre",
@@ -7746,7 +7746,7 @@
   {
     "nomJoueur":"Kim Bo-Kyung",
     "position":"Milieu",
-    "dateNaissance":"6 octobre 1989",
+    "dateNaissance":"vendredi 6 octobre 1989",
     "age":24,
     "nbSelections":27,
     "championnat":"Angleterre",
@@ -7757,7 +7757,7 @@
   {
     "nomJoueur":"Koo Ja-Cheol (c)",
     "position":"Milieu",
-    "dateNaissance":"27 février 1989",
+    "dateNaissance":"lundi 27 février 1989",
     "age":25,
     "nbSelections":36,
     "championnat":"Allemagne",
@@ -7768,7 +7768,7 @@
   {
     "nomJoueur":"Lee Chung-Yong",
     "position":"Milieu",
-    "dateNaissance":"2 juillet 1988",
+    "dateNaissance":"samedi 2 juillet 1988",
     "age":25,
     "nbSelections":54,
     "championnat":"Angleterre",
@@ -7779,7 +7779,7 @@
   {
     "nomJoueur":"Park Jong-Woo",
     "position":"Milieu",
-    "dateNaissance":"10 mars 1989",
+    "dateNaissance":"vendredi 10 mars 1989",
     "age":25,
     "nbSelections":10,
     "championnat":"Chine",
@@ -7790,7 +7790,7 @@
   {
     "nomJoueur":"Ji Dong-Won",
     "position":"Attaquant",
-    "dateNaissance":"28 mai 1991",
+    "dateNaissance":"mardi 28 mai 1991",
     "age":23,
     "nbSelections":27,
     "championnat":"Allemagne",
@@ -7801,7 +7801,7 @@
   {
     "nomJoueur":"Kim Shin-Wook",
     "position":"Attaquant",
-    "dateNaissance":"14 avril 1988",
+    "dateNaissance":"jeudi 14 avril 1988",
     "age":26,
     "nbSelections":26,
     "championnat":"Coree du Sud",
@@ -7812,7 +7812,7 @@
   {
     "nomJoueur":"Lee Keun-Ho",
     "position":"Attaquant",
-    "dateNaissance":"11 avril 1985",
+    "dateNaissance":"jeudi 11 avril 1985",
     "age":29,
     "nbSelections":63,
     "championnat":"Coree du Sud",
@@ -7823,7 +7823,7 @@
   {
     "nomJoueur":"Park Chu-Young",
     "position":"Attaquant",
-    "dateNaissance":"10 juillet 1985",
+    "dateNaissance":"mercredi 10 juillet 1985",
     "age":28,
     "nbSelections":63,
     "championnat":"Angleterre",
@@ -7834,7 +7834,7 @@
   {
     "nomJoueur":"Son Heung-Min",
     "position":"Attaquant",
-    "dateNaissance":"8 juillet 1992",
+    "dateNaissance":"mercredi 8 juillet 1992",
     "age":21,
     "nbSelections":24,
     "championnat":"Allemagne",
@@ -7845,7 +7845,7 @@
   {
     "nomJoueur":"Igor Akinfeev",
     "position":"Gardien",
-    "dateNaissance":"8 avril 1986",
+    "dateNaissance":"mardi 8 avril 1986",
     "age":28,
     "nbSelections":67,
     "championnat":"Russie",
@@ -7856,7 +7856,7 @@
   {
     "nomJoueur":"Sergey Ryzhikov",
     "position":"Gardien",
-    "dateNaissance":"19 septembre 1980",
+    "dateNaissance":"vendredi 19 septembre 1980",
     "age":33,
     "nbSelections":1,
     "championnat":"Russie",
@@ -7867,7 +7867,7 @@
   {
     "nomJoueur":"Yuri Lodygin",
     "position":"Gardien",
-    "dateNaissance":"26 mai 1990",
+    "dateNaissance":"samedi 26 mai 1990",
     "age":24,
     "nbSelections":2,
     "championnat":"Russie",
@@ -7878,7 +7878,7 @@
   {
     "nomJoueur":"Aleksei Kozlov",
     "position":"Défenseur",
-    "dateNaissance":"16 novembre 1986",
+    "dateNaissance":"dimanche 16 novembre 1986",
     "age":27,
     "nbSelections":10,
     "championnat":"Russie",
@@ -7889,7 +7889,7 @@
   {
     "nomJoueur":"Andrei Semyonov",
     "position":"Défenseur",
-    "dateNaissance":"24 mars 1989",
+    "dateNaissance":"vendredi 24 mars 1989",
     "age":25,
     "nbSelections":1,
     "championnat":"Russie",
@@ -7900,7 +7900,7 @@
   {
     "nomJoueur":"Andrey Yeshchenko",
     "position":"Défenseur",
-    "dateNaissance":"9 février 1984",
+    "dateNaissance":"jeudi 9 février 1984",
     "age":30,
     "nbSelections":11,
     "championnat":"Russie",
@@ -7911,7 +7911,7 @@
   {
     "nomJoueur":"Dmitri Kombarov",
     "position":"Défenseur",
-    "dateNaissance":"22 janvier 1987",
+    "dateNaissance":"jeudi 22 janvier 1987",
     "age":27,
     "nbSelections":21,
     "championnat":"Russie",
@@ -7922,7 +7922,7 @@
   {
     "nomJoueur":"Georgi Shchennikov",
     "position":"Défenseur",
-    "dateNaissance":"27 avril 1991",
+    "dateNaissance":"samedi 27 avril 1991",
     "age":23,
     "nbSelections":3,
     "championnat":"Russie",
@@ -7933,7 +7933,7 @@
   {
     "nomJoueur":"Sergei Ignashevich",
     "position":"Défenseur",
-    "dateNaissance":"14 juillet 1979",
+    "dateNaissance":"samedi 14 juillet 1979",
     "age":34,
     "nbSelections":95,
     "championnat":"Russie",
@@ -7944,7 +7944,7 @@
   {
     "nomJoueur":"Vasili Berezutski",
     "position":"Défenseur",
-    "dateNaissance":"20 juin 1982",
+    "dateNaissance":"dimanche 20 juin 1982",
     "age":31,
     "nbSelections":77,
     "championnat":"Russie",
@@ -7955,7 +7955,7 @@
   {
     "nomJoueur":"Vladimir Granat",
     "position":"Défenseur",
-    "dateNaissance":"22 mai 1987",
+    "dateNaissance":"vendredi 22 mai 1987",
     "age":27,
     "nbSelections":4,
     "championnat":"Russie",
@@ -7966,7 +7966,7 @@
   {
     "nomJoueur":"Alan Dzagoev",
     "position":"Milieu",
-    "dateNaissance":"17 juin 1990",
+    "dateNaissance":"dimanche 17 juin 1990",
     "age":23,
     "nbSelections":31,
     "championnat":"Russie",
@@ -7977,7 +7977,7 @@
   {
     "nomJoueur":"Denis Glushakov",
     "position":"Milieu",
-    "dateNaissance":"27 janvier 1987",
+    "dateNaissance":"mardi 27 janvier 1987",
     "age":27,
     "nbSelections":26,
     "championnat":"Russie",
@@ -7988,7 +7988,7 @@
   {
     "nomJoueur":"Igor Denisov",
     "position":"Milieu",
-    "dateNaissance":"17 mai 1984",
+    "dateNaissance":"jeudi 17 mai 1984",
     "age":30,
     "nbSelections":42,
     "championnat":"Russie",
@@ -7999,7 +7999,7 @@
   {
     "nomJoueur":"Oleg Shatov",
     "position":"Milieu",
-    "dateNaissance":"29 juillet 1990",
+    "dateNaissance":"dimanche 29 juillet 1990",
     "age":23,
     "nbSelections":6,
     "championnat":"Russie",
@@ -8010,7 +8010,7 @@
   {
     "nomJoueur":"Pavel Mogilevets",
     "position":"Milieu",
-    "dateNaissance":"25 janvier 1993",
+    "dateNaissance":"lundi 25 janvier 1993",
     "age":21,
     "nbSelections":1,
     "championnat":"Russie",
@@ -8021,7 +8021,7 @@
   {
     "nomJoueur":"Viktor Fayzulin",
     "position":"Milieu",
-    "dateNaissance":"22 avril 1986",
+    "dateNaissance":"mardi 22 avril 1986",
     "age":28,
     "nbSelections":18,
     "championnat":"Russie",
@@ -8032,7 +8032,7 @@
   {
     "nomJoueur":"Aleksandr Kerzhakov",
     "position":"Attaquant",
-    "dateNaissance":"27 novembre 1982",
+    "dateNaissance":"samedi 27 novembre 1982",
     "age":31,
     "nbSelections":79,
     "championnat":"Russie",
@@ -8043,7 +8043,7 @@
   {
     "nomJoueur":"Aleksandr Kokorin",
     "position":"Attaquant",
-    "dateNaissance":"19 mars 1991",
+    "dateNaissance":"mardi 19 mars 1991",
     "age":23,
     "nbSelections":20,
     "championnat":"Russie",
@@ -8054,7 +8054,7 @@
   {
     "nomJoueur":"Aleksandr Samedov",
     "position":"Attaquant",
-    "dateNaissance":"19 juillet 1984",
+    "dateNaissance":"jeudi 19 juillet 1984",
     "age":29,
     "nbSelections":16,
     "championnat":"Russie",
@@ -8065,7 +8065,7 @@
   {
     "nomJoueur":"Aleksei Ionov",
     "position":"Attaquant",
-    "dateNaissance":"18 février 1989",
+    "dateNaissance":"samedi 18 février 1989",
     "age":25,
     "nbSelections":5,
     "championnat":"Russie",
@@ -8076,7 +8076,7 @@
   {
     "nomJoueur":"Maksim Kanunnikov",
     "position":"Attaquant",
-    "dateNaissance":"14 juillet 1991",
+    "dateNaissance":"dimanche 14 juillet 1991",
     "age":22,
     "nbSelections":2,
     "championnat":"Russie",
@@ -8087,7 +8087,7 @@
   {
     "nomJoueur":"Yuri Zhirkov",
     "position":"Attaquant",
-    "dateNaissance":"20 août 1983",
+    "dateNaissance":"samedi 20 août 1983",
     "age":30,
     "nbSelections":59,
     "championnat":"Russie",

@@ -202,7 +202,7 @@ h1, h2, h3, h4 {
 
 #effectif {
 	margin-top : 100px;
-	margin-bottom : 50px;
+	margin-bottom : 100px;
 }
 
 #effectif table {
@@ -212,7 +212,7 @@ h1, h2, h3, h4 {
 
 #effectif td {
 	margin-top:5px;
-	min-width : 80px;
+	min-width : 100px;
 }
 
 #effectif th {

@@ -230,6 +230,7 @@ function creationWorldMap(donnees) {
 					creationPie(donnees, paysId);
 					creationBarChart(donnees, paysId);
 					creationTeamInfos(paysName);
+					$(location).attr('href','#redirection');
 				}
 			});
         }

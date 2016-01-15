@@ -247,17 +247,24 @@ function creationTeamInfos(paysName) {
 				 
 	d3.json("teamsInfo.json", function (data) {
         donnees = data;
-		var coachName, flag, url;	
+		var coachName, flag, url, kit;
 		jQuery.each(donnees, function( k, v ) {
 			if(v.TeamInfo.teamName === paysName){
 				coachName = v.coachName;
 				flag = v.TeamInfo.sCountryFlagLarge;
 				url = v.TeamInfo.sWikipediaURL;
+                kit = "img/kits/"+paysName.toLowerCase().replace(" ", "")+".png";
 			}
 		});
 		
 		contentEquipe.append("img")
 					 .attr("src", flag);
+
+        contentEquipe.append("h3")
+            .html("Maillot : ");
+
+        contentEquipe.append("img")
+            .attr("src", kit);
 		
 		contentEquipe.append("p")
 					 .html(" <h3> Coach : </h3>"+coachName);

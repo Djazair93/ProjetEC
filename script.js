@@ -254,7 +254,7 @@ function creationTeamInfos(paysName) {
 				coachName = v.coachName;
 				flag = v.TeamInfo.sCountryFlagLarge;
 				url = v.TeamInfo.sWikipediaURL;
-                kit = "img/kits/"+paysName.toLowerCase().replace(" ", "")+".png";
+                kit = "img/kits/"+paysName.toLowerCase().replace(/ /g, '')+".png";
 			}
 		});
 		

@@ -206,7 +206,7 @@ function creationWorldMap(donnees) {
 			highlightOnHover: true,
 			highlightFillColor: '#8E44AD',
 			highlightBorderColor: '#674172',
-			highlightBorderWidth: 1,
+			highlightBorderWidth: 1,/**/
             popupTemplate: function(geo, data) {
                 return ['<div class="hoverinfo"><strong>',
                         geo.properties.name,
@@ -218,8 +218,13 @@ function creationWorldMap(donnees) {
 			function redraw() {
 				console.log(d3.event.scale);
 				console.log(d3.event.translate);
-				datamap.svg.selectAll("g").attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+				if(d3.event.scale >=1 && d3.event.scale <5){
+					datamap.svg.selectAll("g").attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+				}
 			}
+			datamap.svg.selectAll('.datamaps-subunit').on('mouseover', function(geography) {
+				
+			});
 			datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
 				var paysId = geography.id;
 				var paysName = geography.properties.name;

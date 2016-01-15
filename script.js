@@ -256,8 +256,7 @@ function creationTeamInfos(paysName) {
 	
 	var contentEquipe = d3.select("#contentEquipe");
     contentEquipe.html("");
-    contentEquipe.append("h1")
-				 .html(paysName);
+    contentEquipe.append("h1").html(paysName);
 				 
 	d3.json("teamsInfo.json", function (data) {
         donnees = data;
@@ -278,7 +277,8 @@ function creationTeamInfos(paysName) {
             .html("Maillot : ");
 
         contentEquipe.append("img")
-            .attr("src", kit);
+            .attr("src", kit)
+			.attr("width", "400px");
 		
 		contentEquipe.append("p")
 					 .html(" <h3> Coach : </h3>"+coachName);
@@ -289,6 +289,46 @@ function creationTeamInfos(paysName) {
 					 .attr("href", url)
 					 .text("Page Wikipedia de l'équipe");
     });
+	
+	d3.json("dataPlayers.json", function (data) {
+		
+		var tab = $("#tab tbody")
+		tab.html("");
+		
+		jQuery.each(data, function( k, v ) {
+			var nom, pos, dateNaiss, age, nbSelect, club, isChampNat;
+			if(v.equipe === paysName){
+				var tr = $("<tr>");
+				nom = v.nomJoueur;
+				pos = v.position;
+				dateNaiss = v.dateNaissance;
+				age =v.age;
+				nbSelect = v.nbSelections;
+				club = v.club +"("+v.championnat+")";
+				isChampNat = v.isChampNat;
+				
+				console.log(nom);
+				
+				var td = $("<td>").html(nom);
+				tr.append(td);
+				td = $("<td>").html(pos);
+				tr.append(td);
+				td = $("<td>").html(dateNaiss);
+				tr.append(td);
+				td = $("<td>").html(age);
+				tr.append(td);
+				td = $("<td>").html(nbSelect);
+				tr.append(td);
+				td = $("<td>").html(club);
+				tr.append(td);
+				td = $("<td>").html(isChampNat);
+				tr.append(td);
+				
+				tab.append(tr);
+			}
+		});
+        
+    })
 }
 
 function creationRendu(donnees) {

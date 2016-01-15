@@ -199,6 +199,32 @@ h1, h2, h3, h4 {
 	color: #D2D7D3;
 	font-style : bold;
 }
+
+#effectif {
+	margin-top : 100px;
+	margin-bottom : 50px;
+}
+
+#effectif table {
+	margin-left : auto;
+	margin-right : auto;
+}
+
+#effectif td {
+	margin-top:5px;
+	min-width : 80px;
+}
+
+#effectif th {
+	min-width : 80px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#eab92d+0,c79810+100;Yellow+3D+%232 */
+	color: #eab92d; /* Old browsers */
+	color: -moz-linear-gradient(top,  #eab92d 0%, #c79810 100%); /* FF3.6-15 */
+	color: -webkit-linear-gradient(top,  #eab92d 0%,#c79810 100%); /* Chrome10-25,Safari5.1-6 */
+	color: linear-gradient(to bottom,  #eab92d 0%,#c79810 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eab92d', endColorstr='#c79810',GradientType=0 ); /* IE6-9 */
+}
+
 /* pour piechart et barH */
 #graphiqueStats{
 	width:100%;

@@ -4,13 +4,12 @@ function creationPie(donnees, paysVoulu){
 	var pieChart = d3.select("#pieChart");
     pieChart.html("");
     pieChart.append("h2")
-        .html("Répartition des joueurs");
+        .html("Répartition des joueurs par championnats");
 	
 	var w = 575;
 	var h = 370;
 	var r = h/2;
-	var color = d3.scale.ordinal()
-    .range(["#F9690E","#FFB61E"]);
+	var color = d3.scale.ordinal().range(["#F9690E","#FFB61E"]);
 	var legendRectSize = 18;
     var legendSpacing = 4;
 
@@ -38,6 +37,7 @@ function creationPie(donnees, paysVoulu){
 	.attr("height", h)
 	.append("svg:g")
 	.attr("transform", "translate(" + r + "," + r + ")");
+	
 	var pie = d3.layout.pie().value(function(d){return d.value;});
 
 	var arc = d3.svg.arc().outerRadius(r);
@@ -62,7 +62,7 @@ function creationPie(donnees, paysVoulu){
 				return "translate(" + arc.centroid(d) + ")";})
 		.attr("text-anchor", "middle").text( function(d, i) {return data[i].value;})
 		.style('fill', 'black')
-		.style('stroke', 'black');;
+		.style('stroke', 'black');
 	
 	var legend = vis.selectAll('.legend') 
           .data(color.domain())  
@@ -111,8 +111,8 @@ function creationBarChart(donnees, paysVoulu){
     });
 	
     barH.append("div").attr("id", "graph");
-    var graph = barH.selectAll("div").append("h2")
-        .html("Liste des clubs représentés")
+    var graph = barH.selectAll("div").append("h3")
+        .html("Nombre de joueurs présents à la Coupe du monde évoluant dans le championnat du pays")
         .data(data)
         .enter()
 		.append("div")
@@ -122,6 +122,111 @@ function creationBarChart(donnees, paysVoulu){
         .classed({"bar": true})
         .style("width", function (v, i) { return (data[i].nbJoueurs * (65/getMax(data))) + "%"; })
         .style("height", "2em");
+}
+
+function creationDonut(paysName) {
+	
+	var donutChart = d3.select("#donutChart");
+    donutChart.html("");
+    donutChart.append("h2")
+        .html("Répartition des joueurs par club");
+	
+	var w = 850;
+	var h = 550;
+	var r = h/2;
+	var color = d3.scale.category20c();
+	var legendRectSize = 18;
+    var legendSpacing = 4;
+	var dataClub = [];
+	var dataset = [];
+	var insert = {};
+	
+	d3.json("dataPlayers.json", function (data) {		
+		
+		jQuery.each(data, function( k, v ) {
+			var club, existe = false;
+			if(v.equipe === paysName){
+				club = v.club +"("+v.championnat+")";
+				
+				jQuery.each(dataClub, function( key, obj ) {
+					if( obj.label === club) {
+						insert = { label: club, value: obj.value+1 };
+						dataClub[key] = insert; 
+						existe = true;
+					}
+				});
+				
+				if(!existe){
+					insert = { label: club, value: 1 };
+					dataClub.push(insert);
+				}
+			}
+		});
+		
+		var vis = d3.select('#donutChart')
+		.append("svg:svg")
+		.data([dataClub])
+		.attr("width", w)
+		.attr("height", h)
+		.append("svg:g")
+		.attr("transform", "translate(" + r + "," + r + ")");
+	
+		var pie = d3.layout.pie().value(function(d){return d.value;});
+
+		var arc = d3.svg.arc().outerRadius(r).innerRadius(r - 75);
+
+		var arcs = vis.selectAll("g.slice")
+						.data(pie)
+						.enter()
+						.append("svg:g")
+						.attr("class", "slice");
+		
+		arcs.append("svg:path")
+			.attr("fill", function(d, i){
+				return color(i);
+			})
+			.attr("d", function (d) {
+				return arc(d);
+			});
+
+		arcs.append("svg:text").attr("transform", function(d){
+					d.innerRadius = 0;
+					d.outerRadius = r;
+					return "translate(" + arc.centroid(d) + ")";})
+			.attr("text-anchor", "middle").text( function(d, i) {return dataClub[i].value;})
+			.style('fill', 'black')
+			.style('stroke', 'black');
+			
+		var legend = vis.selectAll('.legend') 
+			  .data(color.domain())  
+			  .enter()     
+			  .append('g')   
+			  .attr('class', 'legend')   
+			  .attr("transform", "translate(50,150)")
+			  .attr('transform', function(d, i) {       
+				var height = legendRectSize + legendSpacing;   
+				var offset =  height * color.domain().length / 2;  
+				var horz = -2 * legendRectSize;  
+				var vert = i * height - offset;                
+				return 'translate(' + horz + ',' + vert + ')';     
+			  });                 
+
+			legend.append('rect')    
+			  .attr('width', legendRectSize)           
+			  .attr('height', legendRectSize)
+			  .attr('x', legendRectSize + legendSpacing+ 300)
+			  .attr('y', legendRectSize - legendSpacing-35)
+			  .style('fill', color)
+			  .style('stroke', color);
+			  
+			legend.append('text') 
+			  .attr('x', legendRectSize*2 + legendSpacing+ 305)
+			  .attr('y', legendRectSize - legendSpacing-22)
+			  .style('fill', '#FFFFFF')
+			 /* .style('stroke', color)*/
+			  .text(function(d, i) {return dataClub[i].label;}); 
+	});
+	
 }
 
 function getMax(data) {
@@ -230,9 +335,7 @@ function creationWorldMap(donnees) {
 					datamap.svg.selectAll("g").attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
 				}
 			}
-			/*datamap.svg.selectAll('.datamaps-subunit').on('mouseover', function(geography) {
 
-			});*/
 			datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
 				var paysId = geography.id;
 				var paysName = geography.properties.name;
@@ -240,9 +343,10 @@ function creationWorldMap(donnees) {
 					var countries = attributionCouleur(donnees);
 					countries[paysId] = "#8E44AD";
 					datamap.updateChoropleth(countries);
+					creationTeamInfos(paysName);
 					creationPie(donnees, paysId);
 					creationBarChart(donnees, paysId);
-					creationTeamInfos(paysName);
+					creationDonut(paysName);
 					$(location).attr('href','#infoTeam');
 				}
 			});
@@ -258,8 +362,7 @@ function creationTeamInfos(paysName) {
     contentEquipe.html("");
     contentEquipe.append("h1").html(paysName);
 				 
-	d3.json("teamsInfo.json", function (data) {
-        donnees = data;
+	d3.json("teamsInfo.json", function (donnees) {
 		var coachName, flag, url, kit;
 		jQuery.each(donnees, function( k, v ) {
 			if(v.TeamInfo.teamName === paysName){
@@ -306,8 +409,6 @@ function creationTeamInfos(paysName) {
 				nbSelect = v.nbSelections;
 				club = v.club +"("+v.championnat+")";
 				isChampNat = v.isChampNat;
-				
-				console.log(nom);
 				
 				var td = $("<td>").html(nom);
 				tr.append(td);

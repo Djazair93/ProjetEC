@@ -168,6 +168,7 @@ function creationDonut(paysName) {
 		.data([dataClub])
 		.attr("width", w)
 		.attr("height", h)
+		.style("margin-left","250px")
 		.append("svg:g")
 		.attr("transform", "translate(" + r + "," + r + ")");
 	

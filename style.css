@@ -302,10 +302,9 @@ legend.rect {
 
 #donutChart {
 	float:left;
-	margin-left : 25px;
 	padding : 10px;
 	display:inline-block;
-	width: 900px; 
+	width: 100%; 
 	height: 650px;
 	border-radius: 10px;
 	border-color: #6BB9F0;

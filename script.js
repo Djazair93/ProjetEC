@@ -60,7 +60,10 @@ function creationPie(donnees, paysVoulu){
 				d.innerRadius = 0;
 				d.outerRadius = r;
 				return "translate(" + arc.centroid(d) + ")";})
-		.attr("text-anchor", "middle").text( function(d, i) {return data[i].value;})
+		.attr("text-anchor", "middle").text( function(d, i) {
+			if(data[i].value > 0 ) {return data[i].value;} 
+			else { return "";}
+		})
 		.style('fill', 'black')
 		.style('stroke', 'black');
 	
@@ -81,13 +84,13 @@ function creationPie(donnees, paysVoulu){
         legend.append('rect')    
           .attr('width', legendRectSize)           
           .attr('height', legendRectSize)
-          .attr('x', legendRectSize + legendSpacing+ 148)
+          .attr('x', legendRectSize + legendSpacing+ 200)
           .attr('y', legendRectSize - legendSpacing-165)
           .style('fill', color)
           .style('stroke', color);
           
         legend.append('text') 
-          .attr('x', legendRectSize*2 + legendSpacing+ 155)
+          .attr('x', legendRectSize*2 + legendSpacing+ 210)
           .attr('y', legendRectSize - legendSpacing-155)
 		  .style('fill', '#FFFFFF')
          /* .style('stroke', color)*/

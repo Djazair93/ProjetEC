@@ -166,17 +166,18 @@ function creationDonut(paysName) {
 		});
 		
 		var vis = d3.select('#donutChart')
-		.append("svg:svg")
-		.data([dataClub])
-		.attr("width", w)
-		.attr("height", h)
-		.style("margin-left","200px")
-		.append("svg:g")
-		.attr("transform", "translate(" + r + "," + r + ")");
+					.append("svg:svg")
+					.data([dataClub])
+					.attr("width", w)
+					.attr("height", h)
+					.style("margin-left","200px")
+					.append("svg:g")
+					.attr("transform", "translate(" + r + "," + r + ")");
 	
 		var pie = d3.layout.pie().value(function(d){return d.value;});
 
 		var arc = d3.svg.arc().outerRadius(r).innerRadius(r - 75);
+		var arcOver = d3.svg.arc().outerRadius(r).innerRadius(r - 90);
 
 		var arcs = vis.selectAll("g.slice")
 						.data(pie)
@@ -185,12 +186,10 @@ function creationDonut(paysName) {
 						.attr("class", "slice");
 		
 		arcs.append("svg:path")
-			.attr("fill", function(d, i){
-				return color(i);
-			})
-			.attr("d", function (d) {
-				return arc(d);
-			});
+			.attr('id', function(d, i) {return "path"+i;} )
+			.attr("fill", function(d, i){ return color(i); })
+			.attr("d", function (d) { return arc(d); });
+			
 
 		arcs.append("svg:text").attr("transform", function(d){
 					d.innerRadius = 0;
@@ -219,15 +218,89 @@ function creationDonut(paysName) {
 			  .attr('height', legendRectSize)
 			  .attr('x', legendRectSize + legendSpacing+ 300)
 			  .attr('y', legendRectSize - legendSpacing-35)
+			  .attr('id', function(d, i) {return "legend"+i;} )
 			  .style('fill', color)
 			  .style('stroke', color);
 			  
 			legend.append('text') 
 			  .attr('x', legendRectSize*2 + legendSpacing+ 305)
 			  .attr('y', legendRectSize - legendSpacing-22)
+			  .attr('id', function(d, i) {return "legendText"+i;} )
 			  .style('fill', '#FFFFFF')
-			 /* .style('stroke', color)*/
+			  .style('stroke', 'none')
 			  .text(function(d, i) {return dataClub[i].label;}); 
+			  
+			legend.on("mouseenter", function(d, i) {
+					d3.select("#path"+i)
+					   .transition()
+					   .duration(100)
+					   .attr("d", arcOver)             
+					   .attr("stroke-width",3);
+					
+					d3.select("#legend"+i)
+					  .transition()
+					  .duration(200)
+					  .attr('stroke-width',4);
+					  
+					d3.select("#legendText"+i)
+					  .transition()
+					  .duration(200)
+					  .style('stroke', '#FFFFFF')
+					  .attr('stroke-width',1);
+				})
+				.on("mouseleave", function(d, i) {
+					d3.select("#path"+i)
+					   .transition()            
+					   .attr("d", arc)
+					   .attr("stroke-width",0);
+					
+					d3.select("#legend"+i)
+					  .transition()
+					  .duration(200)
+					  .attr('stroke-width',0);
+					  
+					d3.select("#legendText"+i)
+					  .transition()
+					  .duration(200)
+					  .style('stroke', 'none')
+					  .attr('stroke-width',0);
+				});
+			
+			arcs.on("mouseenter", function(d, i) {
+					d3.select("#path"+i)
+					   .transition()
+					   .duration(100)
+					   .attr("d", arcOver)             
+					   .attr("stroke-width",3);
+					
+					d3.select("#legend"+i)
+					  .transition()
+					  .duration(200)
+					  .attr('stroke-width',4);
+					  
+					d3.select("#legendText"+i)
+					  .transition()
+					  .duration(200)
+					  .style('stroke', '#FFFFFF')
+					  .attr('stroke-width',1);
+				})
+				.on("mouseleave", function(d, i) {
+					d3.select("#path"+i)
+					   .transition()            
+					   .attr("d", arc)
+					   .attr("stroke-width",0);
+					
+					d3.select("#legend"+i)
+					  .transition()
+					  .duration(200)
+					  .attr('stroke-width',0);
+					  
+					d3.select("#legendText"+i)
+					  .transition()
+					  .duration(200)
+					  .style('stroke', 'none')
+					  .attr('stroke-width',0);
+				})
 	});
 	
 }

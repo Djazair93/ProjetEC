@@ -173,14 +173,14 @@ function creationDonut(paysName) {
 					.data([dataClub])
 					.attr("width", w)
 					.attr("height", h)
-					.style("margin-left","200px")
+					.style("margin-left","170px")
 					.append("svg:g")
 					.attr("transform", "translate(" + r + "," + r + ")");
 	
 		var pie = d3.layout.pie().value(function(d){return d.value;});
 
-		var arc = d3.svg.arc().outerRadius(r).innerRadius(r - 75);
-		var arcOver = d3.svg.arc().outerRadius(r).innerRadius(r - 90);
+		var arc = d3.svg.arc().outerRadius(r).innerRadius(r - 90);
+		var arcOver = d3.svg.arc().outerRadius(r).innerRadius(r - 120);
 
 		var arcs = vis.selectAll("g.slice")
 						.data(pie)

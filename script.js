@@ -6,8 +6,8 @@ function creationPie(donnees, paysVoulu){
     pieChart.append("h2")
         .html("Répartition des joueurs par championnats");
 	
-	var w = 575;
-	var h = 370;
+	var w = 470;
+	var h = 300;
 	var r = h/2;
 	var color = d3.scale.ordinal().range(["#F9690E","#FFB61E"]);
 	var legendRectSize = 18;
@@ -84,14 +84,14 @@ function creationPie(donnees, paysVoulu){
         legend.append('rect')    
           .attr('width', legendRectSize)           
           .attr('height', legendRectSize)
-          .attr('x', legendRectSize + legendSpacing+ 200)
-          .attr('y', legendRectSize - legendSpacing-165)
+          .attr('x', legendRectSize + legendSpacing+ 175)
+          .attr('y', legendRectSize - legendSpacing-55)
           .style('fill', color)
           .style('stroke', color);
           
         legend.append('text') 
-          .attr('x', legendRectSize*2 + legendSpacing+ 210)
-          .attr('y', legendRectSize - legendSpacing-155)
+          .attr('x', legendRectSize*2 + legendSpacing+ 180)
+          .attr('y', legendRectSize - legendSpacing-45)
 		  .style('fill', '#FFFFFF')
          /* .style('stroke', color)*/
           .text(function(d, i) {return data[i].label;}); 

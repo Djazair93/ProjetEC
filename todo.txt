@@ -1,6 +1,0 @@
-- Préciser quels joueurs jouent dans leur pays dans le barchat
-- Restreindre zoom max et min
-- Ne pas changer de couleur au passage sur un pays
-
-Bonus :
--Ajouter un graphe (Analyse âge? Primes?)

@@ -208,7 +208,7 @@ h1, h2, h3, h4 {
 
 /* donutChart */
 #donutChart {
-	margin :15px;
+	margin-bottom :15px;
 	float:left;
 	padding : 10px;
 	display:inline-block;
